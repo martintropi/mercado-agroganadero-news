@@ -1,35 +1,44 @@
-name: Actualizar Noticias Agrofy
+# .github/workflows/cron.yml
+name: Scrape Agrofy News
 
 on:
+  # Permite ejecutar este workflow manualmente desde la pestaña Actions en GitHub
+  workflow_dispatch:
+  # Ejecuta el workflow todos los días a las 5:00 AM UTC
   schedule:
-    - cron: '0 */2 * * *' # Se ejecuta cada 2 horas exactas
-  workflow_dispatch:      # Permite ejecutarlo manualmente con un botón
+    - cron: '0 5 * * *'
 
 jobs:
-  build:
+  scrape:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write     # Permiso explícito para que la Action pueda subir el JSON
-    steps:
-      - name: Checkout del repo
-        uses: actions/checkout@v4
 
-      - name: Configurar Python
+    steps:
+      # 1. Clona tu repositorio para tener acceso a tus archivos (scraper.py, etc.)
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      # 2. Configura el entorno de Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.10' # Puedes usar una versión más reciente si quieres
 
-      - name: Instalar dependencias
+      # 3. Instala las dependencias listadas en requirements.txt
+      - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
-
-      - name: Ejecutar el scraper
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      # 4. Ejecuta tu script de scraping
+      - name: Run scraper
         run: python scraper.py
 
-      - name: Commit y Push del JSON
+      # 5. Guarda los cambios (el nuevo noticias.json) en el repositorio
+      - name: Commit and push if there are changes
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add noticias.json
-          git commit -m "Actualización automática: $(date)" || exit 0
+          # Solo hace commit si hay cambios en el archivo
+          git diff --staged --quiet || git commit -m "Actualizar noticias (Automático)"
           git push
