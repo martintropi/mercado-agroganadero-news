@@ -1,51 +1,71 @@
 # .github/workflows/cron.yml
+
 name: Scrape Agrofy News
 
 on:
+  # Permite ejecutar este workflow manualmente desde la pestaña Actions en GitHub
   workflow_dispatch:
+  # Ejecuta el workflow todos los días a las 5:00 AM UTC
   schedule:
     - cron: '0 5 * * *'
 
+# Otorga permisos de escritura al workflow para que pueda hacer "push"
 permissions:
   contents: write
 
 jobs:
   scrape:
+    # Usa la última versión de Ubuntu disponible para los runners
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Clona tu repositorio para tener acceso a tus archivos
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Actualizado a v4 para consistencia
 
+      # 2. Configura el entorno de Python
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Actualizado a v5 para consistencia
         with:
           python-version: '3.10'
 
+      # 3. Instala las dependencias listadas en requirements.txt
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       
+      # 4. Ejecuta tu script de scraping.
+      # Se añade "|| true" para que el workflow no se detenga si el script falla.
+      # Esto es crucial para que el paso de "Upload debug artifact" se ejecute siempre.
       - name: Run scraper
-        # Usamos "|| true" para que el workflow continúe incluso si el script falla (exit(1))
-        # Esto nos asegura que el paso de subir el artefacto siempre se ejecute.
         run: python scraper.py || true
 
-      # --- AÑADE ESTE PASO ---
-      # Sube el archivo HTML de depuración como un "artefacto"
+      # 5. Sube el archivo HTML de depuración como un "artefacto".
+      # Esto nos permitirá descargar y ver el HTML que el scraper está recibiendo.
       - name: Upload debug artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: debug-html
           path: debug_page.html
-      # -------------------------
+          if-no-files-found: ignore # No falla si el archivo no se crea
 
+      # 6. Guarda los cambios (el nuevo noticias.json) en el repositorio.
+      # Este paso solo se ejecutará si el script scraper.py tuvo éxito y creó el archivo.
       - name: Commit and push if there are changes
         run: |
-          # (El resto del paso de commit se mantiene igual)
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add noticias.json
-          git diff --staged --quiet || git commit -m "Actualizar noticias (Automático)"
-          git push
+          # Solo añade noticias.json si existe
+          if [ -f noticias.json ]; then
+            git add noticias.json
+            # Solo hace commit si hay cambios para confirmar
+            if ! git diff --staged --quiet; then
+              git commit -m "Actualizar noticias (Automático)"
+              git push
+            else
+              echo "No hay cambios en noticias.json para hacer commit."
+            fi
+          else
+            echo "noticias.json no encontrado. Saltando el commit."
+          fi
