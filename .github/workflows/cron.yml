@@ -33,11 +33,13 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          # Limpiamos cualquier conflicto potencial y nos ponemos al día
-          git add noticias.json
-          git stash
+          
+          # 1. Traemos lo que haya en el servidor
           git pull origin main --rebase
-          git stash pop || echo "No había cambios locales en conflicto"
+          
+          # 2. Nos aseguramos de que el archivo generado por el script se incluya
           git add noticias.json
+          
+          # 3. Commit y Push forzado a la rama main
           git commit -m "Actualización automática de noticias" || echo "No hay cambios para subir"
           git push origin main
