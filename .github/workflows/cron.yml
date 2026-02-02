@@ -2,16 +2,19 @@ name: Actualizar Noticias Ganaderia
 
 on:
   schedule:
-    # Se ejecuta cada 2 horas
     - cron: '0 */2 * * *'
-  workflow_dispatch: # Permite ejecutarlo manualmente desde la web
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: # Esto asegura permisos de escritura desde el código
+      contents: write
     steps:
       - name: Checkout del repositorio
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Trae todo el historial para evitar conflictos
 
       - name: Configurar Python
         uses: actions/setup-python@v4
@@ -31,5 +34,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add noticias.json
+          # El comando 'pull --rebase' mezcla tus cambios web con los del bot sin errores
+          git pull --rebase origin main
           git commit -m "Actualización automática de noticias" || echo "No hay cambios para subir"
-          git push
+          git push origin main
