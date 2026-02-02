@@ -26,20 +26,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
+      - name: Sincronizar Repositorio
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git pull origin main --rebase
+
       - name: Ejecutar el scraper
         run: python scraper.py
 
       - name: Guardar cambios en el JSON
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          
-          # 1. Traemos lo que haya en el servidor
-          git pull origin main --rebase
-          
-          # 2. Nos aseguramos de que el archivo generado por el script se incluya
           git add noticias.json
-          
-          # 3. Commit y Push forzado a la rama main
           git commit -m "Actualización automática de noticias" || echo "No hay cambios para subir"
           git push origin main
