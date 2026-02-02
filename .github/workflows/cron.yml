@@ -6,43 +6,46 @@ on:
   schedule:
     - cron: '0 5 * * *'
 
-# --- AÑADE ESTE BLOQUE ---
-# Otorga permisos de escritura al workflow para que pueda hacer "push"
 permissions:
   contents: write
-# -------------------------
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Clona tu repositorio
       - name: Check out repository
         uses: actions/checkout@v3
 
-      # 2. Configura Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      # 3. Instala las dependencias
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       
-      # 4. Ejecuta tu script de scraping
       - name: Run scraper
-        run: python scraper.py
+        # Usamos "|| true" para que el workflow continúe incluso si el script falla (exit(1))
+        # Esto nos asegura que el paso de subir el artefacto siempre se ejecute.
+        run: python scraper.py || true
 
-      # 5. Guarda los cambios en el repositorio
+      # --- AÑADE ESTE PASO ---
+      # Sube el archivo HTML de depuración como un "artefacto"
+      - name: Upload debug artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: debug-html
+          path: debug_page.html
+      # -------------------------
+
       - name: Commit and push if there are changes
         run: |
+          # (El resto del paso de commit se mantiene igual)
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add noticias.json
-          # Solo hace commit si hay cambios en el archivo
           git diff --staged --quiet || git commit -m "Actualizar noticias (Automático)"
           git push
