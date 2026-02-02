@@ -1,0 +1,35 @@
+name: Actualizar Noticias Agrofy
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Se ejecuta cada 2 horas exactas
+  workflow_dispatch:      # Permite ejecutarlo manualmente con un botón
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # Permiso explícito para que la Action pueda subir el JSON
+    steps:
+      - name: Checkout del repo
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Instalar dependencias
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Ejecutar el scraper
+        run: python scraper.py
+
+      - name: Commit y Push del JSON
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add noticias.json
+          git commit -m "Actualización automática: $(date)" || exit 0
+          git push
