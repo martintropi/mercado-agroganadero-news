@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 def scraping_infocampo():
+    # URL específica de Ganadería
     url = "https://www.infocampo.com.ar/category/ganaderia/"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
@@ -15,29 +16,36 @@ def scraping_infocampo():
         soup = BeautifulSoup(response.text, 'html.parser')
         noticias_list = []
 
-        # Buscamos los contenedores de las noticias
-        # Infocampo suele usar <article> o divs con clases de posts
-        articulos = soup.find_all(['article', 'div'], class_=re.compile(r'post|item'), limit=10)
+        # 1. Apuntamos al contenedor principal de notas para NO traer el clima o laterales
+        # Infocampo suele usar esta clase para el listado central
+        contenedor_principal = soup.find('div', class_='elementor-posts-container') or soup
 
-        # Si no encuentra por clase, buscamos todos los bloques que tengan un link y una imagen
-        if not articulos:
-            articulos = soup.find_all('div', class_='elementor-post', limit=10)
+        # 2. Buscamos cada artículo dentro de ese contenedor
+        articulos = contenedor_principal.find_all(['article', 'div'], class_=re.compile(r'post|item'), limit=15)
 
         for art in articulos:
             a_tag = art.find('a', href=True)
             img_tag = art.find('img')
             
-            if a_tag and a_tag.get_text(strip=True):
-                titulo = a_tag.get_text(strip=True)
+            if a_tag:
+                # El título suele estar en un <h2> o en el texto del link
+                h2 = art.find('h2')
+                titulo = h2.get_text(strip=True) if h2 else a_tag.get_text(strip=True)
                 link = a_tag['href']
                 
-                # Extraer URL de imagen (buscamos en src o data-src por si hay lazy load)
+                # --- LÓGICA DE IMAGEN ---
                 img_url = ""
                 if img_tag:
-                    img_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('srcset', '').split(' ')[0]
+                    # Buscamos en orden de prioridad para evitar el 'lazy load' (imágenes que cargan después)
+                    img_url = (img_tag.get('data-src') or 
+                               img_tag.get('src') or 
+                               img_tag.get('srcset', '').split(' ')[0])
 
-                # Filtro para asegurar que sea una noticia y no un link suelto
-                if "/ganaderia/" in link and len(titulo) > 25:
+                # --- FILTROS CRÍTICOS ---
+                # 1. Que el título no sea muy corto
+                # 2. Que NO sea una categoría
+                # 3. Que NO sea clima (a menos que esté en ganadería)
+                if len(titulo) > 30 and "/category/" not in link:
                     if not any(n['url'] == link for n in noticias_list):
                         noticias_list.append({
                             "titulo": titulo,
@@ -48,20 +56,15 @@ def scraping_infocampo():
             if len(noticias_list) >= 6:
                 break
 
-        # Si el método anterior no capturó imágenes, usamos un respaldo rápido
-        if not any(n.get('imagen') for n in noticias_list):
-            print("Buscando imágenes con método de respaldo...")
-            # (Lógica extra para asegurar que no queden vacías si el sitio cambia)
-
+        # Guardar en archivo
         with open('noticias.json', 'w', encoding='utf-8') as f:
             json.dump(noticias_list, f, ensure_ascii=False, indent=4)
         
-        print(f"ÉXITO: {len(noticias_list)} noticias con imagen procesadas.")
+        print(f"ÉXITO: {len(noticias_list)} noticias de GANADERÍA con imagen guardadas.")
 
     except Exception as e:
-        import re # Importamos re por si la clase usa regex
         print(f"Error: {e}")
 
 if __name__ == "__main__":
-    import re
+    import re # Necesario para el re.compile
     scraping_infocampo()
