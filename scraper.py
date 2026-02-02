@@ -15,42 +15,35 @@ def scraping_infocampo():
         soup = BeautifulSoup(response.text, 'html.parser')
         noticias_list = []
 
-        # Infocampo organiza sus noticias en etiquetas <article>
-        articulos = soup.find_all('article', limit=6)
+        # Buscamos TODOS los enlaces <a> en la página
+        enlaces = soup.find_all('a', href=True)
 
-        for art in articulos:
-            # Buscamos el link y el título dentro del artículo
-            h2_tag = art.find('h2')
-            a_tag = art.find('a')
+        for link in enlaces:
+            url_noticia = link['href']
+            # Filtro: debe tener 'ganaderia' en la URL y el texto debe ser largo (un título)
+            # También evitamos que sea solo el link a la categoría
+            titulo = link.get_text(strip=True)
             
-            if h2_tag and a_tag:
-                titulo = h2_tag.get_text(strip=True)
-                link = a_tag['href']
-                
-                noticias_list.append({
-                    "titulo": titulo,
-                    "url": link
-                })
-
-        # Si el método anterior falla, probamos con una clase común en su diseño
-        if not noticias_list:
-            items = soup.select('.post-item', limit=6)
-            for item in items:
-                link = item.find('a')
-                if link:
+            if "/ganaderia/" in url_noticia and len(titulo) > 30:
+                # Evitar que se guarden repetidos
+                if not any(n['url'] == url_noticia for n in noticias_list):
                     noticias_list.append({
-                        "titulo": link.get_text(strip=True),
-                        "url": link['href']
+                        "titulo": titulo,
+                        "url": url_noticia
                     })
+            
+            # Frenamos cuando tengamos 6
+            if len(noticias_list) >= 6:
+                break
 
-        # Guardar en JSON
+        # Guardar en archivo
         with open('noticias.json', 'w', encoding='utf-8') as f:
             json.dump(noticias_list, f, ensure_ascii=False, indent=4)
         
         print(f"ÉXITO: {len(noticias_list)} noticias de Infocampo guardadas.")
 
     except Exception as e:
-        print(f"Error en Infocampo: {e}")
+        print(f"Error: {e}")
 
 if __name__ == "__main__":
     scraping_infocampo()
