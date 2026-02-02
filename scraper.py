@@ -1,61 +1,56 @@
 import requests
+from bs4 import BeautifulSoup
 import json
 
-def scraping_agrofy():
-    # Consultamos directamente a la API de contenido de Agrofy
-    # Esta URL devuelve un JSON puro con las últimas noticias
-    api_url = "https://news.agrofy.com.ar/_next/data/latest/ganaderia.json"
-    
+def scraping_infocampo():
+    url = "https://www.infocampo.com.ar/category/ganaderia/"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-        "Accept": "application/json"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
     }
 
     try:
-        response = requests.get(api_url, headers=headers, timeout=20)
+        response = requests.get(url, headers=headers, timeout=20)
+        response.raise_for_status()
         
-        # Si la API directa falla (a veces el token 'latest' cambia), usamos el respaldo
-        if response.status_code != 200:
-            print(f"API principal falló ({response.status_code}), intentando método alternativo...")
-            # Intentamos la URL normal pero pidiendo solo el contenido JSON
-            response = requests.get("https://news.agrofy.com.ar/ganaderia", headers=headers)
-        
+        soup = BeautifulSoup(response.text, 'html.parser')
         noticias_list = []
-        
-        # Intentamos extraer del JSON de la respuesta
-        try:
-            data = response.json()
-            # Navegamos la estructura de datos de Next.js
-            posts = data.get('pageProps', {}).get('posts', [])
-            for p in posts[:6]:
+
+        # Infocampo organiza sus noticias en etiquetas <article>
+        articulos = soup.find_all('article', limit=6)
+
+        for art in articulos:
+            # Buscamos el link y el título dentro del artículo
+            h2_tag = art.find('h2')
+            a_tag = art.find('a')
+            
+            if h2_tag and a_tag:
+                titulo = h2_tag.get_text(strip=True)
+                link = a_tag['href']
+                
                 noticias_list.append({
-                    "titulo": p.get('title'),
-                    "url": f"https://news.agrofy.com.ar{p.get('url')}"
+                    "titulo": titulo,
+                    "url": link
                 })
-        except:
-            # Si no es un JSON directo, buscamos el bloque dentro del HTML
-            import re
-            match = re.search(r'id="__NEXT_DATA__"[^>]*>({.*?})</script>', response.text)
-            if match:
-                data = json.loads(match.group(1))
-                posts = data.get('props', {}).get('pageProps', {}).get('posts', [])
-                for p in posts[:6]:
+
+        # Si el método anterior falla, probamos con una clase común en su diseño
+        if not noticias_list:
+            items = soup.select('.post-item', limit=6)
+            for item in items:
+                link = item.find('a')
+                if link:
                     noticias_list.append({
-                        "titulo": p.get('title'),
-                        "url": f"https://news.agrofy.com.ar{p.get('url')}"
+                        "titulo": link.get_text(strip=True),
+                        "url": link['href']
                     })
 
-        # Guardar en archivo
+        # Guardar en JSON
         with open('noticias.json', 'w', encoding='utf-8') as f:
             json.dump(noticias_list, f, ensure_ascii=False, indent=4)
         
-        if noticias_list:
-            print(f"¡LOGRADO! {len(noticias_list)} noticias guardadas.")
-        else:
-            print("No se encontraron noticias en la estructura de datos.")
+        print(f"ÉXITO: {len(noticias_list)} noticias de Infocampo guardadas.")
 
     except Exception as e:
-        print(f"Error técnico: {e}")
+        print(f"Error en Infocampo: {e}")
 
 if __name__ == "__main__":
-    scraping_agrofy()
+    scraping_infocampo()
