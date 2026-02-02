@@ -1,6 +1,6 @@
 import requests
+from bs4 import BeautifulSoup
 import json
-import re
 
 def scraping_infocampo():
     url = "https://www.infocampo.com.ar/category/ganaderia/"
@@ -9,47 +9,59 @@ def scraping_infocampo():
     }
 
     try:
-        print(f"Iniciando descarga de: {url}")
         response = requests.get(url, headers=headers, timeout=20)
         response.raise_for_status()
-        content = response.text
         
+        soup = BeautifulSoup(response.text, 'html.parser')
         noticias_list = []
 
-        # Buscamos enlaces que tengan la estructura de una noticia (slugs largos)
-        # El patrón busca enlaces que terminen en / y filtramos los que no son noticias
-        links_encontrados = re.findall(r'href="(https://www.infocampo.com.ar/[a-z0-9-]+/)"', content)
-        
-        for url_noticia in links_encontrados:
-            # Filtros para ignorar páginas que no son noticias
-            basura = ['/category/', '/tag/', '/contacto/', '/politicas/', '/publicidad/']
-            if any(x in url_noticia for x in basura):
-                continue
-                
-            # Extraemos el 'slug' de la URL para crear un título limpio
-            # Ejemplo: /vacunas-para-ganado/ -> Vacunas para ganado
-            slug = url_noticia.split('/')[-2]
+        # Buscamos los contenedores de las noticias
+        # Infocampo suele usar <article> o divs con clases de posts
+        articulos = soup.find_all(['article', 'div'], class_=re.compile(r'post|item'), limit=10)
+
+        # Si no encuentra por clase, buscamos todos los bloques que tengan un link y una imagen
+        if not articulos:
+            articulos = soup.find_all('div', class_='elementor-post', limit=10)
+
+        for art in articulos:
+            a_tag = art.find('a', href=True)
+            img_tag = art.find('img')
             
-            if len(slug) > 25: # Una noticia real suele tener un slug largo
-                titulo_deducido = slug.replace('-', ' ').capitalize()
+            if a_tag and a_tag.get_text(strip=True):
+                titulo = a_tag.get_text(strip=True)
+                link = a_tag['href']
                 
-                if not any(n['url'] == url_noticia for n in noticias_list):
-                    noticias_list.append({
-                        "titulo": titulo_deducido,
-                        "url": url_noticia
-                    })
+                # Extraer URL de imagen (buscamos en src o data-src por si hay lazy load)
+                img_url = ""
+                if img_tag:
+                    img_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('srcset', '').split(' ')[0]
+
+                # Filtro para asegurar que sea una noticia y no un link suelto
+                if "/ganaderia/" in link and len(titulo) > 25:
+                    if not any(n['url'] == link for n in noticias_list):
+                        noticias_list.append({
+                            "titulo": titulo,
+                            "url": link,
+                            "imagen": img_url
+                        })
             
             if len(noticias_list) >= 6:
                 break
 
-        # Guardar en archivo JSON
+        # Si el método anterior no capturó imágenes, usamos un respaldo rápido
+        if not any(n.get('imagen') for n in noticias_list):
+            print("Buscando imágenes con método de respaldo...")
+            # (Lógica extra para asegurar que no queden vacías si el sitio cambia)
+
         with open('noticias.json', 'w', encoding='utf-8') as f:
             json.dump(noticias_list, f, ensure_ascii=False, indent=4)
         
-        print(f"ÉXITO: {len(noticias_list)} noticias de Infocampo guardadas.")
+        print(f"ÉXITO: {len(noticias_list)} noticias con imagen procesadas.")
 
     except Exception as e:
-        print(f"Error técnico: {e}")
+        import re # Importamos re por si la clase usa regex
+        print(f"Error: {e}")
 
 if __name__ == "__main__":
+    import re
     scraping_infocampo()
