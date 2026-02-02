@@ -3,20 +3,18 @@ from bs4 import BeautifulSoup
 import json
 
 def scraping_agrofy():
-    # El RSS es la puerta trasera oficial para leer noticias sin bloqueos
+    # El Feed RSS es el camino más estable y amigable
     url = "https://news.agrofy.com.ar/ganaderia/feed"
-    
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
 
     try:
         response = requests.get(url, headers=headers, timeout=20)
-        # El RSS es XML, no HTML
-        soup = BeautifulSoup(response.content, features="xml")
+        # Usamos 'lxml-xml' que es el parser que agregamos en requirements
+        soup = BeautifulSoup(response.content, "lxml-xml")
         
         noticias_list = []
-        # En RSS, cada noticia es un <item>
         items = soup.find_all('item')
 
         for item in items[:6]:
