@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El cerdo engorda sus estadísticas: el Gobierno celebró el récord de faena y consumo logrado en 2025",
+        "url": "https://www.infocampo.com.ar/el-cerdo-engorda-sus-estadisticas-el-gobierno-celebro-el-record-de-faena-y-consumo-logrado-en-2025/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/cerdo-lechon-porcino-sagyp-1024x584.png"
+    },
+    {
         "titulo": "La recría gana protagonismo y se articula con el feedlot: los datos que anticipan un nuevo mapa ganadero",
         "url": "https://www.infocampo.com.ar/la-recria-gana-protagonismo-y-se-articula-con-el-feedlot-los-datos-que-anticipan-un-nuevo-mapa-ganadero/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/tres-baren.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "La cadena porcina busca un plan para exportar más: “Es el motor que falta para pensar en un crecimiento sostenible”",
         "url": "https://www.infocampo.com.ar/la-cadena-porcina-busca-un-plan-para-exportar-mas-es-el-motor-que-falta-para-pensar-en-un-crecimiento-sostenible/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/05/porcinos-fundacion-mediterranea.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/05/porcinos-fundacion-mediterranea-450x257.jpg"
     },
     {
         "titulo": "Las exportaciones de carne vuelan: Córdoba marca un nuevo hito con un envío aéreo a Europa",
@@ -23,10 +28,5 @@
         "titulo": "Abomasitis en bovinos: claves para enfrentar una amenaza invisible en la cría",
         "url": "https://www.infocampo.com.ar/abomasitis-en-bovinos-claves-para-enfrentar-una-amenaza-invisible-en-la-cria/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/ternero-provimi-450x257.png"
-    },
-    {
-        "titulo": "Carne a EEUU: sin novedades del cupo “extendido”, el Gobierno repartió el vigente de 20.000 toneladas",
-        "url": "https://www.infocampo.com.ar/carne-a-eeuu-sin-novedades-del-cupo-extendido-el-gobierno-repartio-el-vigente-de-20-000-toneladas/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/02/carne-envasada2-450x257.jpg"
     }
 ]
