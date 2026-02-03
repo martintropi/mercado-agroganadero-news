@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La recría gana protagonismo y se articula con el feedlot: los datos que anticipan un nuevo mapa ganadero",
+        "url": "https://www.infocampo.com.ar/la-recria-gana-protagonismo-y-se-articula-con-el-feedlot-los-datos-que-anticipan-un-nuevo-mapa-ganadero/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/tres-baren.jpeg"
+    },
+    {
         "titulo": "“Superó las expectativas”: balance positivo para la carne argentina en la Gulfood 2026",
         "url": "https://www.infocampo.com.ar/supero-las-expectativas-balance-positivo-para-la-carne-argentina-en-la-gulfood-2026/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/IMG_7702.JPG-1-scaled-e1769817847819-1024x585.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Las exportaciones de carne vuelan: Córdoba marca un nuevo hito con un envío aéreo a Europa",
         "url": "https://www.infocampo.com.ar/las-exportaciones-de-carne-vuelan-cordoba-marca-un-nuevo-hito-con-un-envio-aereo-a-europa/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/logros-camion-aeropuerto-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/logros-camion-aeropuerto-450x257.png"
     },
     {
         "titulo": "Abomasitis en bovinos: claves para enfrentar una amenaza invisible en la cría",
@@ -23,10 +28,5 @@
         "titulo": "Carne a EEUU: sin novedades del cupo “extendido”, el Gobierno repartió el vigente de 20.000 toneladas",
         "url": "https://www.infocampo.com.ar/carne-a-eeuu-sin-novedades-del-cupo-extendido-el-gobierno-repartio-el-vigente-de-20-000-toneladas/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/02/carne-envasada2-450x257.jpg"
-    },
-    {
-        "titulo": "El año de los récords: ¿cómo hizo la carne vacuna para lograr su mayor ingreso de divisas de la historia?",
-        "url": "https://www.infocampo.com.ar/el-ano-de-los-records-como-hizo-la-carne-vacuna-para-lograr-su-mayor-ingreso-de-divisas-de-la-historia/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/embarque-de-carne-450x257.jpg"
     }
 ]
