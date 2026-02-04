@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El “cambio cultural” que fortalece a la ganadería: “Quedó atrás la idea de que la carne debe tener un precio político”",
+        "url": "https://www.infocampo.com.ar/el-cambio-cultural-que-fortalece-a-la-ganaderia-quedo-atras-la-idea-de-que-la-carne-debe-tener-un-precio-politico/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/bovinos-rosgan-1024x584.png"
+    },
+    {
         "titulo": "El cerdo engorda sus estadísticas: el Gobierno celebró el récord de faena y consumo logrado en 2025",
         "url": "https://www.infocampo.com.ar/el-cerdo-engorda-sus-estadisticas-el-gobierno-celebro-el-record-de-faena-y-consumo-logrado-en-2025/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/cerdo-lechon-porcino-sagyp-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "“Superó las expectativas”: balance positivo para la carne argentina en la Gulfood 2026",
         "url": "https://www.infocampo.com.ar/supero-las-expectativas-balance-positivo-para-la-carne-argentina-en-la-gulfood-2026/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/IMG_7702.JPG-1-scaled-e1769817847819-1024x585.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/IMG_7702.JPG-1-scaled-e1769817847819-450x257.jpeg"
     },
     {
         "titulo": "La cadena porcina busca un plan para exportar más: “Es el motor que falta para pensar en un crecimiento sostenible”",
@@ -23,10 +28,5 @@
         "titulo": "Las exportaciones de carne vuelan: Córdoba marca un nuevo hito con un envío aéreo a Europa",
         "url": "https://www.infocampo.com.ar/las-exportaciones-de-carne-vuelan-cordoba-marca-un-nuevo-hito-con-un-envio-aereo-a-europa/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/logros-camion-aeropuerto-450x257.png"
-    },
-    {
-        "titulo": "Abomasitis en bovinos: claves para enfrentar una amenaza invisible en la cría",
-        "url": "https://www.infocampo.com.ar/abomasitis-en-bovinos-claves-para-enfrentar-una-amenaza-invisible-en-la-cria/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/ternero-provimi-450x257.png"
     }
 ]
