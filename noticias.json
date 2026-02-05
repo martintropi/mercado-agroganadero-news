@@ -1,5 +1,15 @@
 [
     {
+        "titulo": "El consumo de carnes aumentó 3,8% en Argentina y llegó a 116,4 kilos por habitante en 2025",
+        "url": "https://www.infocampo.com.ar/el-consumo-de-carnes-aumento-38-en-argentina-y-llego-a-1164-kilos-por-habitante-en-2025/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/carne-cerdo-1024x584.png"
+    },
+    {
+        "titulo": "Ovinos de exportación: Santa Cruz avanza con un plan para enviar animales en pie a Kuwait",
+        "url": "https://www.infocampo.com.ar/ovinos-de-exportacion-santa-cruz-avanza-con-un-plan-para-enviar-animales-en-pie-a-kuwait/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/santa-cruz.jpeg"
+    },
+    {
         "titulo": "El “cambio cultural” que fortalece a la ganadería: “Quedó atrás la idea de que la carne debe tener un precio político”",
         "url": "https://www.infocampo.com.ar/el-cambio-cultural-que-fortalece-a-la-ganaderia-quedo-atras-la-idea-de-que-la-carne-debe-tener-un-precio-politico/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/bovinos-rosgan-1024x584.png"
@@ -7,26 +17,16 @@
     {
         "titulo": "El cerdo engorda sus estadísticas: el Gobierno celebró el récord de faena y consumo logrado en 2025",
         "url": "https://www.infocampo.com.ar/el-cerdo-engorda-sus-estadisticas-el-gobierno-celebro-el-record-de-faena-y-consumo-logrado-en-2025/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/cerdo-lechon-porcino-sagyp-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/cerdo-lechon-porcino-sagyp-450x257.png"
     },
     {
         "titulo": "La recría gana protagonismo y se articula con el feedlot: los datos que anticipan un nuevo mapa ganadero",
         "url": "https://www.infocampo.com.ar/la-recria-gana-protagonismo-y-se-articula-con-el-feedlot-los-datos-que-anticipan-un-nuevo-mapa-ganadero/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/tres-baren.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/tres-baren-450x256.jpeg"
     },
     {
         "titulo": "“Superó las expectativas”: balance positivo para la carne argentina en la Gulfood 2026",
         "url": "https://www.infocampo.com.ar/supero-las-expectativas-balance-positivo-para-la-carne-argentina-en-la-gulfood-2026/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/IMG_7702.JPG-1-scaled-e1769817847819-450x257.jpeg"
-    },
-    {
-        "titulo": "La cadena porcina busca un plan para exportar más: “Es el motor que falta para pensar en un crecimiento sostenible”",
-        "url": "https://www.infocampo.com.ar/la-cadena-porcina-busca-un-plan-para-exportar-mas-es-el-motor-que-falta-para-pensar-en-un-crecimiento-sostenible/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/05/porcinos-fundacion-mediterranea-450x257.jpg"
-    },
-    {
-        "titulo": "Las exportaciones de carne vuelan: Córdoba marca un nuevo hito con un envío aéreo a Europa",
-        "url": "https://www.infocampo.com.ar/las-exportaciones-de-carne-vuelan-cordoba-marca-un-nuevo-hito-con-un-envio-aereo-a-europa/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/logros-camion-aeropuerto-450x257.png"
     }
 ]
