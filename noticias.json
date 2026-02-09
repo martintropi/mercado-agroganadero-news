@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "A la sombra de los algarrobos, un modelo innovador de ganadería regenerativa crece en Santa Fe",
+        "url": "https://www.infocampo.com.ar/a-la-sombra-de-los-algarrobos-un-modelo-innovador-de-ganaderia-regenerativa-crece-en-santa-fe/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/foto1.jpg"
+    },
+    {
         "titulo": "La alegría es ganadera: euforia en la cadena bovina por el acuerdo comercial con Estados Unidos",
         "url": "https://www.infocampo.com.ar/la-alegria-es-ganadera-euforia-en-la-cadena-bovina-por-el-acuerdo-comercial-con-estados-unidos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/10/bife-carne-eeuu-arg-ia.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Ovinos de exportación: Santa Cruz avanza con un plan para enviar animales en pie a Kuwait",
         "url": "https://www.infocampo.com.ar/ovinos-de-exportacion-santa-cruz-avanza-con-un-plan-para-enviar-animales-en-pie-a-kuwait/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/santa-cruz.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/santa-cruz-450x257.jpeg"
     },
     {
         "titulo": "El “cambio cultural” que fortalece a la ganadería: “Quedó atrás la idea de que la carne debe tener un precio político”",
@@ -23,10 +28,5 @@
         "titulo": "El cerdo engorda sus estadísticas: el Gobierno celebró el récord de faena y consumo logrado en 2025",
         "url": "https://www.infocampo.com.ar/el-cerdo-engorda-sus-estadisticas-el-gobierno-celebro-el-record-de-faena-y-consumo-logrado-en-2025/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/cerdo-lechon-porcino-sagyp-450x257.png"
-    },
-    {
-        "titulo": "La recría gana protagonismo y se articula con el feedlot: los datos que anticipan un nuevo mapa ganadero",
-        "url": "https://www.infocampo.com.ar/la-recria-gana-protagonismo-y-se-articula-con-el-feedlot-los-datos-que-anticipan-un-nuevo-mapa-ganadero/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/tres-baren-450x256.jpeg"
     }
 ]
