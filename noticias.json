@@ -1,5 +1,15 @@
 [
     {
+        "titulo": "Auditorías productivas: transformar la rentabilidad ganadera con “ojos críticos desde el potrero”",
+        "url": "https://www.infocampo.com.ar/auditorias-productivas-transformar-la-rentabilidad-ganadera-con-ojos-criticos-desde-el-potrero/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/primera.jpg"
+    },
+    {
+        "titulo": "Agroexportaciones: a partir de marzo, la carne aviar argentina regresa al mercado europeo",
+        "url": "https://www.infocampo.com.ar/agroexportaciones-a-partir-de-marzo-la-carne-aviar-argentina-regresa-al-mercado-europeo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/carne-aviar-frigorifico-1024x584.png"
+    },
+    {
         "titulo": "La ganadería pone proa hacia la eficiencia: “El desafío 2026 es productivista”",
         "url": "https://www.infocampo.com.ar/la-ganaderia-pone-proa-hacia-la-eficiencia-productiva-el-desafio-2026-es-productivista/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/04/angus-cuenca-salado-1024x584.png"
@@ -7,26 +17,16 @@
     {
         "titulo": "A la sombra de los algarrobos, un modelo innovador de ganadería regenerativa crece en Santa Fe",
         "url": "https://www.infocampo.com.ar/a-la-sombra-de-los-algarrobos-un-modelo-innovador-de-ganaderia-regenerativa-crece-en-santa-fe/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/foto1.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/foto1-450x257.jpg"
     },
     {
         "titulo": "La alegría es ganadera: euforia en la cadena bovina por el acuerdo comercial con Estados Unidos",
         "url": "https://www.infocampo.com.ar/la-alegria-es-ganadera-euforia-en-la-cadena-bovina-por-el-acuerdo-comercial-con-estados-unidos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/10/bife-carne-eeuu-arg-ia.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/10/bife-carne-eeuu-arg-ia-450x257.png"
     },
     {
         "titulo": "El consumo de carnes aumentó 3,8% en Argentina y llegó a 116,4 kilos por habitante en 2025",
         "url": "https://www.infocampo.com.ar/el-consumo-de-carnes-aumento-38-en-argentina-y-llego-a-1164-kilos-por-habitante-en-2025/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/carne-cerdo-450x257.png"
-    },
-    {
-        "titulo": "Ovinos de exportación: Santa Cruz avanza con un plan para enviar animales en pie a Kuwait",
-        "url": "https://www.infocampo.com.ar/ovinos-de-exportacion-santa-cruz-avanza-con-un-plan-para-enviar-animales-en-pie-a-kuwait/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/santa-cruz-450x257.jpeg"
-    },
-    {
-        "titulo": "El “cambio cultural” que fortalece a la ganadería: “Quedó atrás la idea de que la carne debe tener un precio político”",
-        "url": "https://www.infocampo.com.ar/el-cambio-cultural-que-fortalece-a-la-ganaderia-quedo-atras-la-idea-de-que-la-carne-debe-tener-un-precio-politico/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/bovinos-rosgan-450x257.png"
     }
 ]
