@@ -1,5 +1,15 @@
 [
     {
+        "titulo": "La faena bovina no corta la racha negativa: arrancó 2026 con una nueva caída",
+        "url": "https://www.infocampo.com.ar/la-faena-bovina-no-corta-la-racha-negativa-arranco-2026-con-una-nueva-caida/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/02/faena-frigorifico-ganaderia.jpg"
+    },
+    {
+        "titulo": "En pureza y cruzamientos: el Bovino Criollo pisa fuerte para potenciar la calidad de los rodeos",
+        "url": "https://www.infocampo.com.ar/en-pureza-y-cruzamientos-el-bovino-criollo-pisa-fuerte-para-potenciar-la-calidad-de-los-rodeos/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/criollo1.jpg"
+    },
+    {
         "titulo": "“Un orgullo para toda la ganadería”: desde el sudoeste bonaerense salió otro toro campeón del mundo",
         "url": "https://www.infocampo.com.ar/un-orgullo-para-toda-la-ganaderia-desde-el-sudoeste-bonaerense-salio-otro-toro-campeon-del-mundo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/toro-murray-grey-1024x584.png"
@@ -7,26 +17,16 @@
     {
         "titulo": "Auditorías productivas: transformar la rentabilidad ganadera con “ojos críticos desde el potrero”",
         "url": "https://www.infocampo.com.ar/auditorias-productivas-transformar-la-rentabilidad-ganadera-con-ojos-criticos-desde-el-potrero/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/primera.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/primera-450x256.jpg"
     },
     {
         "titulo": "Agroexportaciones: a partir de marzo, la carne aviar argentina regresa al mercado europeo",
         "url": "https://www.infocampo.com.ar/agroexportaciones-a-partir-de-marzo-la-carne-aviar-argentina-regresa-al-mercado-europeo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/carne-aviar-frigorifico-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/carne-aviar-frigorifico-450x257.png"
     },
     {
         "titulo": "La ganadería pone proa hacia la eficiencia: “El desafío 2026 es productivista”",
         "url": "https://www.infocampo.com.ar/la-ganaderia-pone-proa-hacia-la-eficiencia-productiva-el-desafio-2026-es-productivista/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/04/angus-cuenca-salado-450x257.png"
-    },
-    {
-        "titulo": "A la sombra de los algarrobos, un modelo innovador de ganadería regenerativa crece en Santa Fe",
-        "url": "https://www.infocampo.com.ar/a-la-sombra-de-los-algarrobos-un-modelo-innovador-de-ganaderia-regenerativa-crece-en-santa-fe/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/foto1-450x257.jpg"
-    },
-    {
-        "titulo": "La alegría es ganadera: euforia en la cadena bovina por el acuerdo comercial con Estados Unidos",
-        "url": "https://www.infocampo.com.ar/la-alegria-es-ganadera-euforia-en-la-cadena-bovina-por-el-acuerdo-comercial-con-estados-unidos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/10/bife-carne-eeuu-arg-ia-450x257.png"
     }
 ]
