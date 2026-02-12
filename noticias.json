@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El ternero sube con fuerza y pone más presión a los precios ganaderos: superó los U$S 4 por kilo",
+        "url": "https://www.infocampo.com.ar/el-ternero-sube-con-fuerza-y-pone-mas-presion-a-los-precios-ganaderos-supero-los-us-4-por-kilo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/remate-rosgan-terneros-1024x584.png"
+    },
+    {
         "titulo": "La faena bovina no corta la racha negativa: arrancó 2026 con una nueva caída",
         "url": "https://www.infocampo.com.ar/la-faena-bovina-no-corta-la-racha-negativa-arranco-2026-con-una-nueva-caida/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/02/faena-frigorifico-ganaderia.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "“Un orgullo para toda la ganadería”: desde el sudoeste bonaerense salió otro toro campeón del mundo",
         "url": "https://www.infocampo.com.ar/un-orgullo-para-toda-la-ganaderia-desde-el-sudoeste-bonaerense-salio-otro-toro-campeon-del-mundo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/toro-murray-grey-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/toro-murray-grey-450x257.png"
     },
     {
         "titulo": "Auditorías productivas: transformar la rentabilidad ganadera con “ojos críticos desde el potrero”",
@@ -23,10 +28,5 @@
         "titulo": "Agroexportaciones: a partir de marzo, la carne aviar argentina regresa al mercado europeo",
         "url": "https://www.infocampo.com.ar/agroexportaciones-a-partir-de-marzo-la-carne-aviar-argentina-regresa-al-mercado-europeo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/carne-aviar-frigorifico-450x257.png"
-    },
-    {
-        "titulo": "La ganadería pone proa hacia la eficiencia: “El desafío 2026 es productivista”",
-        "url": "https://www.infocampo.com.ar/la-ganaderia-pone-proa-hacia-la-eficiencia-productiva-el-desafio-2026-es-productivista/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/04/angus-cuenca-salado-450x257.png"
     }
 ]
