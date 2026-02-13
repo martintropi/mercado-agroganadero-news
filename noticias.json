@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La luz amarilla de la sequía también llega a la carne: un dolor de cabeza en medio del “boom” ganadero",
+        "url": "https://www.infocampo.com.ar/la-luz-amarilla-de-la-sequia-tambien-llega-a-la-carne-un-dolor-de-cabeza-en-medio-del-boom-ganadero/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/P4221123.jpg"
+    },
+    {
         "titulo": "El ternero sube con fuerza y pone más presión a los precios ganaderos: superó los U$S 4 por kilo",
         "url": "https://www.infocampo.com.ar/el-ternero-sube-con-fuerza-y-pone-mas-presion-a-los-precios-ganaderos-supero-los-us-4-por-kilo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/remate-rosgan-terneros-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "En pureza y cruzamientos: el Bovino Criollo pisa fuerte para potenciar la calidad de los rodeos",
         "url": "https://www.infocampo.com.ar/en-pureza-y-cruzamientos-el-bovino-criollo-pisa-fuerte-para-potenciar-la-calidad-de-los-rodeos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/criollo1.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/criollo1-450x257.jpg"
     },
     {
         "titulo": "“Un orgullo para toda la ganadería”: desde el sudoeste bonaerense salió otro toro campeón del mundo",
@@ -23,10 +28,5 @@
         "titulo": "Auditorías productivas: transformar la rentabilidad ganadera con “ojos críticos desde el potrero”",
         "url": "https://www.infocampo.com.ar/auditorias-productivas-transformar-la-rentabilidad-ganadera-con-ojos-criticos-desde-el-potrero/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/primera-450x256.jpg"
-    },
-    {
-        "titulo": "Agroexportaciones: a partir de marzo, la carne aviar argentina regresa al mercado europeo",
-        "url": "https://www.infocampo.com.ar/agroexportaciones-a-partir-de-marzo-la-carne-aviar-argentina-regresa-al-mercado-europeo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/carne-aviar-frigorifico-450x257.png"
     }
 ]
