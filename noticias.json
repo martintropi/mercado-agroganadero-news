@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El debate por el precio de la carne: por qué se disparó en los últimos meses y cuánto más puede subir",
+        "url": "https://www.infocampo.com.ar/el-debate-por-el-precio-de-la-carne-por-que-se-disparo-en-los-ultimos-meses-y-cuanto-mas-puede-subir/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2021/05/carniceria-infocampo-2.jpg"
+    },
+    {
         "titulo": "La luz amarilla de la sequía también llega a la carne: un dolor de cabeza en medio del “boom” ganadero",
         "url": "https://www.infocampo.com.ar/la-luz-amarilla-de-la-sequia-tambien-llega-a-la-carne-un-dolor-de-cabeza-en-medio-del-boom-ganadero/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/P4221123.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "La faena bovina no corta la racha negativa: arrancó 2026 con una nueva caída",
         "url": "https://www.infocampo.com.ar/la-faena-bovina-no-corta-la-racha-negativa-arranco-2026-con-una-nueva-caida/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/02/faena-frigorifico-ganaderia.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/02/faena-frigorifico-ganaderia-300x171.jpg"
     },
     {
         "titulo": "En pureza y cruzamientos: el Bovino Criollo pisa fuerte para potenciar la calidad de los rodeos",
@@ -23,10 +28,5 @@
         "titulo": "“Un orgullo para toda la ganadería”: desde el sudoeste bonaerense salió otro toro campeón del mundo",
         "url": "https://www.infocampo.com.ar/un-orgullo-para-toda-la-ganaderia-desde-el-sudoeste-bonaerense-salio-otro-toro-campeon-del-mundo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/toro-murray-grey-450x257.png"
-    },
-    {
-        "titulo": "Auditorías productivas: transformar la rentabilidad ganadera con “ojos críticos desde el potrero”",
-        "url": "https://www.infocampo.com.ar/auditorias-productivas-transformar-la-rentabilidad-ganadera-con-ojos-criticos-desde-el-potrero/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/primera-450x256.jpg"
     }
 ]
