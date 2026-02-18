@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La producción de carne porcina sigue creciendo y suple el retroceso de la bovina",
+        "url": "https://www.infocampo.com.ar/la-produccion-de-carne-porcina-sigue-creciendo-y-suple-el-retroceso-de-la-bovina/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/04/Faena-Cerdos.jpg"
+    },
+    {
         "titulo": "El debate por el precio de la carne: por qué se disparó en los últimos meses y cuánto más puede subir",
         "url": "https://www.infocampo.com.ar/el-debate-por-el-precio-de-la-carne-por-que-se-disparo-en-los-ultimos-meses-y-cuanto-mas-puede-subir/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2021/05/carniceria-infocampo-2.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "El ternero sube con fuerza y pone más presión a los precios ganaderos: superó los U$S 4 por kilo",
         "url": "https://www.infocampo.com.ar/el-ternero-sube-con-fuerza-y-pone-mas-presion-a-los-precios-ganaderos-supero-los-us-4-por-kilo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/remate-rosgan-terneros-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/remate-rosgan-terneros-450x257.png"
     },
     {
         "titulo": "La faena bovina no corta la racha negativa: arrancó 2026 con una nueva caída",
@@ -23,10 +28,5 @@
         "titulo": "En pureza y cruzamientos: el Bovino Criollo pisa fuerte para potenciar la calidad de los rodeos",
         "url": "https://www.infocampo.com.ar/en-pureza-y-cruzamientos-el-bovino-criollo-pisa-fuerte-para-potenciar-la-calidad-de-los-rodeos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/criollo1-450x257.jpg"
-    },
-    {
-        "titulo": "“Un orgullo para toda la ganadería”: desde el sudoeste bonaerense salió otro toro campeón del mundo",
-        "url": "https://www.infocampo.com.ar/un-orgullo-para-toda-la-ganaderia-desde-el-sudoeste-bonaerense-salio-otro-toro-campeon-del-mundo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/toro-murray-grey-450x257.png"
     }
 ]
