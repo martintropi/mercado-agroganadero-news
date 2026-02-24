@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Lucas y Daniel, hermanos argentinos en el Mundial de Esquila: “Esto es un arte, como bailar tango con la oveja”",
+        "url": "https://www.infocampo.com.ar/lucas-y-daniel-hermanos-argentinos-en-el-mundial-de-esquila-esto-es-un-arte-como-bailar-tango-con-la-oveja/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/Lucas_Daniel_300ovejas-1024x584.jpeg"
+    },
+    {
         "titulo": "Vacunación antiaftosa: San Juan regala las dosis para todo su rodeo bovino",
         "url": "https://www.infocampo.com.ar/vacunacion-antiaftosa-san-juan-regala-las-dosis-para-todo-su-rodeo-bovino/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/05/vacuna-antiaftosa-aftosa-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "El “boom” del cerdo ante la suba de la carne bovina: es 3 veces más barato y bate récord de consumo",
         "url": "https://www.infocampo.com.ar/el-boom-del-cerdo-ante-la-suba-de-la-carne-bovina-es-3-veces-mas-barato-y-bate-record-de-consumo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/06/carne-de-cerdo.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/06/carne-de-cerdo-450x257.jpg"
     },
     {
         "titulo": "La producción de carne porcina sigue creciendo y suple el retroceso de la bovina",
@@ -23,10 +28,5 @@
         "titulo": "El debate por el precio de la carne: por qué se disparó en los últimos meses y cuánto más puede subir",
         "url": "https://www.infocampo.com.ar/el-debate-por-el-precio-de-la-carne-por-que-se-disparo-en-los-ultimos-meses-y-cuanto-mas-puede-subir/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2021/05/carniceria-infocampo-2-450x257.jpg"
-    },
-    {
-        "titulo": "La luz amarilla de la sequía también llega a la carne: un dolor de cabeza en medio del “boom” ganadero",
-        "url": "https://www.infocampo.com.ar/la-luz-amarilla-de-la-sequia-tambien-llega-a-la-carne-un-dolor-de-cabeza-en-medio-del-boom-ganadero/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/P4221123-450x257.jpg"
     }
 ]
