@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Vacunación antiaftosa: San Juan regala las dosis para todo su rodeo bovino",
+        "url": "https://www.infocampo.com.ar/vacunacion-antiaftosa-san-juan-regala-las-dosis-para-todo-su-rodeo-bovino/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/05/vacuna-antiaftosa-aftosa-1024x584.png"
+    },
+    {
         "titulo": "Volvió la gripe aviar y otra vez se suspenden exportaciones de pollos y huevos a algunos países",
         "url": "https://www.infocampo.com.ar/volvio-la-gripe-aviar-y-otra-vez-se-suspenden-exportaciones-de-pollos-y-huevos-a-algunos-paises/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/gripe-aviar-pollos-gallinas-infocampo-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "La producción de carne porcina sigue creciendo y suple el retroceso de la bovina",
         "url": "https://www.infocampo.com.ar/la-produccion-de-carne-porcina-sigue-creciendo-y-suple-el-retroceso-de-la-bovina/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/04/Faena-Cerdos.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/04/Faena-Cerdos-300x171.jpg"
     },
     {
         "titulo": "El debate por el precio de la carne: por qué se disparó en los últimos meses y cuánto más puede subir",
@@ -23,10 +28,5 @@
         "titulo": "La luz amarilla de la sequía también llega a la carne: un dolor de cabeza en medio del “boom” ganadero",
         "url": "https://www.infocampo.com.ar/la-luz-amarilla-de-la-sequia-tambien-llega-a-la-carne-un-dolor-de-cabeza-en-medio-del-boom-ganadero/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/P4221123-450x257.jpg"
-    },
-    {
-        "titulo": "El ternero sube con fuerza y pone más presión a los precios ganaderos: superó los U$S 4 por kilo",
-        "url": "https://www.infocampo.com.ar/el-ternero-sube-con-fuerza-y-pone-mas-presion-a-los-precios-ganaderos-supero-los-us-4-por-kilo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/remate-rosgan-terneros-450x257.png"
     }
 ]
