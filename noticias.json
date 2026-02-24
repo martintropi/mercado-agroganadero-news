@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Volvió la gripe aviar y otra vez se suspenden exportaciones de pollos y huevos a algunos países",
+        "url": "https://www.infocampo.com.ar/volvio-la-gripe-aviar-y-otra-vez-se-suspenden-exportaciones-de-pollos-y-huevos-a-algunos-paises/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/gripe-aviar-pollos-gallinas-infocampo-1024x584.png"
+    },
+    {
         "titulo": "El “boom” del cerdo ante la suba de la carne bovina: es 3 veces más barato y bate récord de consumo",
         "url": "https://www.infocampo.com.ar/el-boom-del-cerdo-ante-la-suba-de-la-carne-bovina-es-3-veces-mas-barato-y-bate-record-de-consumo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/06/carne-de-cerdo.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "El debate por el precio de la carne: por qué se disparó en los últimos meses y cuánto más puede subir",
         "url": "https://www.infocampo.com.ar/el-debate-por-el-precio-de-la-carne-por-que-se-disparo-en-los-ultimos-meses-y-cuanto-mas-puede-subir/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2021/05/carniceria-infocampo-2.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2021/05/carniceria-infocampo-2-450x257.jpg"
     },
     {
         "titulo": "La luz amarilla de la sequía también llega a la carne: un dolor de cabeza en medio del “boom” ganadero",
@@ -23,10 +28,5 @@
         "titulo": "El ternero sube con fuerza y pone más presión a los precios ganaderos: superó los U$S 4 por kilo",
         "url": "https://www.infocampo.com.ar/el-ternero-sube-con-fuerza-y-pone-mas-presion-a-los-precios-ganaderos-supero-los-us-4-por-kilo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/remate-rosgan-terneros-450x257.png"
-    },
-    {
-        "titulo": "La faena bovina no corta la racha negativa: arrancó 2026 con una nueva caída",
-        "url": "https://www.infocampo.com.ar/la-faena-bovina-no-corta-la-racha-negativa-arranco-2026-con-una-nueva-caida/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/02/faena-frigorifico-ganaderia-300x171.jpg"
     }
 ]
