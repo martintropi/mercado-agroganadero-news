@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "A la ganadería le llegó la dolarización: el financiamiento al sector crece fuerte y el 42% es en dólares",
+        "url": "https://www.infocampo.com.ar/a-la-ganaderia-le-llego-la-dolarizacion-el-financiamiento-al-sector-crece-fuerte-y-el-42-es-en-dolares/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/financiamiento-rosgan-vaca-dolar-1024x584.png"
+    },
+    {
         "titulo": "Lucas y Daniel, hermanos argentinos en el Mundial de Esquila: “Esto es un arte, como bailar tango con la oveja”",
         "url": "https://www.infocampo.com.ar/lucas-y-daniel-hermanos-argentinos-en-el-mundial-de-esquila-esto-es-un-arte-como-bailar-tango-con-la-oveja/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/Lucas_Daniel_300ovejas-1024x584.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Volvió la gripe aviar y otra vez se suspenden exportaciones de pollos y huevos a algunos países",
         "url": "https://www.infocampo.com.ar/volvio-la-gripe-aviar-y-otra-vez-se-suspenden-exportaciones-de-pollos-y-huevos-a-algunos-paises/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/gripe-aviar-pollos-gallinas-infocampo-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/gripe-aviar-pollos-gallinas-infocampo-450x257.png"
     },
     {
         "titulo": "El “boom” del cerdo ante la suba de la carne bovina: es 3 veces más barato y bate récord de consumo",
@@ -23,10 +28,5 @@
         "titulo": "La producción de carne porcina sigue creciendo y suple el retroceso de la bovina",
         "url": "https://www.infocampo.com.ar/la-produccion-de-carne-porcina-sigue-creciendo-y-suple-el-retroceso-de-la-bovina/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/04/Faena-Cerdos-300x171.jpg"
-    },
-    {
-        "titulo": "El debate por el precio de la carne: por qué se disparó en los últimos meses y cuánto más puede subir",
-        "url": "https://www.infocampo.com.ar/el-debate-por-el-precio-de-la-carne-por-que-se-disparo-en-los-ultimos-meses-y-cuanto-mas-puede-subir/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2021/05/carniceria-infocampo-2-450x257.jpg"
     }
 ]
