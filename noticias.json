@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Brucelosis bovina: un hallazgo científico podría ser clave para frenar la enfermedad",
+        "url": "https://www.infocampo.com.ar/brucelosis-bovina-un-hallazgo-cientifico-podria-ser-clave-para-frenar-la-enfermedad/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/Foto_Brucella-edit.jpg"
+    },
+    {
         "titulo": "A la ganadería le llegó la dolarización: el financiamiento al sector crece fuerte y el 42% es en dólares",
         "url": "https://www.infocampo.com.ar/a-la-ganaderia-le-llego-la-dolarizacion-el-financiamiento-al-sector-crece-fuerte-y-el-42-es-en-dolares/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/financiamiento-rosgan-vaca-dolar-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Vacunación antiaftosa: San Juan regala las dosis para todo su rodeo bovino",
         "url": "https://www.infocampo.com.ar/vacunacion-antiaftosa-san-juan-regala-las-dosis-para-todo-su-rodeo-bovino/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/05/vacuna-antiaftosa-aftosa-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/05/vacuna-antiaftosa-aftosa-450x257.png"
     },
     {
         "titulo": "Volvió la gripe aviar y otra vez se suspenden exportaciones de pollos y huevos a algunos países",
@@ -23,10 +28,5 @@
         "titulo": "El “boom” del cerdo ante la suba de la carne bovina: es 3 veces más barato y bate récord de consumo",
         "url": "https://www.infocampo.com.ar/el-boom-del-cerdo-ante-la-suba-de-la-carne-bovina-es-3-veces-mas-barato-y-bate-record-de-consumo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/06/carne-de-cerdo-450x257.jpg"
-    },
-    {
-        "titulo": "La producción de carne porcina sigue creciendo y suple el retroceso de la bovina",
-        "url": "https://www.infocampo.com.ar/la-produccion-de-carne-porcina-sigue-creciendo-y-suple-el-retroceso-de-la-bovina/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/04/Faena-Cerdos-300x171.jpg"
     }
 ]
