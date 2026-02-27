@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La carne argentina quedó a un paso de otro hito: llegar a Japón con cortes de todo el país",
+        "url": "https://www.infocampo.com.ar/la-carne-argentina-quedo-a-un-paso-de-otro-hito-llegar-a-japon-con-cortes-de-todo-el-pais/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/carne-envasada-frigorifico-exportacion-1024x584.png"
+    },
+    {
         "titulo": "Brucelosis bovina: un hallazgo científico podría ser clave para frenar la enfermedad",
         "url": "https://www.infocampo.com.ar/brucelosis-bovina-un-hallazgo-cientifico-podria-ser-clave-para-frenar-la-enfermedad/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/Foto_Brucella-edit.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Lucas y Daniel, hermanos argentinos en el Mundial de Esquila: “Esto es un arte, como bailar tango con la oveja”",
         "url": "https://www.infocampo.com.ar/lucas-y-daniel-hermanos-argentinos-en-el-mundial-de-esquila-esto-es-un-arte-como-bailar-tango-con-la-oveja/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/Lucas_Daniel_300ovejas-1024x584.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/Lucas_Daniel_300ovejas-450x257.jpeg"
     },
     {
         "titulo": "Vacunación antiaftosa: San Juan regala las dosis para todo su rodeo bovino",
@@ -23,10 +28,5 @@
         "titulo": "Volvió la gripe aviar y otra vez se suspenden exportaciones de pollos y huevos a algunos países",
         "url": "https://www.infocampo.com.ar/volvio-la-gripe-aviar-y-otra-vez-se-suspenden-exportaciones-de-pollos-y-huevos-a-algunos-paises/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/gripe-aviar-pollos-gallinas-infocampo-450x257.png"
-    },
-    {
-        "titulo": "El “boom” del cerdo ante la suba de la carne bovina: es 3 veces más barato y bate récord de consumo",
-        "url": "https://www.infocampo.com.ar/el-boom-del-cerdo-ante-la-suba-de-la-carne-bovina-es-3-veces-mas-barato-y-bate-record-de-consumo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/06/carne-de-cerdo-450x257.jpg"
     }
 ]
