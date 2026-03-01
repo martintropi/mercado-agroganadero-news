@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Bahiense y pionero: viajó a Europa y armó la primera cabaña Angus con 100% genética argentina del viejo continente",
+        "url": "https://www.infocampo.com.ar/bahiense-y-pionero-viajo-a-europa-y-armo-la-primera-cabana-angus-con-100-genetica-argentina-del-viejo-continente/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-28-at-17.45.54-e1772318196432-1024x583.jpeg"
+    },
+    {
         "titulo": "La carne argentina quedó a un paso de otro hito: llegar a Japón con cortes de todo el país",
         "url": "https://www.infocampo.com.ar/la-carne-argentina-quedo-a-un-paso-de-otro-hito-llegar-a-japon-con-cortes-de-todo-el-pais/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/carne-envasada-frigorifico-exportacion-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "A la ganadería le llegó la dolarización: el financiamiento al sector crece fuerte y el 42% es en dólares",
         "url": "https://www.infocampo.com.ar/a-la-ganaderia-le-llego-la-dolarizacion-el-financiamiento-al-sector-crece-fuerte-y-el-42-es-en-dolares/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/financiamiento-rosgan-vaca-dolar-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/financiamiento-rosgan-vaca-dolar-450x257.png"
     },
     {
         "titulo": "Lucas y Daniel, hermanos argentinos en el Mundial de Esquila: “Esto es un arte, como bailar tango con la oveja”",
@@ -23,10 +28,5 @@
         "titulo": "Vacunación antiaftosa: San Juan regala las dosis para todo su rodeo bovino",
         "url": "https://www.infocampo.com.ar/vacunacion-antiaftosa-san-juan-regala-las-dosis-para-todo-su-rodeo-bovino/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/05/vacuna-antiaftosa-aftosa-450x257.png"
-    },
-    {
-        "titulo": "Volvió la gripe aviar y otra vez se suspenden exportaciones de pollos y huevos a algunos países",
-        "url": "https://www.infocampo.com.ar/volvio-la-gripe-aviar-y-otra-vez-se-suspenden-exportaciones-de-pollos-y-huevos-a-algunos-paises/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/gripe-aviar-pollos-gallinas-infocampo-450x257.png"
     }
 ]
