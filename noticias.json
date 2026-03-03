@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Con una nueva vacuna aprobada, comenzó la vacunación antiaftosa en la mayoría de las provincias",
+        "url": "https://www.infocampo.com.ar/con-una-nueva-vacuna-aprobada-comenzo-la-vacunacion-antiaftosa-en-la-mayoria-de-las-provincias/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/02/aftosa-vacunacion-1024x584.jpg"
+    },
+    {
         "titulo": "Bahiense y pionero: viajó a Europa y armó la primera cabaña Angus con 100% genética argentina del viejo continente",
         "url": "https://www.infocampo.com.ar/bahiense-y-pionero-viajo-a-europa-y-armo-la-primera-cabana-angus-con-100-genetica-argentina-del-viejo-continente/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-28-at-17.45.54-e1772318196432-1024x583.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Brucelosis bovina: un hallazgo científico podría ser clave para frenar la enfermedad",
         "url": "https://www.infocampo.com.ar/brucelosis-bovina-un-hallazgo-cientifico-podria-ser-clave-para-frenar-la-enfermedad/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/Foto_Brucella-edit.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/Foto_Brucella-edit-450x257.jpg"
     },
     {
         "titulo": "A la ganadería le llegó la dolarización: el financiamiento al sector crece fuerte y el 42% es en dólares",
@@ -23,10 +28,5 @@
         "titulo": "Lucas y Daniel, hermanos argentinos en el Mundial de Esquila: “Esto es un arte, como bailar tango con la oveja”",
         "url": "https://www.infocampo.com.ar/lucas-y-daniel-hermanos-argentinos-en-el-mundial-de-esquila-esto-es-un-arte-como-bailar-tango-con-la-oveja/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/Lucas_Daniel_300ovejas-450x257.jpeg"
-    },
-    {
-        "titulo": "Vacunación antiaftosa: San Juan regala las dosis para todo su rodeo bovino",
-        "url": "https://www.infocampo.com.ar/vacunacion-antiaftosa-san-juan-regala-las-dosis-para-todo-su-rodeo-bovino/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/05/vacuna-antiaftosa-aftosa-450x257.png"
     }
 ]
