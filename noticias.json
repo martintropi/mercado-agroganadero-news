@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Otro récord del “boom” ganadero: los feedlots explotan de hacienda y trabajan a máxima capacidad",
+        "url": "https://www.infocampo.com.ar/otro-record-del-boom-ganadero-los-feedlots-explotan-de-hacienda-y-trabajan-a-maxima-capacidad/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/20250828-0043.jpg"
+    },
+    {
         "titulo": "Con una nueva vacuna aprobada, comenzó la vacunación antiaftosa en la mayoría de las provincias",
         "url": "https://www.infocampo.com.ar/con-una-nueva-vacuna-aprobada-comenzo-la-vacunacion-antiaftosa-en-la-mayoria-de-las-provincias/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/02/aftosa-vacunacion-1024x584.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "La carne argentina quedó a un paso de otro hito: llegar a Japón con cortes de todo el país",
         "url": "https://www.infocampo.com.ar/la-carne-argentina-quedo-a-un-paso-de-otro-hito-llegar-a-japon-con-cortes-de-todo-el-pais/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/carne-envasada-frigorifico-exportacion-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/carne-envasada-frigorifico-exportacion-450x257.png"
     },
     {
         "titulo": "Brucelosis bovina: un hallazgo científico podría ser clave para frenar la enfermedad",
@@ -23,10 +28,5 @@
         "titulo": "A la ganadería le llegó la dolarización: el financiamiento al sector crece fuerte y el 42% es en dólares",
         "url": "https://www.infocampo.com.ar/a-la-ganaderia-le-llego-la-dolarizacion-el-financiamiento-al-sector-crece-fuerte-y-el-42-es-en-dolares/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/financiamiento-rosgan-vaca-dolar-450x257.png"
-    },
-    {
-        "titulo": "Lucas y Daniel, hermanos argentinos en el Mundial de Esquila: “Esto es un arte, como bailar tango con la oveja”",
-        "url": "https://www.infocampo.com.ar/lucas-y-daniel-hermanos-argentinos-en-el-mundial-de-esquila-esto-es-un-arte-como-bailar-tango-con-la-oveja/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/Lucas_Daniel_300ovejas-450x257.jpeg"
     }
 ]
