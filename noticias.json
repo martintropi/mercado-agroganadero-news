@@ -1,5 +1,15 @@
 [
     {
+        "titulo": "En la cadena porcina crecen las alertas por la baja rentabilidad y las importaciones: “Estamos muy justos”",
+        "url": "https://www.infocampo.com.ar/en-la-cadena-porcina-crecen-los-alertas-por-la-baja-rentabilidad-y-las-importaciones-estamos-muy-justos/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/cerdo-lechon-porcino-sagyp-1024x584.png"
+    },
+    {
+        "titulo": "Con el aval del campo, en Córdoba impulsan un proyecto de ley para eliminar las guías de hacienda",
+        "url": "https://www.infocampo.com.ar/con-el-aval-del-campo-en-cordoba-impulsan-un-proyecto-de-ley-para-eliminar-las-guias-de-hacienda/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/01/hacienda-ganado-camion-jaula.png"
+    },
+    {
         "titulo": "El cerdo se alimenta de financiamiento: casi $ 14.000 millones otorgados en créditos a valor capón",
         "url": "https://www.infocampo.com.ar/el-cerdo-se-alimenta-de-financiamiento-casi-14-000-millones-otorgados-en-creditos-a-valor-capon/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/unnamed-16-1024x584.jpg"
@@ -7,26 +17,16 @@
     {
         "titulo": "Otro récord del “boom” ganadero: los feedlots explotan de hacienda y trabajan a máxima capacidad",
         "url": "https://www.infocampo.com.ar/otro-record-del-boom-ganadero-los-feedlots-explotan-de-hacienda-y-trabajan-a-maxima-capacidad/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/20250828-0043.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/20250828-0043-450x257.jpg"
     },
     {
         "titulo": "Con una nueva vacuna aprobada, comenzó la vacunación antiaftosa en la mayoría de las provincias",
         "url": "https://www.infocampo.com.ar/con-una-nueva-vacuna-aprobada-comenzo-la-vacunacion-antiaftosa-en-la-mayoria-de-las-provincias/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/02/aftosa-vacunacion-1024x584.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/02/aftosa-vacunacion-450x257.jpg"
     },
     {
         "titulo": "Bahiense y pionero: viajó a Europa y armó la primera cabaña Angus con 100% genética argentina del viejo continente",
         "url": "https://www.infocampo.com.ar/bahiense-y-pionero-viajo-a-europa-y-armo-la-primera-cabana-angus-con-100-genetica-argentina-del-viejo-continente/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-28-at-17.45.54-e1772318196432-450x256.jpeg"
-    },
-    {
-        "titulo": "La carne argentina quedó a un paso de otro hito: llegar a Japón con cortes de todo el país",
-        "url": "https://www.infocampo.com.ar/la-carne-argentina-quedo-a-un-paso-de-otro-hito-llegar-a-japon-con-cortes-de-todo-el-pais/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/carne-envasada-frigorifico-exportacion-450x257.png"
-    },
-    {
-        "titulo": "Brucelosis bovina: un hallazgo científico podría ser clave para frenar la enfermedad",
-        "url": "https://www.infocampo.com.ar/brucelosis-bovina-un-hallazgo-cientifico-podria-ser-clave-para-frenar-la-enfermedad/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/Foto_Brucella-edit-450x257.jpg"
     }
 ]
