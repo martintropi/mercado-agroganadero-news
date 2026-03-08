@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La ganadería, ante un momento soñado: con mayor apertura comercial, vuelve a atraer capital productivo",
+        "url": "https://www.infocampo.com.ar/la-ganaderia-ante-un-momento-sonado-con-mayor-apertura-comercial-vuelve-a-atraer-capital-productivo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/12/bovinos-hacienda-pastoreo-1024x584.png"
+    },
+    {
         "titulo": "En la cadena porcina crecen las alertas por la baja rentabilidad y las importaciones: “Estamos muy justos”",
         "url": "https://www.infocampo.com.ar/en-la-cadena-porcina-crecen-los-alertas-por-la-baja-rentabilidad-y-las-importaciones-estamos-muy-justos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/cerdo-lechon-porcino-sagyp-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "El cerdo se alimenta de financiamiento: casi $ 14.000 millones otorgados en créditos a valor capón",
         "url": "https://www.infocampo.com.ar/el-cerdo-se-alimenta-de-financiamiento-casi-14-000-millones-otorgados-en-creditos-a-valor-capon/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/unnamed-16-1024x584.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/unnamed-16-450x257.jpg"
     },
     {
         "titulo": "Otro récord del “boom” ganadero: los feedlots explotan de hacienda y trabajan a máxima capacidad",
@@ -23,10 +28,5 @@
         "titulo": "Con una nueva vacuna aprobada, comenzó la vacunación antiaftosa en la mayoría de las provincias",
         "url": "https://www.infocampo.com.ar/con-una-nueva-vacuna-aprobada-comenzo-la-vacunacion-antiaftosa-en-la-mayoria-de-las-provincias/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/02/aftosa-vacunacion-450x257.jpg"
-    },
-    {
-        "titulo": "Bahiense y pionero: viajó a Europa y armó la primera cabaña Angus con 100% genética argentina del viejo continente",
-        "url": "https://www.infocampo.com.ar/bahiense-y-pionero-viajo-a-europa-y-armo-la-primera-cabana-angus-con-100-genetica-argentina-del-viejo-continente/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-28-at-17.45.54-e1772318196432-450x256.jpeg"
     }
 ]
