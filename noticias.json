@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El Gobierno amplió la línea de créditos a valor novillo: también se podrá usar para recría y engorde",
+        "url": "https://www.infocampo.com.ar/el-gobierno-amplio-la-linea-de-creditos-a-valor-novillo-tambien-se-podra-usar-para-recria-y-engorde/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/novillo-ganaderia-hacienda-.png"
+    },
+    {
         "titulo": "La ganadería, ante un momento soñado: con mayor apertura comercial, vuelve a atraer capital productivo",
         "url": "https://www.infocampo.com.ar/la-ganaderia-ante-un-momento-sonado-con-mayor-apertura-comercial-vuelve-a-atraer-capital-productivo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/12/bovinos-hacienda-pastoreo-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Con el aval del campo, en Córdoba impulsan un proyecto de ley para eliminar las guías de hacienda",
         "url": "https://www.infocampo.com.ar/con-el-aval-del-campo-en-cordoba-impulsan-un-proyecto-de-ley-para-eliminar-las-guias-de-hacienda/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/01/hacienda-ganado-camion-jaula.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/01/hacienda-ganado-camion-jaula-450x256.png"
     },
     {
         "titulo": "El cerdo se alimenta de financiamiento: casi $ 14.000 millones otorgados en créditos a valor capón",
@@ -23,10 +28,5 @@
         "titulo": "Otro récord del “boom” ganadero: los feedlots explotan de hacienda y trabajan a máxima capacidad",
         "url": "https://www.infocampo.com.ar/otro-record-del-boom-ganadero-los-feedlots-explotan-de-hacienda-y-trabajan-a-maxima-capacidad/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/20250828-0043-450x257.jpg"
-    },
-    {
-        "titulo": "Con una nueva vacuna aprobada, comenzó la vacunación antiaftosa en la mayoría de las provincias",
-        "url": "https://www.infocampo.com.ar/con-una-nueva-vacuna-aprobada-comenzo-la-vacunacion-antiaftosa-en-la-mayoria-de-las-provincias/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/02/aftosa-vacunacion-450x257.jpg"
     }
 ]
