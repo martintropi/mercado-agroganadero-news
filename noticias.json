@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Boom ganadero: “No hay que dormirse en los laureles y seguir produciendo la mejor carne del mundo”",
+        "url": "https://www.infocampo.com.ar/boom-ganadero-no-hay-que-dormirse-en-los-laureles-y-seguir-produciendo-la-mejor-carne-del-mundo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-11.27.46-AM.jpeg"
+    },
+    {
         "titulo": "Fiebre aftosa: Carbap critica la desregulación de la vacunación y pide mantener el sistema de entes y fundaciones",
         "url": "https://www.infocampo.com.ar/fiebre-aftosa-carbap-critica-la-desregulacion-de-la-vacunacion-y-pide-mantener-el-sistema-de-entes-y-fundaciones/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/vacunacion-antiaftosa-senasa-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "La carne vacuna y el debate por los precios: el destete, un indicador clave que sigue sin mejorar",
         "url": "https://www.infocampo.com.ar/la-carne-vacuna-y-el-debate-por-los-precios-el-destete-un-indicador-clave-que-sigue-sin-mejorar/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/07/terneros.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/07/terneros-450x261.jpg"
     },
     {
         "titulo": "El Gobierno amplió la línea de créditos a valor novillo: también se podrá usar para recría y engorde",
@@ -23,10 +28,5 @@
         "titulo": "La ganadería, ante un momento soñado: con mayor apertura comercial, vuelve a atraer capital productivo",
         "url": "https://www.infocampo.com.ar/la-ganaderia-ante-un-momento-sonado-con-mayor-apertura-comercial-vuelve-a-atraer-capital-productivo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/12/bovinos-hacienda-pastoreo-450x257.png"
-    },
-    {
-        "titulo": "En la cadena porcina crecen las alertas por la baja rentabilidad y las importaciones: “Estamos muy justos”",
-        "url": "https://www.infocampo.com.ar/en-la-cadena-porcina-crecen-los-alertas-por-la-baja-rentabilidad-y-las-importaciones-estamos-muy-justos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/cerdo-lechon-porcino-sagyp-450x257.png"
     }
 ]
