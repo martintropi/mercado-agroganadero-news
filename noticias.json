@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "“La reposición es clave”: Angus lanzó un nuevo programa de certificación, destinado a terneras",
+        "url": "https://www.infocampo.com.ar/la-reposicion-es-clave-angus-lanzo-un-nuevo-programa-de-certificacion-destinado-a-terneras/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/terneras-angus-hacienda-corral-1024x584.png"
+    },
+    {
         "titulo": "Vacunación antiaftosa: Federación Agraria tampoco quiere cambios y defiende los entes sanitarios",
         "url": "https://www.infocampo.com.ar/vacunacion-antiaftosa-federacion-agraria-tampoco-quiere-cambios-y-defiende-los-entes-sanitarios/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/09/vacunacion-antiaftosa-senasa-1024x583.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Boom ganadero: “No hay que dormirse en los laureles y seguir produciendo la mejor carne del mundo”",
         "url": "https://www.infocampo.com.ar/boom-ganadero-no-hay-que-dormirse-en-los-laureles-y-seguir-produciendo-la-mejor-carne-del-mundo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-11.27.46-AM.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-11.27.46-AM-450x257.jpeg"
     },
     {
         "titulo": "Fiebre aftosa: Carbap critica la desregulación de la vacunación y pide mantener el sistema de entes y fundaciones",
@@ -23,10 +28,5 @@
         "titulo": "Otro cambio histórico en la vacunación antiaftosa: se podrá elegir un veterinario privado para cumplirla",
         "url": "https://www.infocampo.com.ar/otro-cambio-historico-en-la-vacunacion-antiaftosa-se-podra-elegir-un-veterinario-privado-para-cumplirla/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/vacuna-aftosa-senasa-450x257.png"
-    },
-    {
-        "titulo": "La carne vacuna y el debate por los precios: el destete, un indicador clave que sigue sin mejorar",
-        "url": "https://www.infocampo.com.ar/la-carne-vacuna-y-el-debate-por-los-precios-el-destete-un-indicador-clave-que-sigue-sin-mejorar/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/07/terneros-450x261.jpg"
     }
 ]
