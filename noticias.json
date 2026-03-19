@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Vacunación antiaftosa: “Sturzenegger está actuando con anteojeras ideológicas y de manera irresponsable”",
+        "url": "https://www.infocampo.com.ar/vacunacion-antiaftosa-sturzenegger-esta-actuando-con-anteojeras-ideologicas-y-de-manera-irresponsable/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/unnamed-34-1024x584.jpg"
+    },
+    {
         "titulo": "“La reposición es clave”: Angus lanzó un nuevo programa de certificación, destinado a terneras",
         "url": "https://www.infocampo.com.ar/la-reposicion-es-clave-angus-lanzo-un-nuevo-programa-de-certificacion-destinado-a-terneras/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/terneras-angus-hacienda-corral-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Es quinta generación de cabañeros y atestigua el boom ganadero: “El que no invierte, está dejando pasar el tren”",
         "url": "https://www.infocampo.com.ar/es-quinta-generacion-de-cabaneros-y-atestigua-el-boom-ganadero-el-que-no-invierte-esta-dejando-pasar-el-tren/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/correndo-3-1024x614.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/correndo-3-450x270.jpeg"
     },
     {
         "titulo": "Boom ganadero: “No hay que dormirse en los laureles y seguir produciendo la mejor carne del mundo”",
@@ -23,10 +28,5 @@
         "titulo": "Fiebre aftosa: Carbap critica la desregulación de la vacunación y pide mantener el sistema de entes y fundaciones",
         "url": "https://www.infocampo.com.ar/fiebre-aftosa-carbap-critica-la-desregulacion-de-la-vacunacion-y-pide-mantener-el-sistema-de-entes-y-fundaciones/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/vacunacion-antiaftosa-senasa-450x257.png"
-    },
-    {
-        "titulo": "Otro cambio histórico en la vacunación antiaftosa: se podrá elegir un veterinario privado para cumplirla",
-        "url": "https://www.infocampo.com.ar/otro-cambio-historico-en-la-vacunacion-antiaftosa-se-podra-elegir-un-veterinario-privado-para-cumplirla/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/vacuna-aftosa-senasa-450x257.png"
     }
 ]
