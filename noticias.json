@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "“Hay que volver a hacer las cuentas y, donde los rindes agrícolas son bajos, que retorne la ganadería”",
+        "url": "https://www.infocampo.com.ar/hay-que-volver-a-hacer-las-cuentas-y-donde-los-rindes-agricolas-son-bajos-que-retorne-la-ganaderia/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/Derito-4-1024x614.jpeg"
+    },
+    {
         "titulo": "Otro rechazo del ruralismo a los cambios en la vacunación antiaftosa: “El fundamento oficial es erróneo”",
         "url": "https://www.infocampo.com.ar/otro-rechazo-del-ruralismo-a-los-cambios-en-la-vacunacion-antiaftosa-el-fundamento-oficial-es-erroneo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/10/vacuna-antiaftosa-senasa.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Cierres, recorte de horas y cadena de pagos rota: las luces de alerta en los frigoríficos titilan cada vez más fuerte",
         "url": "https://www.infocampo.com.ar/cierres-recorte-de-horas-y-cadena-de-pagos-rota-las-luces-de-alerta-en-los-frigorificos-titilan-cada-vez-mas-fuerte/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/08/frigorifico.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/08/frigorifico-300x171.jpg"
     },
     {
         "titulo": "Vacunación antiaftosa: “Sturzenegger está actuando con anteojeras ideológicas y de manera irresponsable”",
@@ -23,10 +28,5 @@
         "titulo": "“La reposición es clave”: Angus lanzó un nuevo programa de certificación, destinado a terneras",
         "url": "https://www.infocampo.com.ar/la-reposicion-es-clave-angus-lanzo-un-nuevo-programa-de-certificacion-destinado-a-terneras/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/terneras-angus-hacienda-corral-450x257.png"
-    },
-    {
-        "titulo": "Vacunación antiaftosa: Federación Agraria tampoco quiere cambios y defiende los entes sanitarios",
-        "url": "https://www.infocampo.com.ar/vacunacion-antiaftosa-federacion-agraria-tampoco-quiere-cambios-y-defiende-los-entes-sanitarios/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/09/vacunacion-antiaftosa-senasa-450x256.jpg"
     }
 ]
