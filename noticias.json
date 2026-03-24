@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Precios firmes y expectativas en alza: la ganadería entró en fase de retención para pegar un nuevo salto",
+        "url": "https://www.infocampo.com.ar/precios-firmes-y-expectativas-en-alza-la-ganaderia-entro-en-fase-de-retencion-para-pegar-un-nuevo-salto/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/jauregu.jpeg"
+    },
+    {
         "titulo": "“Hay que volver a hacer las cuentas y, donde los rindes agrícolas son bajos, que retorne la ganadería”",
         "url": "https://www.infocampo.com.ar/hay-que-volver-a-hacer-las-cuentas-y-donde-los-rindes-agricolas-son-bajos-que-retorne-la-ganaderia/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/Derito-4-1024x614.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Desaparición y hallazgo en un feedlot a 80 kilómetros: el misterioso robo de hacienda al influencer “La Joya Agro”",
         "url": "https://www.infocampo.com.ar/desaparicion-y-hallazgo-en-un-feedlot-a-80-kilometros-el-misterioso-robo-de-hacienda-al-influencer-la-joya-agro/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/joya-agro-animales-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/joya-agro-animales-450x257.png"
     },
     {
         "titulo": "Cierres, recorte de horas y cadena de pagos rota: las luces de alerta en los frigoríficos titilan cada vez más fuerte",
@@ -23,10 +28,5 @@
         "titulo": "Vacunación antiaftosa: “Sturzenegger está actuando con anteojeras ideológicas y de manera irresponsable”",
         "url": "https://www.infocampo.com.ar/vacunacion-antiaftosa-sturzenegger-esta-actuando-con-anteojeras-ideologicas-y-de-manera-irresponsable/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/unnamed-34-450x257.jpg"
-    },
-    {
-        "titulo": "“La reposición es clave”: Angus lanzó un nuevo programa de certificación, destinado a terneras",
-        "url": "https://www.infocampo.com.ar/la-reposicion-es-clave-angus-lanzo-un-nuevo-programa-de-certificacion-destinado-a-terneras/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/terneras-angus-hacienda-corral-450x257.png"
     }
 ]
