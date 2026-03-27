@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Una solución “natural” contra la garrapata: detectan que los bovinos criollos tienen alta resistencia al parásito",
+        "url": "https://www.infocampo.com.ar/una-solucion-natural-contra-la-garrapata-detectan-que-los-bovinos-criollos-tienen-alta-resistencia-al-parasito/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/Bovino-Criollo-1.jpg"
+    },
+    {
         "titulo": "El mercado de la carne vacuna se estabiliza: ¿qué se puede proyectar para el resto del año?",
         "url": "https://www.infocampo.com.ar/el-mercado-de-la-carne-vacuna-se-estabiliza-que-se-puede-proyectar-para-el-resto-del-ano/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/carne-exportacion-cuota-hilton-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "“Hay que volver a hacer las cuentas y, donde los rindes agrícolas son bajos, que retorne la ganadería”",
         "url": "https://www.infocampo.com.ar/hay-que-volver-a-hacer-las-cuentas-y-donde-los-rindes-agricolas-son-bajos-que-retorne-la-ganaderia/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/Derito-4-1024x614.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/Derito-4-450x270.jpeg"
     },
     {
         "titulo": "Otro rechazo del ruralismo a los cambios en la vacunación antiaftosa: “El fundamento oficial es erróneo”",
@@ -23,10 +28,5 @@
         "titulo": "Desaparición y hallazgo en un feedlot a 80 kilómetros: el misterioso robo de hacienda al influencer “La Joya Agro”",
         "url": "https://www.infocampo.com.ar/desaparicion-y-hallazgo-en-un-feedlot-a-80-kilometros-el-misterioso-robo-de-hacienda-al-influencer-la-joya-agro/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/joya-agro-animales-450x257.png"
-    },
-    {
-        "titulo": "Cierres, recorte de horas y cadena de pagos rota: las luces de alerta en los frigoríficos titilan cada vez más fuerte",
-        "url": "https://www.infocampo.com.ar/cierres-recorte-de-horas-y-cadena-de-pagos-rota-las-luces-de-alerta-en-los-frigorificos-titilan-cada-vez-mas-fuerte/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/08/frigorifico-300x171.jpg"
     }
 ]
