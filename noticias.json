@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La hacienda pisa fuerte: los resultados económicos ganaderos están en sus máximos históricos",
+        "url": "https://www.infocampo.com.ar/la-hacienda-pisa-fuerte-los-resultados-economicos-ganaderos-estan-en-sus-maximos-historicos/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/gana.jpg"
+    },
+    {
         "titulo": "Una solución “natural” contra la garrapata: detectan que los bovinos criollos tienen alta resistencia al parásito",
         "url": "https://www.infocampo.com.ar/una-solucion-natural-contra-la-garrapata-detectan-que-los-bovinos-criollos-tienen-alta-resistencia-al-parasito/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/Bovino-Criollo-1.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Precios firmes y expectativas en alza: la ganadería entró en fase de retención para pegar un nuevo salto",
         "url": "https://www.infocampo.com.ar/precios-firmes-y-expectativas-en-alza-la-ganaderia-entro-en-fase-de-retencion-para-pegar-un-nuevo-salto/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/jauregu.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/jauregu-450x257.jpeg"
     },
     {
         "titulo": "“Hay que volver a hacer las cuentas y, donde los rindes agrícolas son bajos, que retorne la ganadería”",
@@ -23,10 +28,5 @@
         "titulo": "Otro rechazo del ruralismo a los cambios en la vacunación antiaftosa: “El fundamento oficial es erróneo”",
         "url": "https://www.infocampo.com.ar/otro-rechazo-del-ruralismo-a-los-cambios-en-la-vacunacion-antiaftosa-el-fundamento-oficial-es-erroneo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/10/vacuna-antiaftosa-senasa-450x256.png"
-    },
-    {
-        "titulo": "Desaparición y hallazgo en un feedlot a 80 kilómetros: el misterioso robo de hacienda al influencer “La Joya Agro”",
-        "url": "https://www.infocampo.com.ar/desaparicion-y-hallazgo-en-un-feedlot-a-80-kilometros-el-misterioso-robo-de-hacienda-al-influencer-la-joya-agro/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/joya-agro-animales-450x257.png"
     }
 ]
