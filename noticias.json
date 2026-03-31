@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El “gualicho” de Doña Rosa: con manejo regenerativo, de un campo marginal a un “oasis de pasto”",
+        "url": "https://www.infocampo.com.ar/el-gualicho-de-dona-rosa-con-manejo-regenerativo-de-un-campo-marginal-a-un-oasis-de-pasto/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/urcera.jpg"
+    },
+    {
         "titulo": "La zafra de terneros, otra muestra del momento histórico de la ganadería: récord de cabezas vendidas",
         "url": "https://www.infocampo.com.ar/la-zafra-de-terneros-otra-muestra-del-momento-historico-de-la-ganaderia-record-de-cabezas-vendidas/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/rosgan-1.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "La hacienda pisa fuerte: los resultados económicos ganaderos están en sus máximos históricos",
         "url": "https://www.infocampo.com.ar/la-hacienda-pisa-fuerte-los-resultados-economicos-ganaderos-estan-en-sus-maximos-historicos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/gana.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/gana-450x257.jpg"
     },
     {
         "titulo": "Una solución “natural” contra la garrapata: detectan que los bovinos criollos tienen alta resistencia al parásito",
@@ -23,10 +28,5 @@
         "titulo": "El mercado de la carne vacuna se estabiliza: ¿qué se puede proyectar para el resto del año?",
         "url": "https://www.infocampo.com.ar/el-mercado-de-la-carne-vacuna-se-estabiliza-que-se-puede-proyectar-para-el-resto-del-ano/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/carne-exportacion-cuota-hilton-450x257.png"
-    },
-    {
-        "titulo": "Precios firmes y expectativas en alza: la ganadería entró en fase de retención para pegar un nuevo salto",
-        "url": "https://www.infocampo.com.ar/precios-firmes-y-expectativas-en-alza-la-ganaderia-entro-en-fase-de-retencion-para-pegar-un-nuevo-salto/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/jauregu-450x257.jpeg"
     }
 ]
