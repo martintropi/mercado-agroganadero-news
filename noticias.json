@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Mendoza se sube al boom ganadero: “Va a quitarle superficie a la uva, pero no es un riesgo, es una virtud”",
+        "url": "https://www.infocampo.com.ar/mendoza-se-sube-al-boom-ganadero-va-a-quitarle-superficie-a-la-uva-pero-no-es-un-riesgo-es-una-virtud/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/Angus--e1774648270369-1024x583.jpeg"
+    },
+    {
         "titulo": "El “gualicho” de Doña Rosa: con manejo regenerativo, de un campo marginal a un “oasis de pasto”",
         "url": "https://www.infocampo.com.ar/el-gualicho-de-dona-rosa-con-manejo-regenerativo-de-un-campo-marginal-a-un-oasis-de-pasto/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/urcera.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Pasturas: cómo duplicar el rendimiento forrajero con la adopción de bioestimulantes",
         "url": "https://www.infocampo.com.ar/pasturas-como-duplicar-el-rendimiento-forrajero-con-la-adopcion-de-bioestimulantes/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/UPL.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/UPL-450x257.jpg"
     },
     {
         "titulo": "La hacienda pisa fuerte: los resultados económicos ganaderos están en sus máximos históricos",
@@ -23,10 +28,5 @@
         "titulo": "Una solución “natural” contra la garrapata: detectan que los bovinos criollos tienen alta resistencia al parásito",
         "url": "https://www.infocampo.com.ar/una-solucion-natural-contra-la-garrapata-detectan-que-los-bovinos-criollos-tienen-alta-resistencia-al-parasito/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/Bovino-Criollo-1-450x257.jpg"
-    },
-    {
-        "titulo": "El mercado de la carne vacuna se estabiliza: ¿qué se puede proyectar para el resto del año?",
-        "url": "https://www.infocampo.com.ar/el-mercado-de-la-carne-vacuna-se-estabiliza-que-se-puede-proyectar-para-el-resto-del-ano/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/carne-exportacion-cuota-hilton-450x257.png"
     }
 ]
