@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Menos faena y vientres más caros: la reposición se encarece en plena recuperación de la cría",
+        "url": "https://www.infocampo.com.ar/menos-faena-y-vientres-mas-caros-la-reposicion-se-encarece-en-plena-recuperacion-de-la-cria/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/03/vacas-patagonia.png"
+    },
+    {
         "titulo": "El plan 2026 de la carne vacuna: “Seguir generando valor, divisas y trabajo”",
         "url": "https://www.infocampo.com.ar/el-plan-2026-de-la-carne-vacuna-seguir-generando-valor-divisas-y-trabajo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/IMG_9292.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "El “gualicho” de Doña Rosa: con manejo regenerativo, de un campo marginal a un “oasis de pasto”",
         "url": "https://www.infocampo.com.ar/el-gualicho-de-dona-rosa-con-manejo-regenerativo-de-un-campo-marginal-a-un-oasis-de-pasto/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/urcera.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/urcera-450x257.jpg"
     },
     {
         "titulo": "La zafra de terneros, otra muestra del momento histórico de la ganadería: récord de cabezas vendidas",
@@ -23,10 +28,5 @@
         "titulo": "Pasturas: cómo duplicar el rendimiento forrajero con la adopción de bioestimulantes",
         "url": "https://www.infocampo.com.ar/pasturas-como-duplicar-el-rendimiento-forrajero-con-la-adopcion-de-bioestimulantes/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/UPL-450x257.jpg"
-    },
-    {
-        "titulo": "La hacienda pisa fuerte: los resultados económicos ganaderos están en sus máximos históricos",
-        "url": "https://www.infocampo.com.ar/la-hacienda-pisa-fuerte-los-resultados-economicos-ganaderos-estan-en-sus-maximos-historicos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/gana-450x257.jpg"
     }
 ]
