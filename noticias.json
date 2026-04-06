@@ -1,5 +1,15 @@
 [
     {
+        "titulo": "Faena clandestina: en Córdoba se decomisaron en marzo 1.700 kilos de carne bovina y porcina",
+        "url": "https://www.infocampo.com.ar/faena-clandestina-en-cordoba-se-decomisaron-en-marzo-1-700-kilos-de-carne-bovina-y-porcina/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/faena-clandestina-cba-carne-decomiso-1024x584.png"
+    },
+    {
+        "titulo": "Eficiencia ganadera, del tacto al parto: “Destetar más terneros no es cuestión de suerte”",
+        "url": "https://www.infocampo.com.ar/eficiencia-ganadera-del-tacto-al-parto-destetar-mas-terneros-no-es-cuestion-de-suerte/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/destete.jpg"
+    },
+    {
         "titulo": "China intensifica controles en las fronteras y sacrifica animales tras un brote de fiebre aftosa",
         "url": "https://www.infocampo.com.ar/fiebre-aftosa-en-china-intensificaron-controles-en-fronteras-y-sacrificaron-animales-ante-la-preocupacion/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/cows-walking-in-a-row-fenghuang-hunan-china-2026-01-09-09-12-11-utc-1024x584.jpg"
@@ -7,26 +17,16 @@
     {
         "titulo": "Mendoza se sube al boom ganadero: “Va a quitarle superficie a la uva, pero no es un riesgo, es una virtud”",
         "url": "https://www.infocampo.com.ar/mendoza-se-sube-al-boom-ganadero-va-a-quitarle-superficie-a-la-uva-pero-no-es-un-riesgo-es-una-virtud/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/Angus--e1774648270369-1024x583.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/Angus--e1774648270369-450x256.jpeg"
     },
     {
         "titulo": "El boom ganadero motoriza inversiones: 82% de los productores cree que es buen momento para realizarlas",
         "url": "https://www.infocampo.com.ar/el-boom-ganadero-motoriza-inversiones-82-de-los-productores-cree-que-es-buen-momento-para-realizarlas/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/10/vacas-hacienda-ganado-pasto-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/10/vacas-hacienda-ganado-pasto-450x257.png"
     },
     {
         "titulo": "Menos faena y vientres más caros: la reposición se encarece en plena recuperación de la cría",
         "url": "https://www.infocampo.com.ar/menos-faena-y-vientres-mas-caros-la-reposicion-se-encarece-en-plena-recuperacion-de-la-cria/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/03/vacas-patagonia-450x256.png"
-    },
-    {
-        "titulo": "El plan 2026 de la carne vacuna: “Seguir generando valor, divisas y trabajo”",
-        "url": "https://www.infocampo.com.ar/el-plan-2026-de-la-carne-vacuna-seguir-generando-valor-divisas-y-trabajo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/IMG_9292-450x257.jpg"
-    },
-    {
-        "titulo": "El “gualicho” de Doña Rosa: con manejo regenerativo, de un campo marginal a un “oasis de pasto”",
-        "url": "https://www.infocampo.com.ar/el-gualicho-de-dona-rosa-con-manejo-regenerativo-de-un-campo-marginal-a-un-oasis-de-pasto/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/urcera-450x257.jpg"
     }
 ]
