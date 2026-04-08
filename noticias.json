@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Falta carne: el stock bovino perdió otras 700.000 cabezas en 2025 y es el más bajo desde 2011",
+        "url": "https://www.infocampo.com.ar/falta-carne-el-stock-bovino-perdio-otras-700-000-cabezas-en-2025-y-es-el-mas-bajo-desde-2011/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/04/stock-bovino-magya-1024x583.png"
+    },
+    {
         "titulo": "Faena clandestina: en Córdoba se decomisaron en marzo 1.700 kilos de carne bovina y porcina",
         "url": "https://www.infocampo.com.ar/faena-clandestina-en-cordoba-se-decomisaron-en-marzo-1-700-kilos-de-carne-bovina-y-porcina/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/faena-clandestina-cba-carne-decomiso-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "China intensifica controles en las fronteras y sacrifica animales tras un brote de fiebre aftosa",
         "url": "https://www.infocampo.com.ar/fiebre-aftosa-en-china-intensificaron-controles-en-fronteras-y-sacrificaron-animales-ante-la-preocupacion/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/cows-walking-in-a-row-fenghuang-hunan-china-2026-01-09-09-12-11-utc-1024x584.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/cows-walking-in-a-row-fenghuang-hunan-china-2026-01-09-09-12-11-utc-450x257.jpg"
     },
     {
         "titulo": "Mendoza se sube al boom ganadero: “Va a quitarle superficie a la uva, pero no es un riesgo, es una virtud”",
@@ -23,10 +28,5 @@
         "titulo": "El boom ganadero motoriza inversiones: 82% de los productores cree que es buen momento para realizarlas",
         "url": "https://www.infocampo.com.ar/el-boom-ganadero-motoriza-inversiones-82-de-los-productores-cree-que-es-buen-momento-para-realizarlas/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/10/vacas-hacienda-ganado-pasto-450x257.png"
-    },
-    {
-        "titulo": "Menos faena y vientres más caros: la reposición se encarece en plena recuperación de la cría",
-        "url": "https://www.infocampo.com.ar/menos-faena-y-vientres-mas-caros-la-reposicion-se-encarece-en-plena-recuperacion-de-la-cria/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/03/vacas-patagonia-450x256.png"
     }
 ]
