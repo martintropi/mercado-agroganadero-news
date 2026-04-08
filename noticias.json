@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Con trazabilidad electrónica, la ganadería “conecta” con una nueva forma de tomar decisiones",
+        "url": "https://www.infocampo.com.ar/con-trazabilidad-electronica-la-ganaderia-conecta-con-una-nueva-forma-de-tomar-decisiones/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/inta.jpg"
+    },
+    {
         "titulo": "Falta carne: el stock bovino perdió otras 700.000 cabezas en 2025 y es el más bajo desde 2011",
         "url": "https://www.infocampo.com.ar/falta-carne-el-stock-bovino-perdio-otras-700-000-cabezas-en-2025-y-es-el-mas-bajo-desde-2011/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/04/stock-bovino-magya-1024x583.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Eficiencia ganadera, del tacto al parto: “Destetar más terneros no es cuestión de suerte”",
         "url": "https://www.infocampo.com.ar/eficiencia-ganadera-del-tacto-al-parto-destetar-mas-terneros-no-es-cuestion-de-suerte/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/destete.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/destete-450x257.jpg"
     },
     {
         "titulo": "China intensifica controles en las fronteras y sacrifica animales tras un brote de fiebre aftosa",
@@ -23,10 +28,5 @@
         "titulo": "Mendoza se sube al boom ganadero: “Va a quitarle superficie a la uva, pero no es un riesgo, es una virtud”",
         "url": "https://www.infocampo.com.ar/mendoza-se-sube-al-boom-ganadero-va-a-quitarle-superficie-a-la-uva-pero-no-es-un-riesgo-es-una-virtud/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/Angus--e1774648270369-450x256.jpeg"
-    },
-    {
-        "titulo": "El boom ganadero motoriza inversiones: 82% de los productores cree que es buen momento para realizarlas",
-        "url": "https://www.infocampo.com.ar/el-boom-ganadero-motoriza-inversiones-82-de-los-productores-cree-que-es-buen-momento-para-realizarlas/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/10/vacas-hacienda-ganado-pasto-450x257.png"
     }
 ]
