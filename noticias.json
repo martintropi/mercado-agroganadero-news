@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Retención y recría: los números del primer trimestre confirman el cambio de estrategia ganadera",
+        "url": "https://www.infocampo.com.ar/retencion-y-recria-los-numeros-del-primer-trimestre-confirman-el-cambio-de-estrategia-ganadera/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/recria.jpg"
+    },
+    {
         "titulo": "Argentina tendrá su “Semana de la Carne” en EEUU: una misión comercial inédita para impulsar exportaciones",
         "url": "https://www.infocampo.com.ar/argentina-tendra-su-semana-de-la-carne-en-eeuu-una-mision-comercial-inedita-para-impulsar-exportaciones/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/ABC-KARINA-1-1024x614.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Falta carne: el stock bovino perdió otras 700.000 cabezas en 2025 y es el más bajo desde 2011",
         "url": "https://www.infocampo.com.ar/falta-carne-el-stock-bovino-perdio-otras-700-000-cabezas-en-2025-y-es-el-mas-bajo-desde-2011/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/04/stock-bovino-magya-1024x583.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/04/stock-bovino-magya-450x256.png"
     },
     {
         "titulo": "Faena clandestina: en Córdoba se decomisaron en marzo 1.700 kilos de carne bovina y porcina",
@@ -23,10 +28,5 @@
         "titulo": "Eficiencia ganadera, del tacto al parto: “Destetar más terneros no es cuestión de suerte”",
         "url": "https://www.infocampo.com.ar/eficiencia-ganadera-del-tacto-al-parto-destetar-mas-terneros-no-es-cuestion-de-suerte/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/destete-450x257.jpg"
-    },
-    {
-        "titulo": "China intensifica controles en las fronteras y sacrifica animales tras un brote de fiebre aftosa",
-        "url": "https://www.infocampo.com.ar/fiebre-aftosa-en-china-intensificaron-controles-en-fronteras-y-sacrificaron-animales-ante-la-preocupacion/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/cows-walking-in-a-row-fenghuang-hunan-china-2026-01-09-09-12-11-utc-450x257.jpg"
     }
 ]
