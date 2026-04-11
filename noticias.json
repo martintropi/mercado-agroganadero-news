@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Revolución líquida y disciplina “Puma”: desde Pilar, los Ledesma mejoran la eficiencia ganadera",
+        "url": "https://www.infocampo.com.ar/revolucion-liquida-y-disciplina-puma-desde-pilar-los-ledesma-mejoran-la-eficiencia-ganadera/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/los-ledesma.jpeg"
+    },
+    {
         "titulo": "Alerta de Senasa: se detectó la “vaca loca” de los ovinos en Argentina y el país pierde un status sanitario",
         "url": "https://www.infocampo.com.ar/alerta-de-senasa-se-detecto-la-vaca-loca-de-los-ovinos-en-argentina-y-el-pais-pierde-un-status-sanitario/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/07/corderos-ovejas-dorper.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Retención y recría: los números del primer trimestre confirman el cambio de estrategia ganadera",
         "url": "https://www.infocampo.com.ar/retencion-y-recria-los-numeros-del-primer-trimestre-confirman-el-cambio-de-estrategia-ganadera/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/recria.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/recria-450x257.jpg"
     },
     {
         "titulo": "Argentina tendrá su “Semana de la Carne” en EEUU: una misión comercial inédita para impulsar exportaciones",
@@ -23,10 +28,5 @@
         "titulo": "Con trazabilidad electrónica, la ganadería “conecta” con una nueva forma de tomar decisiones",
         "url": "https://www.infocampo.com.ar/con-trazabilidad-electronica-la-ganaderia-conecta-con-una-nueva-forma-de-tomar-decisiones/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/inta-450x257.jpg"
-    },
-    {
-        "titulo": "Falta carne: el stock bovino perdió otras 700.000 cabezas en 2025 y es el más bajo desde 2011",
-        "url": "https://www.infocampo.com.ar/falta-carne-el-stock-bovino-perdio-otras-700-000-cabezas-en-2025-y-es-el-mas-bajo-desde-2011/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/04/stock-bovino-magya-450x256.png"
     }
 ]
