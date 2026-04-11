@@ -1,5 +1,15 @@
 [
     {
+        "titulo": "Alerta de Senasa: se detectó la “vaca loca” de los ovinos en Argentina y el país pierde un status sanitario",
+        "url": "https://www.infocampo.com.ar/alerta-de-senasa-se-detecto-la-vaca-loca-de-los-ovinos-en-argentina-y-el-pais-pierde-un-status-sanitario/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/07/corderos-ovejas-dorper.jpg"
+    },
+    {
+        "titulo": "De la genética a la carne, para elegir un buen reproductor: abre la Escuela de Jurados Hereford 2026",
+        "url": "https://www.infocampo.com.ar/de-la-genetica-a-la-carne-para-elegir-un-buen-reproductor-abre-la-escuela-de-jurados-hereford-2026/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2025-08-25-at-1.23.55-PM-1-1024x584.jpeg"
+    },
+    {
         "titulo": "Retención y recría: los números del primer trimestre confirman el cambio de estrategia ganadera",
         "url": "https://www.infocampo.com.ar/retencion-y-recria-los-numeros-del-primer-trimestre-confirman-el-cambio-de-estrategia-ganadera/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/recria.jpg"
@@ -7,26 +17,16 @@
     {
         "titulo": "Argentina tendrá su “Semana de la Carne” en EEUU: una misión comercial inédita para impulsar exportaciones",
         "url": "https://www.infocampo.com.ar/argentina-tendra-su-semana-de-la-carne-en-eeuu-una-mision-comercial-inedita-para-impulsar-exportaciones/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/ABC-KARINA-1-1024x614.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/ABC-KARINA-1-450x270.jpeg"
     },
     {
         "titulo": "Con trazabilidad electrónica, la ganadería “conecta” con una nueva forma de tomar decisiones",
         "url": "https://www.infocampo.com.ar/con-trazabilidad-electronica-la-ganaderia-conecta-con-una-nueva-forma-de-tomar-decisiones/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/inta.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/inta-450x257.jpg"
     },
     {
         "titulo": "Falta carne: el stock bovino perdió otras 700.000 cabezas en 2025 y es el más bajo desde 2011",
         "url": "https://www.infocampo.com.ar/falta-carne-el-stock-bovino-perdio-otras-700-000-cabezas-en-2025-y-es-el-mas-bajo-desde-2011/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/04/stock-bovino-magya-450x256.png"
-    },
-    {
-        "titulo": "Faena clandestina: en Córdoba se decomisaron en marzo 1.700 kilos de carne bovina y porcina",
-        "url": "https://www.infocampo.com.ar/faena-clandestina-en-cordoba-se-decomisaron-en-marzo-1-700-kilos-de-carne-bovina-y-porcina/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/faena-clandestina-cba-carne-decomiso-450x257.png"
-    },
-    {
-        "titulo": "Eficiencia ganadera, del tacto al parto: “Destetar más terneros no es cuestión de suerte”",
-        "url": "https://www.infocampo.com.ar/eficiencia-ganadera-del-tacto-al-parto-destetar-mas-terneros-no-es-cuestion-de-suerte/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/destete-450x257.jpg"
     }
 ]
