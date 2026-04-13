@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La “vaca loca” de los ovinos: cómo ingresó al país, cuáles son sus riesgos y qué medidas tomó el Senasa",
+        "url": "https://www.infocampo.com.ar/la-vaca-loca-de-los-ovinos-como-ingreso-al-pais-cuales-son-sus-riesgos-y-que-medidas-tomo-el-senasa/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/ovejas-dorper-senasa-1024x584.png"
+    },
+    {
         "titulo": "Revolución líquida y disciplina “Puma”: desde Pilar, los Ledesma mejoran la eficiencia ganadera",
         "url": "https://www.infocampo.com.ar/revolucion-liquida-y-disciplina-puma-desde-pilar-los-ledesma-mejoran-la-eficiencia-ganadera/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/los-ledesma.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "De la genética a la carne, para elegir un buen reproductor: abre la Escuela de Jurados Hereford 2026",
         "url": "https://www.infocampo.com.ar/de-la-genetica-a-la-carne-para-elegir-un-buen-reproductor-abre-la-escuela-de-jurados-hereford-2026/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2025-08-25-at-1.23.55-PM-1-1024x584.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2025-08-25-at-1.23.55-PM-1-450x257.jpeg"
     },
     {
         "titulo": "Retención y recría: los números del primer trimestre confirman el cambio de estrategia ganadera",
@@ -23,10 +28,5 @@
         "titulo": "Argentina tendrá su “Semana de la Carne” en EEUU: una misión comercial inédita para impulsar exportaciones",
         "url": "https://www.infocampo.com.ar/argentina-tendra-su-semana-de-la-carne-en-eeuu-una-mision-comercial-inedita-para-impulsar-exportaciones/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/ABC-KARINA-1-450x270.jpeg"
-    },
-    {
-        "titulo": "Con trazabilidad electrónica, la ganadería “conecta” con una nueva forma de tomar decisiones",
-        "url": "https://www.infocampo.com.ar/con-trazabilidad-electronica-la-ganaderia-conecta-con-una-nueva-forma-de-tomar-decisiones/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/inta-450x257.jpg"
     }
 ]
