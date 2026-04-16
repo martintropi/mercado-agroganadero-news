@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El boom ganadero y algunas dudas en el feedlot: “¿Cuánto hay para seguir creciendo si el consumidor te pone un techo?”",
+        "url": "https://www.infocampo.com.ar/el-boom-ganadero-y-algunas-dudas-en-el-feedlot-cuanto-hay-para-seguir-creciendo-si-el-consumidor-te-pone-un-techo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/06/feedlot-comedero-bio-5-1024x584.jpg"
+    },
+    {
         "titulo": "La “vaca loca” de los ovinos: cómo ingresó al país, cuáles son sus riesgos y qué medidas tomó el Senasa",
         "url": "https://www.infocampo.com.ar/la-vaca-loca-de-los-ovinos-como-ingreso-al-pais-cuales-son-sus-riesgos-y-que-medidas-tomo-el-senasa/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/ovejas-dorper-senasa-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Alerta de Senasa: se detectó la “vaca loca” de los ovinos en Argentina y el país pierde un status sanitario",
         "url": "https://www.infocampo.com.ar/alerta-de-senasa-se-detecto-la-vaca-loca-de-los-ovinos-en-argentina-y-el-pais-pierde-un-status-sanitario/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/07/corderos-ovejas-dorper.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/07/corderos-ovejas-dorper-450x257.jpg"
     },
     {
         "titulo": "De la genética a la carne, para elegir un buen reproductor: abre la Escuela de Jurados Hereford 2026",
@@ -23,10 +28,5 @@
         "titulo": "Retención y recría: los números del primer trimestre confirman el cambio de estrategia ganadera",
         "url": "https://www.infocampo.com.ar/retencion-y-recria-los-numeros-del-primer-trimestre-confirman-el-cambio-de-estrategia-ganadera/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/recria-450x257.jpg"
-    },
-    {
-        "titulo": "Argentina tendrá su “Semana de la Carne” en EEUU: una misión comercial inédita para impulsar exportaciones",
-        "url": "https://www.infocampo.com.ar/argentina-tendra-su-semana-de-la-carne-en-eeuu-una-mision-comercial-inedita-para-impulsar-exportaciones/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/ABC-KARINA-1-450x270.jpeg"
     }
 ]
