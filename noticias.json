@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El debate por el precio de la carne: es el alimento básico en el que más inciden los impuestos",
+        "url": "https://www.infocampo.com.ar/el-debate-por-el-precio-de-la-carne-es-el-alimento-basico-en-el-que-mas-inciden-los-impuestos/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/12/valor-carne.jpg"
+    },
+    {
         "titulo": "Santa Fe quiere subirse al tren de la carne: impulsa su industria frigorífica, con foco exportador",
         "url": "https://www.infocampo.com.ar/santa-fe-quiere-subirse-al-tren-de-la-carne-impulsa-su-industria-frigorifica-con-foco-exportador/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-17.15.55-1024x584.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "El boom ganadero y algunas dudas en el feedlot: “¿Cuánto hay para seguir creciendo si el consumidor te pone un techo?”",
         "url": "https://www.infocampo.com.ar/el-boom-ganadero-y-algunas-dudas-en-el-feedlot-cuanto-hay-para-seguir-creciendo-si-el-consumidor-te-pone-un-techo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/06/feedlot-comedero-bio-5-1024x584.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/06/feedlot-comedero-bio-5-450x257.jpg"
     },
     {
         "titulo": "La “vaca loca” de los ovinos: cómo ingresó al país, cuáles son sus riesgos y qué medidas tomó el Senasa",
@@ -23,10 +28,5 @@
         "titulo": "Revolución líquida y disciplina “Puma”: desde Pilar, los Ledesma mejoran la eficiencia ganadera",
         "url": "https://www.infocampo.com.ar/revolucion-liquida-y-disciplina-puma-desde-pilar-los-ledesma-mejoran-la-eficiencia-ganadera/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/los-ledesma-450x257.jpeg"
-    },
-    {
-        "titulo": "Alerta de Senasa: se detectó la “vaca loca” de los ovinos en Argentina y el país pierde un status sanitario",
-        "url": "https://www.infocampo.com.ar/alerta-de-senasa-se-detecto-la-vaca-loca-de-los-ovinos-en-argentina-y-el-pais-pierde-un-status-sanitario/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/07/corderos-ovejas-dorper-450x257.jpg"
     }
 ]
