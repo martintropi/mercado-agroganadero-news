@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Santa Fe sufre por las inundaciones: buscan campos para poder albergar hacienda evacuada",
+        "url": "https://www.infocampo.com.ar/santa-fe-sufre-por-las-inundaciones-buscan-campos-para-poder-albergar-hacienda-evacuada/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/09/vacas-campo-inundado-pato-gorza-1024x584.png"
+    },
+    {
         "titulo": "Con un precio récord, vuelan las exportaciones de carne: en marzo duplicaron el ingreso de dólares",
         "url": "https://www.infocampo.com.ar/con-un-precio-record-vuelan-las-exportaciones-de-carne-en-marzo-duplicaron-el-ingreso-de-dolares/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/02/carne-envasada2.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Santa Fe quiere subirse al tren de la carne: impulsa su industria frigorífica, con foco exportador",
         "url": "https://www.infocampo.com.ar/santa-fe-quiere-subirse-al-tren-de-la-carne-impulsa-su-industria-frigorifica-con-foco-exportador/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-17.15.55-1024x584.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-17.15.55-450x257.jpeg"
     },
     {
         "titulo": "Otro viento a favor ganadero: cambia el mapa mundial de la carne y Argentina está bien posicionada",
@@ -23,10 +28,5 @@
         "titulo": "El boom ganadero y algunas dudas en el feedlot: “¿Cuánto hay para seguir creciendo si el consumidor te pone un techo?”",
         "url": "https://www.infocampo.com.ar/el-boom-ganadero-y-algunas-dudas-en-el-feedlot-cuanto-hay-para-seguir-creciendo-si-el-consumidor-te-pone-un-techo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/06/feedlot-comedero-bio-5-450x257.jpg"
-    },
-    {
-        "titulo": "La “vaca loca” de los ovinos: cómo ingresó al país, cuáles son sus riesgos y qué medidas tomó el Senasa",
-        "url": "https://www.infocampo.com.ar/la-vaca-loca-de-los-ovinos-como-ingreso-al-pais-cuales-son-sus-riesgos-y-que-medidas-tomo-el-senasa/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/ovejas-dorper-senasa-450x257.png"
     }
 ]
