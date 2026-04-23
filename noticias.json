@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "“El negocio ganadero está espectacular: este ciclo recién se inicia y tenemos que aprovecharlo”",
+        "url": "https://www.infocampo.com.ar/el-negocio-ganadero-esta-espectacular-este-ciclo-recien-se-inicia-y-tenemos-que-aprovecharlo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-8.31.28-PM.jpeg"
+    },
+    {
         "titulo": "La hacienda busca un nuevo equilibrio: tras el pico de precios, corrección a la baja y mayor cautela",
         "url": "https://www.infocampo.com.ar/la-hacienda-busca-un-nuevo-equilibrio-tras-el-pico-de-precios-correccion-a-la-baja-y-mayor-cautela/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/05/novillitos-el-oratorio-ipcva.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Con un precio récord, vuelan las exportaciones de carne: en marzo duplicaron el ingreso de dólares",
         "url": "https://www.infocampo.com.ar/con-un-precio-record-vuelan-las-exportaciones-de-carne-en-marzo-duplicaron-el-ingreso-de-dolares/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/02/carne-envasada2.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/02/carne-envasada2-450x257.jpg"
     },
     {
         "titulo": "El debate por el precio de la carne: es el alimento básico en el que más inciden los impuestos",
@@ -23,10 +28,5 @@
         "titulo": "Santa Fe quiere subirse al tren de la carne: impulsa su industria frigorífica, con foco exportador",
         "url": "https://www.infocampo.com.ar/santa-fe-quiere-subirse-al-tren-de-la-carne-impulsa-su-industria-frigorifica-con-foco-exportador/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-17.15.55-450x257.jpeg"
-    },
-    {
-        "titulo": "Otro viento a favor ganadero: cambia el mapa mundial de la carne y Argentina está bien posicionada",
-        "url": "https://www.infocampo.com.ar/otro-viento-a-favor-ganadero-cambia-el-mapa-mundial-de-la-carne-y-argentina-esta-bien-posicionada/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/Imagen-de-WhatsApp-2025-09-25-a-las-13.48.11_3b28f198-450x257.jpg"
     }
 ]
