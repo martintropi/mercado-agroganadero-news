@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El precio de la carne vacuna: los frigoríficos confían en que “dejará de ser noticia” en mayo",
+        "url": "https://www.infocampo.com.ar/el-precio-de-la-carne-vacuna-los-frigorificos-confian-en-que-dejara-de-ser-noticia-en-mayo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/08/Carnes.jpg"
+    },
+    {
         "titulo": "“El negocio ganadero está espectacular: este ciclo recién se inicia y tenemos que aprovecharlo”",
         "url": "https://www.infocampo.com.ar/el-negocio-ganadero-esta-espectacular-este-ciclo-recien-se-inicia-y-tenemos-que-aprovecharlo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-8.31.28-PM.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Santa Fe sufre por las inundaciones: buscan campos para poder albergar hacienda evacuada",
         "url": "https://www.infocampo.com.ar/santa-fe-sufre-por-las-inundaciones-buscan-campos-para-poder-albergar-hacienda-evacuada/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/09/vacas-campo-inundado-pato-gorza-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/09/vacas-campo-inundado-pato-gorza-450x256.png"
     },
     {
         "titulo": "Con un precio récord, vuelan las exportaciones de carne: en marzo duplicaron el ingreso de dólares",
@@ -23,10 +28,5 @@
         "titulo": "El debate por el precio de la carne: es el alimento básico en el que más inciden los impuestos",
         "url": "https://www.infocampo.com.ar/el-debate-por-el-precio-de-la-carne-es-el-alimento-basico-en-el-que-mas-inciden-los-impuestos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/12/valor-carne-450x257.jpg"
-    },
-    {
-        "titulo": "Santa Fe quiere subirse al tren de la carne: impulsa su industria frigorífica, con foco exportador",
-        "url": "https://www.infocampo.com.ar/santa-fe-quiere-subirse-al-tren-de-la-carne-impulsa-su-industria-frigorifica-con-foco-exportador/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-17.15.55-450x257.jpeg"
     }
 ]
