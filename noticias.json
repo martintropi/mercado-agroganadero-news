@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Falta de hacienda y dólar atrasado: dos “cuellos de botella” en el sendero exportador de la carne",
+        "url": "https://www.infocampo.com.ar/falta-de-hacienda-y-dolar-atrasado-dos-cuellos-de-botella-en-el-sendero-exportador-de-la-carne/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/12/novillos-el-porvenir-1024x584.jpg"
+    },
+    {
         "titulo": "Día del Animal: “Una dieta adecuada es una herramienta importante para prolongar la vida y su calidad”",
         "url": "https://www.infocampo.com.ar/dia-del-animal-una-dieta-adecuada-es-una-herramienta-importante-para-prolongar-la-vida-y-su-calidad/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/SUPERANIMALES-CAENA-Semana-del-Animal-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "“El negocio ganadero está espectacular: este ciclo recién se inicia y tenemos que aprovecharlo”",
         "url": "https://www.infocampo.com.ar/el-negocio-ganadero-esta-espectacular-este-ciclo-recien-se-inicia-y-tenemos-que-aprovecharlo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-8.31.28-PM.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-8.31.28-PM-450x257.jpeg"
     },
     {
         "titulo": "La hacienda busca un nuevo equilibrio: tras el pico de precios, corrección a la baja y mayor cautela",
@@ -23,10 +28,5 @@
         "titulo": "Santa Fe sufre por las inundaciones: buscan campos para poder albergar hacienda evacuada",
         "url": "https://www.infocampo.com.ar/santa-fe-sufre-por-las-inundaciones-buscan-campos-para-poder-albergar-hacienda-evacuada/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/09/vacas-campo-inundado-pato-gorza-450x256.png"
-    },
-    {
-        "titulo": "Con un precio récord, vuelan las exportaciones de carne: en marzo duplicaron el ingreso de dólares",
-        "url": "https://www.infocampo.com.ar/con-un-precio-record-vuelan-las-exportaciones-de-carne-en-marzo-duplicaron-el-ingreso-de-dolares/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/02/carne-envasada2-450x257.jpg"
     }
 ]
