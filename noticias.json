@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Oportunidad ganadera: uno de los países con mayor superficie de pastizales busca genética argentina",
+        "url": "https://www.infocampo.com.ar/oportunidad-ganadera-uno-de-los-paises-con-mayor-superficie-de-pastizales-busca-genetica-argentina/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-05-at-16.46.57-1024x584.jpeg"
+    },
+    {
         "titulo": "Forrajes: la ganadería se fortalece en el Chaco Semiárido de la mano de las gramíneas megatérmicas",
         "url": "https://www.infocampo.com.ar/forrajes-la-ganaderia-se-fortalece-en-el-chaco-semiarido-de-la-mano-de-las-gramineas-megatermicas/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/inta-megatermicas.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Día del Animal: “Una dieta adecuada es una herramienta importante para prolongar la vida y su calidad”",
         "url": "https://www.infocampo.com.ar/dia-del-animal-una-dieta-adecuada-es-una-herramienta-importante-para-prolongar-la-vida-y-su-calidad/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/SUPERANIMALES-CAENA-Semana-del-Animal-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/SUPERANIMALES-CAENA-Semana-del-Animal-450x257.png"
     },
     {
         "titulo": "El precio de la carne vacuna: los frigoríficos confían en que “dejará de ser noticia” en mayo",
@@ -23,10 +28,5 @@
         "titulo": "“El negocio ganadero está espectacular: este ciclo recién se inicia y tenemos que aprovecharlo”",
         "url": "https://www.infocampo.com.ar/el-negocio-ganadero-esta-espectacular-este-ciclo-recien-se-inicia-y-tenemos-que-aprovecharlo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-8.31.28-PM-450x257.jpeg"
-    },
-    {
-        "titulo": "La hacienda busca un nuevo equilibrio: tras el pico de precios, corrección a la baja y mayor cautela",
-        "url": "https://www.infocampo.com.ar/la-hacienda-busca-un-nuevo-equilibrio-tras-el-pico-de-precios-correccion-a-la-baja-y-mayor-cautela/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/05/novillitos-el-oratorio-ipcva-450x256.jpg"
     }
 ]
