@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "“El asado nos une”: la genética Braford marcará el pulso del buen momento ganadero en Corrientes",
+        "url": "https://www.infocampo.com.ar/el-asado-nos-une-la-genetica-braford-marcara-el-pulso-del-buen-momento-ganadero-en-corrientes/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Descargar-foto.jpg"
+    },
+    {
         "titulo": "Los terneros marcan el ritmo de un año atípico para la ganadería: la zafra más lenta en una década",
         "url": "https://www.infocampo.com.ar/los-terneros-marcan-el-ritmo-de-un-ano-atipico-para-la-ganaderia-la-zafra-mas-lenta-en-una-decada/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/02/terneros-mal-estado-corporal.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Forrajes: la ganadería se fortalece en el Chaco Semiárido de la mano de las gramíneas megatérmicas",
         "url": "https://www.infocampo.com.ar/forrajes-la-ganaderia-se-fortalece-en-el-chaco-semiarido-de-la-mano-de-las-gramineas-megatermicas/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/inta-megatermicas.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/inta-megatermicas-450x257.jpg"
     },
     {
         "titulo": "Falta de hacienda y dólar atrasado: dos “cuellos de botella” en el sendero exportador de la carne",
@@ -23,10 +28,5 @@
         "titulo": "Día del Animal: “Una dieta adecuada es una herramienta importante para prolongar la vida y su calidad”",
         "url": "https://www.infocampo.com.ar/dia-del-animal-una-dieta-adecuada-es-una-herramienta-importante-para-prolongar-la-vida-y-su-calidad/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/04/SUPERANIMALES-CAENA-Semana-del-Animal-450x257.png"
-    },
-    {
-        "titulo": "El precio de la carne vacuna: los frigoríficos confían en que “dejará de ser noticia” en mayo",
-        "url": "https://www.infocampo.com.ar/el-precio-de-la-carne-vacuna-los-frigorificos-confian-en-que-dejara-de-ser-noticia-en-mayo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/08/Carnes-450x257.jpg"
     }
 ]
