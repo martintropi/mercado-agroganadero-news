@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Diversificación ganadera: Córdoba ya tiene más de 5.000 búfalos y los muestra en un mapa interactivo",
+        "url": "https://www.infocampo.com.ar/diversificacion-ganadera-cordoba-ya-tiene-mas-de-5-000-bufalos-y-los-muestra-en-un-mapa-interactivo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-12.18.25-711x533-1.jpeg"
+    },
+    {
         "titulo": "Genética de exportación: el Hereford argentino busca llegar a las estepas de Asia Central",
         "url": "https://www.infocampo.com.ar/genetica-de-exportacion-el-hereford-argentino-busca-llegar-a-las-estepas-de-asia-central/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/03/rodeo-hereford-patagonia.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "“El asado nos une”: la genética Braford marcará el pulso del buen momento ganadero en Corrientes",
         "url": "https://www.infocampo.com.ar/el-asado-nos-une-la-genetica-braford-marcara-el-pulso-del-buen-momento-ganadero-en-corrientes/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Descargar-foto.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Descargar-foto-450x257.jpg"
     },
     {
         "titulo": "Los terneros marcan el ritmo de un año atípico para la ganadería: la zafra más lenta en una década",
@@ -23,10 +28,5 @@
         "titulo": "Oportunidad ganadera: uno de los países con mayor superficie de pastizales busca genética argentina",
         "url": "https://www.infocampo.com.ar/oportunidad-ganadera-uno-de-los-paises-con-mayor-superficie-de-pastizales-busca-genetica-argentina/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-05-at-16.46.57-450x257.jpeg"
-    },
-    {
-        "titulo": "Forrajes: la ganadería se fortalece en el Chaco Semiárido de la mano de las gramíneas megatérmicas",
-        "url": "https://www.infocampo.com.ar/forrajes-la-ganaderia-se-fortalece-en-el-chaco-semiarido-de-la-mano-de-las-gramineas-megatermicas/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/inta-megatermicas-450x257.jpg"
     }
 ]
