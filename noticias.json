@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Genética de exportación: el Hereford argentino busca llegar a las estepas de Asia Central",
+        "url": "https://www.infocampo.com.ar/genetica-de-exportacion-el-hereford-argentino-busca-llegar-a-las-estepas-de-asia-central/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/03/rodeo-hereford-patagonia.jpg"
+    },
+    {
         "titulo": "Norma europea antideforestación: por qué llaman a los ganaderos a inscribirse ya en el VISEC Carne",
         "url": "https://www.infocampo.com.ar/norma-europea-antideforestacion-por-que-llaman-a-los-ganaderos-a-inscribirse-ya-en-el-visec-carne/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/delatour-6-1024x584.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Los terneros marcan el ritmo de un año atípico para la ganadería: la zafra más lenta en una década",
         "url": "https://www.infocampo.com.ar/los-terneros-marcan-el-ritmo-de-un-ano-atipico-para-la-ganaderia-la-zafra-mas-lenta-en-una-decada/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/02/terneros-mal-estado-corporal.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/02/terneros-mal-estado-corporal-450x253.jpg"
     },
     {
         "titulo": "Oportunidad ganadera: uno de los países con mayor superficie de pastizales busca genética argentina",
@@ -23,10 +28,5 @@
         "titulo": "Forrajes: la ganadería se fortalece en el Chaco Semiárido de la mano de las gramíneas megatérmicas",
         "url": "https://www.infocampo.com.ar/forrajes-la-ganaderia-se-fortalece-en-el-chaco-semiarido-de-la-mano-de-las-gramineas-megatermicas/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/inta-megatermicas-450x257.jpg"
-    },
-    {
-        "titulo": "Falta de hacienda y dólar atrasado: dos “cuellos de botella” en el sendero exportador de la carne",
-        "url": "https://www.infocampo.com.ar/falta-de-hacienda-y-dolar-atrasado-dos-cuellos-de-botella-en-el-sendero-exportador-de-la-carne/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/12/novillos-el-porvenir-450x256.jpg"
     }
 ]
