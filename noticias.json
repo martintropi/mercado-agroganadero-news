@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "¿Arrancó el camino hacia los 4 millones de toneladas de producción de carne vacuna?",
+        "url": "https://www.infocampo.com.ar/arranco-el-camino-hacia-las-4-millones-de-toneladas-de-produccion-de-carne-vacuna/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/carne-exportacion-sagyp-1024x584.png"
+    },
+    {
         "titulo": "Retención de vientres y feedlots llenos: “Hoy la ganadería tiene la dopamina por las nubes”",
         "url": "https://www.infocampo.com.ar/retencion-de-vientres-y-feedlots-llenos-hoy-la-ganaderia-tiene-la-dopamina-por-las-nubes/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/SPE2062-1024x584.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Genética de exportación: el Hereford argentino busca llegar a las estepas de Asia Central",
         "url": "https://www.infocampo.com.ar/genetica-de-exportacion-el-hereford-argentino-busca-llegar-a-las-estepas-de-asia-central/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/03/rodeo-hereford-patagonia.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/03/rodeo-hereford-patagonia-450x257.jpg"
     },
     {
         "titulo": "Norma europea antideforestación: por qué llaman a los ganaderos a inscribirse ya en el VISEC Carne",
@@ -23,10 +28,5 @@
         "titulo": "“El asado nos une”: la genética Braford marcará el pulso del buen momento ganadero en Corrientes",
         "url": "https://www.infocampo.com.ar/el-asado-nos-une-la-genetica-braford-marcara-el-pulso-del-buen-momento-ganadero-en-corrientes/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Descargar-foto-450x257.jpg"
-    },
-    {
-        "titulo": "Los terneros marcan el ritmo de un año atípico para la ganadería: la zafra más lenta en una década",
-        "url": "https://www.infocampo.com.ar/los-terneros-marcan-el-ritmo-de-un-ano-atipico-para-la-ganaderia-la-zafra-mas-lenta-en-una-decada/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/02/terneros-mal-estado-corporal-450x253.jpg"
     }
 ]
