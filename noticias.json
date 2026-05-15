@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "SIAL 2026: con “muchas expectativas”, la carne argentina va a China a potenciar el boom exportador",
+        "url": "https://www.infocampo.com.ar/sial-2026-con-muchas-expectativas-la-carne-argentina-va-a-china-a-potenciar-el-boom-exportador/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Restaurante-Argentine-Beef-4-1024x584.jpg"
+    },
+    {
         "titulo": "Nubarrones en China, EEUU y Europa: el camino exportador de la carne argentina ya no se ve tan despejado",
         "url": "https://www.infocampo.com.ar/nubarrones-en-china-eeuu-y-europa-el-camino-exportador-de-la-carne-argentina-ya-no-se-ve-tan-despejado/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/08/Carne-Exportacion-Frigorifico.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Retención de vientres y feedlots llenos: “Hoy la ganadería tiene la dopamina por las nubes”",
         "url": "https://www.infocampo.com.ar/retencion-de-vientres-y-feedlots-llenos-hoy-la-ganaderia-tiene-la-dopamina-por-las-nubes/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/SPE2062-1024x584.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/SPE2062-450x257.jpg"
     },
     {
         "titulo": "Diversificación ganadera: Córdoba ya tiene más de 5.000 búfalos y los muestra en un mapa interactivo",
@@ -23,10 +28,5 @@
         "titulo": "Genética de exportación: el Hereford argentino busca llegar a las estepas de Asia Central",
         "url": "https://www.infocampo.com.ar/genetica-de-exportacion-el-hereford-argentino-busca-llegar-a-las-estepas-de-asia-central/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/03/rodeo-hereford-patagonia-450x257.jpg"
-    },
-    {
-        "titulo": "Norma europea antideforestación: por qué llaman a los ganaderos a inscribirse ya en el VISEC Carne",
-        "url": "https://www.infocampo.com.ar/norma-europea-antideforestacion-por-que-llaman-a-los-ganaderos-a-inscribirse-ya-en-el-visec-carne/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/delatour-6-450x257.jpg"
     }
 ]
