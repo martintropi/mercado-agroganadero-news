@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La mayor empresa de alimentos de España invierte U$S 14 millones para la producción de cerdos en Argentina",
+        "url": "https://www.infocampo.com.ar/la-mayor-empresa-de-alimentos-de-espana-invierte-us-14-millones-para-la-produccion-de-cerdos-en-argentina/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/granja-porcina-cerdos-2-1024x584.png"
+    },
+    {
         "titulo": "SIAL 2026: con “muchas expectativas”, la carne argentina va a China a potenciar el boom exportador",
         "url": "https://www.infocampo.com.ar/sial-2026-con-muchas-expectativas-la-carne-argentina-va-a-china-a-potenciar-el-boom-exportador/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Restaurante-Argentine-Beef-4-1024x584.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "¿Arrancó el camino hacia los 4 millones de toneladas de producción de carne vacuna?",
         "url": "https://www.infocampo.com.ar/arranco-el-camino-hacia-las-4-millones-de-toneladas-de-produccion-de-carne-vacuna/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/carne-exportacion-sagyp-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/carne-exportacion-sagyp-450x257.png"
     },
     {
         "titulo": "Retención de vientres y feedlots llenos: “Hoy la ganadería tiene la dopamina por las nubes”",
@@ -20,13 +25,8 @@
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/SPE2062-450x257.jpg"
     },
     {
-        "titulo": "Diversificación ganadera: Córdoba ya tiene más de 5.000 búfalos y los muestra en un mapa interactivo",
+        "titulo": "¿Por qué Córdoba apuesta fuerte a los búfalos? Más de 5.000 cabezas y un mapa interactivo revela el avance ganadero",
         "url": "https://www.infocampo.com.ar/diversificacion-ganadera-cordoba-ya-tiene-mas-de-5-000-bufalos-y-los-muestra-en-un-mapa-interactivo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-12.18.25-711x533-1-450x257.jpeg"
-    },
-    {
-        "titulo": "Genética de exportación: el Hereford argentino busca llegar a las estepas de Asia Central",
-        "url": "https://www.infocampo.com.ar/genetica-de-exportacion-el-hereford-argentino-busca-llegar-a-las-estepas-de-asia-central/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/03/rodeo-hereford-patagonia-450x257.jpg"
     }
 ]
