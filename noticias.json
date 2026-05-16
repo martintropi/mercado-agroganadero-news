@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Pastizales bajo la lupa: un estudio advierte que excluir el ganado no los recupera y los degrada a largo plazo",
+        "url": "https://www.infocampo.com.ar/pastizales-bajo-la-lupa-un-estudio-advierte-que-excluir-el-ganado-no-los-recupera-y-los-degrada-a-largo-plazo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/primera-1.jpg"
+    },
+    {
         "titulo": "La mayor empresa de alimentos de España invierte U$S 14 millones para la producción de cerdos en Argentina",
         "url": "https://www.infocampo.com.ar/la-mayor-empresa-de-alimentos-de-espana-invierte-us-14-millones-para-la-produccion-de-cerdos-en-argentina/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/granja-porcina-cerdos-2-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Nubarrones en China, EEUU y Europa: el camino exportador de la carne argentina ya no se ve tan despejado",
         "url": "https://www.infocampo.com.ar/nubarrones-en-china-eeuu-y-europa-el-camino-exportador-de-la-carne-argentina-ya-no-se-ve-tan-despejado/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/08/Carne-Exportacion-Frigorifico.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/08/Carne-Exportacion-Frigorifico-450x257.jpg"
     },
     {
         "titulo": "¿Arrancó el camino hacia los 4 millones de toneladas de producción de carne vacuna?",
@@ -23,10 +28,5 @@
         "titulo": "Retención de vientres y feedlots llenos: “Hoy la ganadería tiene la dopamina por las nubes”",
         "url": "https://www.infocampo.com.ar/retencion-de-vientres-y-feedlots-llenos-hoy-la-ganaderia-tiene-la-dopamina-por-las-nubes/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/SPE2062-450x257.jpg"
-    },
-    {
-        "titulo": "¿Por qué Córdoba apuesta fuerte a los búfalos? Más de 5.000 cabezas y un mapa interactivo revela el avance ganadero",
-        "url": "https://www.infocampo.com.ar/diversificacion-ganadera-cordoba-ya-tiene-mas-de-5-000-bufalos-y-los-muestra-en-un-mapa-interactivo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-12.18.25-711x533-1-450x257.jpeg"
     }
 ]
