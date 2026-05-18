@@ -1,5 +1,15 @@
 [
     {
+        "titulo": "“Paulino” abrió la pista y los Angus ya viven su fiesta de otoño en Palermo, con récord de inscriptos",
+        "url": "https://www.infocampo.com.ar/paulino-abrio-la-pista-y-los-angus-ya-viven-su-fiesta-de-otono-en-palermo-con-record-de-inscriptos/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/toro-angus-otono-1024x584.png"
+    },
+    {
+        "titulo": "Comenzó la Sial China, con el rol protagónico de Argentina como su 2° mayor proveedor de carne",
+        "url": "https://www.infocampo.com.ar/comenzo-la-sial-china-con-el-rol-protagonico-de-argentina-como-su-2-mayor-proveedor-de-carne/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/sial-china-1024x584.png"
+    },
+    {
         "titulo": "Solo una foto y la IA: tres jóvenes diseñaron una app que facilita el manejo de un aspecto clave en los bovinos",
         "url": "https://www.infocampo.com.ar/solo-una-foto-y-la-ia-tres-jovenes-disenaron-una-app-que-facilita-el-manejo-de-un-aspecto-clave-en-los-bovinos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/primera-2.jpeg"
@@ -7,26 +17,16 @@
     {
         "titulo": "Pastizales bajo la lupa: un estudio advierte que excluir el ganado no los recupera y los degrada a largo plazo",
         "url": "https://www.infocampo.com.ar/pastizales-bajo-la-lupa-un-estudio-advierte-que-excluir-el-ganado-no-los-recupera-y-los-degrada-a-largo-plazo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/primera-1.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/primera-1-450x257.jpg"
     },
     {
         "titulo": "La mayor empresa de alimentos de España invierte U$S 14 millones para la producción de cerdos en Argentina",
         "url": "https://www.infocampo.com.ar/la-mayor-empresa-de-alimentos-de-espana-invierte-us-14-millones-para-la-produccion-de-cerdos-en-argentina/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/granja-porcina-cerdos-2-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/granja-porcina-cerdos-2-450x257.png"
     },
     {
         "titulo": "SIAL 2026: con “muchas expectativas”, la carne argentina va a China a potenciar el boom exportador",
         "url": "https://www.infocampo.com.ar/sial-2026-con-muchas-expectativas-la-carne-argentina-va-a-china-a-potenciar-el-boom-exportador/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Restaurante-Argentine-Beef-4-450x257.jpg"
-    },
-    {
-        "titulo": "Nubarrones en China, EEUU y Europa: el camino exportador de la carne argentina ya no se ve tan despejado",
-        "url": "https://www.infocampo.com.ar/nubarrones-en-china-eeuu-y-europa-el-camino-exportador-de-la-carne-argentina-ya-no-se-ve-tan-despejado/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/08/Carne-Exportacion-Frigorifico-450x257.jpg"
-    },
-    {
-        "titulo": "¿Arrancó el camino hacia los 4 millones de toneladas de producción de carne vacuna?",
-        "url": "https://www.infocampo.com.ar/arranco-el-camino-hacia-las-4-millones-de-toneladas-de-produccion-de-carne-vacuna/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/carne-exportacion-sagyp-450x257.png"
     }
 ]
