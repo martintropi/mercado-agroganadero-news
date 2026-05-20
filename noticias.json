@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La alfalfa también nutre el boom agroexportador: los envíos crecieron más de 90% en el primer trimestre",
+        "url": "https://www.infocampo.com.ar/la-alfalfa-tambien-nutre-el-boom-agroexportador-los-envios-crecieron-mas-de-90-en-el-primer-trimestre/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/alfa.jpg"
+    },
+    {
         "titulo": "Beneficio ganadero: cómo es la reducción de impuestos para la valuación de hacienda de invernada",
         "url": "https://www.infocampo.com.ar/beneficio-ganadero-como-es-la-reduccion-de-impuestos-para-la-valuacion-de-hacienda-de-invernada/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/hacienda-ganado-sagyp-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "El desafiante recorrido de un gran campeón: las claves del camino para lograr un Angus de elite",
         "url": "https://www.infocampo.com.ar/el-desafiante-recorrido-de-un-gran-campeon-las-claves-del-camino-para-lograr-un-angus-de-elite/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/camino-campeones-angus-1024x583.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/camino-campeones-angus-450x256.png"
     },
     {
         "titulo": "“Paulino” abrió la pista y los Angus ya viven su fiesta de otoño en Palermo, con récord de inscriptos",
@@ -23,10 +28,5 @@
         "titulo": "Comenzó la Sial China, con el rol protagónico de Argentina como su 2° mayor proveedor de carne",
         "url": "https://www.infocampo.com.ar/comenzo-la-sial-china-con-el-rol-protagonico-de-argentina-como-su-2-mayor-proveedor-de-carne/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/sial-china-450x257.png"
-    },
-    {
-        "titulo": "Solo una foto y la IA: tres jóvenes diseñaron una app que facilita el manejo de un aspecto clave en los bovinos",
-        "url": "https://www.infocampo.com.ar/solo-una-foto-y-la-ia-tres-jovenes-disenaron-una-app-que-facilita-el-manejo-de-un-aspecto-clave-en-los-bovinos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/primera-2-450x257.jpeg"
     }
 ]
