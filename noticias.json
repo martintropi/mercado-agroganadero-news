@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "“Con una ganadería pujante y con futuro, hay ganas de invertir en genética e instalaciones”",
+        "url": "https://www.infocampo.com.ar/con-una-ganaderia-pujante-y-con-futuro-hay-ganas-de-invertir-en-genetica-e-instalaciones/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Marcos-Mondino--1024x614.jpeg"
+    },
+    {
         "titulo": "Las Nacionales 2026: otra gran vidriera de la genética bovina argentina se alista en Corrientes",
         "url": "https://www.infocampo.com.ar/las-nacionales-2026-otra-gran-vidriera-de-la-genetica-bovina-argentina-se-alista-en-corrientes/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/nacionales-corrientes-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "“Que un animal sea lindo no significa que produzca bien, y en genética nos interesa qué va a producir”",
         "url": "https://www.infocampo.com.ar/que-un-animal-sea-lindo-no-significa-que-produzca-bien-en-genetica-nos-interesa-que-va-a-producir/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Angus-Bustillo--1024x614.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Angus-Bustillo--450x270.jpeg"
     },
     {
         "titulo": "Optimismo cárnico tras la Sial China: los precios están firmes e incluso podrían crecer hacia fin de año",
@@ -23,10 +28,5 @@
         "titulo": "La alfalfa también nutre el boom agroexportador: los envíos crecieron más de 90% en el primer trimestre",
         "url": "https://www.infocampo.com.ar/la-alfalfa-tambien-nutre-el-boom-agroexportador-los-envios-crecieron-mas-de-90-en-el-primer-trimestre/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/alfa-450x257.jpg"
-    },
-    {
-        "titulo": "Beneficio ganadero: cómo es la reducción de impuestos para la valuación de hacienda de invernada",
-        "url": "https://www.infocampo.com.ar/beneficio-ganadero-como-es-la-reduccion-de-impuestos-para-la-valuacion-de-hacienda-de-invernada/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/hacienda-ganado-sagyp-450x257.png"
     }
 ]
