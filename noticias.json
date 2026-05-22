@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Los “lindos números” de la ganadería actual: “Hoy es un buen negocio para meterse”",
+        "url": "https://www.infocampo.com.ar/los-lindos-numeros-de-la-ganaderia-actual-hoy-es-un-lindo-negocio-para-meterse/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/madelan-6-1024x614.jpeg"
+    },
+    {
         "titulo": "“Con una ganadería pujante y con futuro, hay ganas de invertir en genética e instalaciones”",
         "url": "https://www.infocampo.com.ar/con-una-ganaderia-pujante-y-con-futuro-hay-ganas-de-invertir-en-genetica-e-instalaciones/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Marcos-Mondino--1024x614.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Triquinosis: las claves para prevenir la enfermedad en su época de mayor riesgo",
         "url": "https://www.infocampo.com.ar/triquinosis-las-claves-para-prevenir-la-enfermedad-en-su-epoca-de-mayor-riesgo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/img-20260518-wa0000.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/img-20260518-wa0000-450x257.jpg"
     },
     {
         "titulo": "“Que un animal sea lindo no significa que produzca bien, y en genética nos interesa qué va a producir”",
@@ -23,10 +28,5 @@
         "titulo": "Optimismo cárnico tras la Sial China: los precios están firmes e incluso podrían crecer hacia fin de año",
         "url": "https://www.infocampo.com.ar/optimismo-carnico-tras-la-sial-china-los-precios-estan-firmes-e-incluso-podrian-crecer-hacia-fin-de-ano/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Sial-china-2026-IPCVA-2-450x257.jpg"
-    },
-    {
-        "titulo": "La alfalfa también nutre el boom agroexportador: los envíos crecieron más de 90% en el primer trimestre",
-        "url": "https://www.infocampo.com.ar/la-alfalfa-tambien-nutre-el-boom-agroexportador-los-envios-crecieron-mas-de-90-en-el-primer-trimestre/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/alfa-450x257.jpg"
     }
 ]
