@@ -1,5 +1,15 @@
 [
     {
+        "titulo": "Con la Cuota Hilton 2025/26 cumplida casi al 100%, el Gobierno abrió las inscripciones para el nuevo ciclo",
+        "url": "https://www.infocampo.com.ar/con-la-cuota-hilton-2025-26-cumplida-casi-al-100-el-gobierno-abrio-las-inscripciones-para-el-nuevo-ciclo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2020/02/ganaderia-cuota-hilton-infocampo.jpg"
+    },
+    {
+        "titulo": "El boom ganadero está firme en la genética: pagan $ 40 millones por el 50% de un toro Brahman",
+        "url": "https://www.infocampo.com.ar/el-boom-ganadero-esta-firme-en-la-genetica-pagan-40-millones-por-el-50-de-un-toro-brahman/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/brahman-gran-campen.png"
+    },
+    {
         "titulo": "Remates que prometen hacer historia: la genética ganadera se dirime en Armstrong",
         "url": "https://www.infocampo.com.ar/remates-que-prometen-hacer-historia-la-genetica-ganadera-se-dirime-en-armstrong/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/IMG-20250604-WA0206.jpg"
@@ -7,26 +17,16 @@
     {
         "titulo": "Los “lindos números” de la ganadería actual: “Hoy es un buen negocio para meterse”",
         "url": "https://www.infocampo.com.ar/los-lindos-numeros-de-la-ganaderia-actual-hoy-es-un-lindo-negocio-para-meterse/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/madelan-6-1024x614.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/madelan-6-450x270.jpeg"
     },
     {
         "titulo": "“Con una ganadería pujante y con futuro, hay ganas de invertir en genética e instalaciones”",
         "url": "https://www.infocampo.com.ar/con-una-ganaderia-pujante-y-con-futuro-hay-ganas-de-invertir-en-genetica-e-instalaciones/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Marcos-Mondino--1024x614.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Marcos-Mondino--450x270.jpeg"
     },
     {
         "titulo": "Las Nacionales 2026: otra gran vidriera de la genética bovina argentina se alista en Corrientes",
         "url": "https://www.infocampo.com.ar/las-nacionales-2026-otra-gran-vidriera-de-la-genetica-bovina-argentina-se-alista-en-corrientes/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/nacionales-corrientes-450x257.png"
-    },
-    {
-        "titulo": "Triquinosis: las claves para prevenir la enfermedad en su época de mayor riesgo",
-        "url": "https://www.infocampo.com.ar/triquinosis-las-claves-para-prevenir-la-enfermedad-en-su-epoca-de-mayor-riesgo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/img-20260518-wa0000-450x257.jpg"
-    },
-    {
-        "titulo": "“Que un animal sea lindo no significa que produzca bien, y en genética nos interesa qué va a producir”",
-        "url": "https://www.infocampo.com.ar/que-un-animal-sea-lindo-no-significa-que-produzca-bien-en-genetica-nos-interesa-que-va-a-producir/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Angus-Bustillo--450x270.jpeg"
     }
 ]
