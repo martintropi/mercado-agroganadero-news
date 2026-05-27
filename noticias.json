@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Al compás del tango, la carne argentina sale de gira por el interior de China para ampliar el mercado",
+        "url": "https://www.infocampo.com.ar/al-compas-del-tango-la-carne-argentina-sale-de-gira-por-el-interior-de-china-para-ampliar-el-mercado/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/tango-ipcva-1024x584.png"
+    },
+    {
         "titulo": "Con la Cuota Hilton 2025/26 cumplida casi al 100%, el Gobierno abrió las inscripciones para el nuevo ciclo",
         "url": "https://www.infocampo.com.ar/con-la-cuota-hilton-2025-26-cumplida-casi-al-100-el-gobierno-abrio-las-inscripciones-para-el-nuevo-ciclo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2020/02/ganaderia-cuota-hilton-infocampo.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Remates que prometen hacer historia: la genética ganadera se dirime en Armstrong",
         "url": "https://www.infocampo.com.ar/remates-que-prometen-hacer-historia-la-genetica-ganadera-se-dirime-en-armstrong/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/IMG-20250604-WA0206.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/IMG-20250604-WA0206-450x257.jpg"
     },
     {
         "titulo": "Los “lindos números” de la ganadería actual: “Hoy es un buen negocio para meterse”",
@@ -23,10 +28,5 @@
         "titulo": "“Con una ganadería pujante y con futuro, hay ganas de invertir en genética e instalaciones”",
         "url": "https://www.infocampo.com.ar/con-una-ganaderia-pujante-y-con-futuro-hay-ganas-de-invertir-en-genetica-e-instalaciones/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Marcos-Mondino--450x270.jpeg"
-    },
-    {
-        "titulo": "Las Nacionales 2026: otra gran vidriera de la genética bovina argentina se alista en Corrientes",
-        "url": "https://www.infocampo.com.ar/las-nacionales-2026-otra-gran-vidriera-de-la-genetica-bovina-argentina-se-alista-en-corrientes/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/nacionales-corrientes-450x257.png"
     }
 ]
