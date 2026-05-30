@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Efectos del boom ganadero: la genética argentina busca instalar su “vidriera” para el mundo",
+        "url": "https://www.infocampo.com.ar/efectos-del-boom-ganadero-la-genetica-argentina-busca-instalar-su-vidriera-para-el-mundo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Angus-Otono-3-1024x633.jpg"
+    },
+    {
         "titulo": "Amortización acelerada: cómo es el nuevo incentivo contable para comprar genética bovina de elite",
         "url": "https://www.infocampo.com.ar/amortizacion-acelerada-como-es-el-nuevo-incentivo-contable-para-comprar-genetica-bovina-de-elite/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Descargar-foto-Gran-Campeon-Ternero.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Cómo detectar la preñez en solo 19 días: un desarrollo del INTA promete revolucionar la eficiencia en la cría",
         "url": "https://www.infocampo.com.ar/como-detectar-la-prenez-en-solo-19-dias-un-desarrollo-del-inta-promete-revolucionar-la-eficiencia-en-la-cria/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/herramienta.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/herramienta-450x257.jpg"
     },
     {
         "titulo": "Al compás del tango, la carne argentina sale de gira por el interior de China para ampliar el mercado",
@@ -23,10 +28,5 @@
         "titulo": "Con la Cuota Hilton 2025/26 cumplida casi al 100%, el Gobierno abrió las inscripciones para el nuevo ciclo",
         "url": "https://www.infocampo.com.ar/con-la-cuota-hilton-2025-26-cumplida-casi-al-100-el-gobierno-abrio-las-inscripciones-para-el-nuevo-ciclo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2020/02/ganaderia-cuota-hilton-infocampo-450x257.jpg"
-    },
-    {
-        "titulo": "El boom ganadero está firme en la genética: pagan $ 40 millones por el 50% de un toro Brahman",
-        "url": "https://www.infocampo.com.ar/el-boom-ganadero-esta-firme-en-la-genetica-pagan-40-millones-por-el-50-de-un-toro-brahman/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/brahman-gran-campen-450x257.png"
     }
 ]
