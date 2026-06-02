@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Terneros y vientres, reflejos del boom ganadero: “Hay un cambio de paradigma en los valores”",
+        "url": "https://www.infocampo.com.ar/terneros-y-vientres-reflejos-del-boom-ganadero-hay-un-cambio-de-paradigma-en-los-valores/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/07/bovinos-angus.png"
+    },
+    {
         "titulo": "Efectos del boom ganadero: la genética argentina busca instalar su “vidriera” para el mundo",
         "url": "https://www.infocampo.com.ar/efectos-del-boom-ganadero-la-genetica-argentina-busca-instalar-su-vidriera-para-el-mundo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/Angus-Otono-3-1024x633.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Casi U$S 7.000 por tonelada: la carne argentina bate récord en el precio de exportación",
         "url": "https://www.infocampo.com.ar/casi-us-7-000-por-tonelada-la-carne-argentina-bate-record-en-el-precio-de-exportacion/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/carne-exportacion-cuota-hilton-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/01/carne-exportacion-cuota-hilton-450x257.png"
     },
     {
         "titulo": "Cómo detectar la preñez en solo 19 días: un desarrollo del INTA promete revolucionar la eficiencia en la cría",
@@ -23,10 +28,5 @@
         "titulo": "Al compás del tango, la carne argentina sale de gira por el interior de China para ampliar el mercado",
         "url": "https://www.infocampo.com.ar/al-compas-del-tango-la-carne-argentina-sale-de-gira-por-el-interior-de-china-para-ampliar-el-mercado/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/tango-ipcva-450x257.png"
-    },
-    {
-        "titulo": "Con la Cuota Hilton 2025/26 cumplida casi al 100%, el Gobierno abrió las inscripciones para el nuevo ciclo",
-        "url": "https://www.infocampo.com.ar/con-la-cuota-hilton-2025-26-cumplida-casi-al-100-el-gobierno-abrio-las-inscripciones-para-el-nuevo-ciclo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2020/02/ganaderia-cuota-hilton-infocampo-450x257.jpg"
     }
 ]
