@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "De U$$ 300 a U$S 900 millones: el “impresionante crecimiento” del negocio exportador de carne a EEUU",
+        "url": "https://www.infocampo.com.ar/de-u-300-a-us-900-millones-el-impresionante-crecimiento-del-negocio-exportador-de-carne-a-eeuu/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/image-10-1024x584.jpg"
+    },
+    {
         "titulo": "La faena bovina repuntó en mayo, pero sigue muy por debajo de 2025",
         "url": "https://www.infocampo.com.ar/la-faena-bovina-repunto-en-mayo-pero-sigue-muy-por-debajo-de-2025/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2019/03/faena-vacuna.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Cabañero en la semana, peluquero los “findes”: el joven que logró la mejor hembra Angus en Agroactiva",
         "url": "https://www.infocampo.com.ar/cabanero-en-la-semana-peluquero-los-findes-el-joven-que-logro-la-mejor-hembra-angus-en-agroactiva/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/cabanero-angus-agroactiva-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/cabanero-angus-agroactiva-450x257.png"
     },
     {
         "titulo": "Fiebre aftosa: el Senasa introdujo una nueva adecuación en el esquema de vacunación",
@@ -23,10 +28,5 @@
         "titulo": "Investigación del Conicet: hallan datos claves sobre un parásito que genera pérdidas en bovinos",
         "url": "https://www.infocampo.com.ar/investigacion-del-conicet-hallan-datos-claves-sobre-un-parasito-que-genera-perdidas-en-bovinos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/parasito-conicet-450x257.png"
-    },
-    {
-        "titulo": "Terneros y vientres, reflejos del boom ganadero: “Hay un cambio de paradigma en los valores”",
-        "url": "https://www.infocampo.com.ar/terneros-y-vientres-reflejos-del-boom-ganadero-hay-un-cambio-de-paradigma-en-los-valores/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/07/bovinos-angus-450x256.png"
     }
 ]
