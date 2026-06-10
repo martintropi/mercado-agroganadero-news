@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El ‘derrame’ del boom ganadero: “Vemos un incremento en la demanda de productos veterinarios”",
+        "url": "https://www.infocampo.com.ar/el-derrame-del-boom-ganadero-vemos-un-incremento-en-la-demanda-de-productos-veterinarios/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/veterinario-envato-1024x584.png"
+    },
+    {
         "titulo": "De U$$ 300 a U$S 900 millones: el “impresionante crecimiento” del negocio exportador de carne a EEUU",
         "url": "https://www.infocampo.com.ar/de-u-300-a-us-900-millones-el-impresionante-crecimiento-del-negocio-exportador-de-carne-a-eeuu/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/image-10-1024x584.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "La “oportunidad excepcional” de la carne: frigoríficos exportadores se reunieron con Caputo",
         "url": "https://www.infocampo.com.ar/la-oportunidad-excepcional-de-la-carne-frigorificos-exportadores-se-reunieron-con-caputo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/El-Consorcio-ABC-junto-a-Luis-Caputo-y-autoridades-nacionales-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/El-Consorcio-ABC-junto-a-Luis-Caputo-y-autoridades-nacionales-450x257.png"
     },
     {
         "titulo": "Cabañero en la semana, peluquero los “findes”: el joven que logró la mejor hembra Angus en Agroactiva",
@@ -23,10 +28,5 @@
         "titulo": "Fiebre aftosa: el Senasa introdujo una nueva adecuación en el esquema de vacunación",
         "url": "https://www.infocampo.com.ar/fiebre-aftosa-el-senasa-introdujo-una-nueva-adecuacion-en-el-esquema-de-vacunacion/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/ternero-senasa-450x257.png"
-    },
-    {
-        "titulo": "Investigación del Conicet: hallan datos claves sobre un parásito que genera pérdidas en bovinos",
-        "url": "https://www.infocampo.com.ar/investigacion-del-conicet-hallan-datos-claves-sobre-un-parasito-que-genera-perdidas-en-bovinos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/parasito-conicet-450x257.png"
     }
 ]
