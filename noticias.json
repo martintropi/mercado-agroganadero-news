@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Plan sanitario: la clave para maximizar la rentabilidad en un mercado ganadero competitivo",
+        "url": "https://www.infocampo.com.ar/plan-sanitario-la-clave-para-maximizar-la-rentabilidad-en-un-mercado-ganadero-competitivo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/veterinarios-envato-1024x584.png"
+    },
+    {
         "titulo": "El ‘derrame’ del boom ganadero: “Vemos un incremento en la demanda de productos veterinarios”",
         "url": "https://www.infocampo.com.ar/el-derrame-del-boom-ganadero-vemos-un-incremento-en-la-demanda-de-productos-veterinarios/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/veterinario-envato-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "La faena bovina repuntó en mayo, pero sigue muy por debajo de 2025",
         "url": "https://www.infocampo.com.ar/la-faena-bovina-repunto-en-mayo-pero-sigue-muy-por-debajo-de-2025/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2019/03/faena-vacuna.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2019/03/faena-vacuna-300x171.jpg"
     },
     {
         "titulo": "La “oportunidad excepcional” de la carne: frigoríficos exportadores se reunieron con Caputo",
@@ -23,10 +28,5 @@
         "titulo": "Cabañero en la semana, peluquero los “findes”: el joven que logró la mejor hembra Angus en Agroactiva",
         "url": "https://www.infocampo.com.ar/cabanero-en-la-semana-peluquero-los-findes-el-joven-que-logro-la-mejor-hembra-angus-en-agroactiva/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/cabanero-angus-agroactiva-450x257.png"
-    },
-    {
-        "titulo": "Fiebre aftosa: el Senasa introdujo una nueva adecuación en el esquema de vacunación",
-        "url": "https://www.infocampo.com.ar/fiebre-aftosa-el-senasa-introdujo-una-nueva-adecuacion-en-el-esquema-de-vacunacion/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/ternero-senasa-450x257.png"
     }
 ]
