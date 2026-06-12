@@ -1,5 +1,15 @@
 [
     {
+        "titulo": "Escuela de cabañeros: la mejor hembra Limangus de Agroactiva salió de un colegio secundario",
+        "url": "https://www.infocampo.com.ar/escuela-de-cabaneros-la-mejor-hembra-limangus-de-agroactiva-salio-de-un-colegio-secundario/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/limangus-ipea.png"
+    },
+    {
+        "titulo": "Congreso Veterinario Latinoamericano: Rosario se consolida como epicentro de la sanidad animal",
+        "url": "https://www.infocampo.com.ar/congreso-veterinario-latinoamericano-rosario-se-consolida-como-epicentro-de-la-sanidad-animal/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/publico-congreso-drovet-1024x584.png"
+    },
+    {
         "titulo": "Cautela ganadera: con un consumidor más selectivo, los precios de la hacienda y la carne pisan el freno",
         "url": "https://www.infocampo.com.ar/cautela-ganadera-con-un-consumidor-mas-selectivo-los-precios-de-la-hacienda-y-la-carne-pisan-el-freno/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/07/mercado-canuelas-agroganadero-hacienda-1024x584.png"
@@ -7,26 +17,16 @@
     {
         "titulo": "Segundo “Block Test”: en Jesús María buscan los mejores bovinos “carniceros”",
         "url": "https://www.infocampo.com.ar/segundo-block-test-en-jesus-maria-buscan-los-mejores-bovinos-carniceros/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/block-test-jesus-maria-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/block-test-jesus-maria-450x257.png"
     },
     {
         "titulo": "Plan sanitario: la clave para maximizar la rentabilidad en un mercado ganadero competitivo",
         "url": "https://www.infocampo.com.ar/plan-sanitario-la-clave-para-maximizar-la-rentabilidad-en-un-mercado-ganadero-competitivo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/veterinarios-envato-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/veterinarios-envato-450x257.png"
     },
     {
         "titulo": "El ‘derrame’ del boom ganadero: “Vemos un incremento en la demanda de productos veterinarios”",
         "url": "https://www.infocampo.com.ar/el-derrame-del-boom-ganadero-vemos-un-incremento-en-la-demanda-de-productos-veterinarios/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/veterinario-envato-450x257.png"
-    },
-    {
-        "titulo": "De U$$ 300 a U$S 900 millones: el “impresionante crecimiento” del negocio exportador de carne a EEUU",
-        "url": "https://www.infocampo.com.ar/de-u-300-a-us-900-millones-el-impresionante-crecimiento-del-negocio-exportador-de-carne-a-eeuu/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/image-10-450x257.jpg"
-    },
-    {
-        "titulo": "La faena bovina repuntó en mayo, pero sigue muy por debajo de 2025",
-        "url": "https://www.infocampo.com.ar/la-faena-bovina-repunto-en-mayo-pero-sigue-muy-por-debajo-de-2025/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2019/03/faena-vacuna-300x171.jpg"
     }
 ]
