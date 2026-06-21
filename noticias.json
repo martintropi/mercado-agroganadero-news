@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La carne certificada Hereford florece en los Caldenes, con trazabilidad desde el potrero hasta la mesa",
+        "url": "https://www.infocampo.com.ar/calidad-y-trazabilidad-en-los-caldenes-florece-la-carne-certificada-hereford/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/Carne-certificada-hereford-1024x583.png"
+    },
+    {
         "titulo": "Hito exportador en Chaco: la carne de chivos y cabras de El Impenetrable comienza a viajar al exterior",
         "url": "https://www.infocampo.com.ar/hito-exportador-en-chaco-la-carne-de-chivos-y-cabras-de-el-impenetrable-comienza-a-viajar-al-exterior/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/chivos-cabras-productora-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Estudio del INTA: el repaso con toros Hereford sobre vacas Angus suma kilos desde el destete hasta la faena",
         "url": "https://www.infocampo.com.ar/estudio-del-inta-el-repaso-con-toros-hereford-sobre-vacas-angus-suma-kilos-desde-el-destete-hasta-la-faena/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/toro-hereford-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/toro-hereford-450x257.png"
     },
     {
         "titulo": "“El gran reto es que la elección del cerdo no sea solo por precio, sino que se convierta en un hábito”",
@@ -23,10 +28,5 @@
         "titulo": "En Córdoba, la Mesa de Enlace redobla la presión por una ley que elimine las “guías ganaderas”",
         "url": "https://www.infocampo.com.ar/en-cordoba-la-mesa-de-enlace-redobla-la-presion-por-una-ley-que-elimine-las-guias-ganaderas/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/12/camion-jaula-hacienda-450x257.png"
-    },
-    {
-        "titulo": "Escuela de cabañeros: la mejor hembra Limangus de Agroactiva salió de un colegio secundario",
-        "url": "https://www.infocampo.com.ar/escuela-de-cabaneros-la-mejor-hembra-limangus-de-agroactiva-salio-de-un-colegio-secundario/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/limangus-ipea-450x257.png"
     }
 ]
