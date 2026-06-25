@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Hallazgo científico: el Síndrome Urémico Hemolítico puede prevenirse desde la sanidad bovina",
+        "url": "https://www.infocampo.com.ar/hallazgo-cientifico-el-sindrome-uremico-hemolitico-puede-prevenirse-dese-la-sanidad-bovina/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/inta.jpg"
+    },
+    {
         "titulo": "El boom ganadero se traduce en kilos: en mayo se logró el mayor peso de faena desde 1990",
         "url": "https://www.infocampo.com.ar/el-boom-ganadero-se-traduce-en-kilos-en-mayo-se-logro-el-mayor-peso-de-faena-desde-1990/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/hacienda-bovinos-sagyp-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Hito exportador en Chaco: la carne de chivos y cabras de El Impenetrable comienza a viajar al exterior",
         "url": "https://www.infocampo.com.ar/hito-exportador-en-chaco-la-carne-de-chivos-y-cabras-de-el-impenetrable-comienza-a-viajar-al-exterior/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/chivos-cabras-productora-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/chivos-cabras-productora-450x257.png"
     },
     {
         "titulo": "Optimismo ganadero: sigue cayendo la faena de hembras y crecen las señales de retención en los campos",
@@ -23,10 +28,5 @@
         "titulo": "Estudio del INTA: el repaso con toros Hereford sobre vacas Angus suma kilos desde el destete hasta la faena",
         "url": "https://www.infocampo.com.ar/estudio-del-inta-el-repaso-con-toros-hereford-sobre-vacas-angus-suma-kilos-desde-el-destete-hasta-la-faena/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/toro-hereford-450x257.png"
-    },
-    {
-        "titulo": "“El gran reto es que la elección del cerdo no sea solo por precio, sino que se convierta en un hábito”",
-        "url": "https://www.infocampo.com.ar/dia-de-la-porcicultura-el-gran-reto-es-que-la-eleccion-del-cerdo-por-precio-se-convierta-en-un-habito/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/maria-powell-cappcor-450x257.png"
     }
 ]
