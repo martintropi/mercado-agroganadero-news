@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Genética de élite y medición kilo a kilo: en La Coincidencia, el crecimiento ganadero no tiene nada de azar",
+        "url": "https://www.infocampo.com.ar/genetica-de-elite-y-medicion-kilo-a-kilo-en-la-coincidencia-el-crecimiento-ganadero-no-tiene-nada-de-azar/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/jornada-ipcva-portada-1024x584.png"
+    },
+    {
         "titulo": "Hallazgo científico: el Síndrome Urémico Hemolítico puede prevenirse desde la sanidad bovina",
         "url": "https://www.infocampo.com.ar/hallazgo-cientifico-el-sindrome-uremico-hemolitico-puede-prevenirse-dese-la-sanidad-bovina/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/inta.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "La carne certificada Hereford florece en los Caldenes, con trazabilidad desde el potrero hasta la mesa",
         "url": "https://www.infocampo.com.ar/calidad-y-trazabilidad-en-los-caldenes-florece-la-carne-certificada-hereford/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/Carne-certificada-hereford-1024x583.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/Carne-certificada-hereford-450x256.png"
     },
     {
         "titulo": "Hito exportador en Chaco: la carne de chivos y cabras de El Impenetrable comienza a viajar al exterior",
@@ -23,10 +28,5 @@
         "titulo": "Optimismo ganadero: sigue cayendo la faena de hembras y crecen las señales de retención en los campos",
         "url": "https://www.infocampo.com.ar/optimismo-ganadero-sigue-cayendo-la-faena-de-hembras-y-crecen-las-senales-de-retencion-en-los-campos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/Prenez-cria-bovina-3-450x256.jpg"
-    },
-    {
-        "titulo": "Estudio del INTA: el repaso con toros Hereford sobre vacas Angus suma kilos desde el destete hasta la faena",
-        "url": "https://www.infocampo.com.ar/estudio-del-inta-el-repaso-con-toros-hereford-sobre-vacas-angus-suma-kilos-desde-el-destete-hasta-la-faena/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/toro-hereford-450x257.png"
     }
 ]
