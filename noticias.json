@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Pesar en la ganadería por la muerte de un referente académico y creador de una raza bovina nacional",
+        "url": "https://www.infocampo.com.ar/pesar-en-la-ganaderia-por-la-muerte-de-un-referente-academico-y-creador-de-una-raza-bovina-nacional/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/oscar-melo-campo-directo-1024x583.png"
+    },
+    {
         "titulo": "Recría eficiente: la estrategia para sumar “kilos baratos” y mejorar la rentabilidad",
         "url": "https://www.infocampo.com.ar/recria-eficiente-la-estrategia-para-sumar-kilos-baratos-y-mejorar-la-rentabilidad/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/mail.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Hallazgo científico: el Síndrome Urémico Hemolítico puede prevenirse desde la sanidad bovina",
         "url": "https://www.infocampo.com.ar/hallazgo-cientifico-el-sindrome-uremico-hemolitico-puede-prevenirse-dese-la-sanidad-bovina/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/inta.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/inta-450x257.jpg"
     },
     {
         "titulo": "El boom ganadero se traduce en kilos: en mayo se logró el mayor peso de faena desde 1990",
@@ -23,10 +28,5 @@
         "titulo": "La carne certificada Hereford florece en los Caldenes, con trazabilidad desde el potrero hasta la mesa",
         "url": "https://www.infocampo.com.ar/calidad-y-trazabilidad-en-los-caldenes-florece-la-carne-certificada-hereford/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/Carne-certificada-hereford-450x256.png"
-    },
-    {
-        "titulo": "Hito exportador en Chaco: la carne de chivos y cabras de El Impenetrable comienza a viajar al exterior",
-        "url": "https://www.infocampo.com.ar/hito-exportador-en-chaco-la-carne-de-chivos-y-cabras-de-el-impenetrable-comienza-a-viajar-al-exterior/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/chivos-cabras-productora-450x257.png"
     }
 ]
