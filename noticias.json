@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Selección genética desde la “concepción”: en el Litoral, los Hereford avanzan con las pruebas pastoriles",
+        "url": "https://www.infocampo.com.ar/seleccion-genetica-desde-la-concepcion-en-el-litoral-los-hereford-avanzan-con-las-pruebas-pastoriles/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/prueba-hereford-entre-rios-1024x584.png"
+    },
+    {
         "titulo": "El Gobierno confirmó la 2° edición de la “Semana de la Carne Argentina en Estados Unidos”",
         "url": "https://www.infocampo.com.ar/el-gobierno-confirmo-la-2-edicion-de-la-semana-de-la-carne-argentina-en-estados-unidos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/ipcva-karina-milei-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Pesar en la ganadería por la muerte de un referente académico y creador de una raza bovina nacional",
         "url": "https://www.infocampo.com.ar/pesar-en-la-ganaderia-por-la-muerte-de-un-referente-academico-y-creador-de-una-raza-bovina-nacional/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/oscar-melo-campo-directo-1024x583.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/oscar-melo-campo-directo-450x256.png"
     },
     {
         "titulo": "Recría eficiente: la estrategia para sumar “kilos baratos” y mejorar la rentabilidad",
@@ -23,10 +28,5 @@
         "titulo": "Genética de élite y medición kilo a kilo: en La Coincidencia, el crecimiento ganadero no tiene nada de azar",
         "url": "https://www.infocampo.com.ar/genetica-de-elite-y-medicion-kilo-a-kilo-en-la-coincidencia-el-crecimiento-ganadero-no-tiene-nada-de-azar/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/jornada-ipcva-portada-450x257.png"
-    },
-    {
-        "titulo": "Hallazgo científico: el Síndrome Urémico Hemolítico puede prevenirse desde la sanidad bovina",
-        "url": "https://www.infocampo.com.ar/hallazgo-cientifico-el-sindrome-uremico-hemolitico-puede-prevenirse-dese-la-sanidad-bovina/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/inta-450x257.jpg"
     }
 ]
