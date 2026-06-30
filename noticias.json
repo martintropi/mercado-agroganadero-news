@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El Gobierno confirmó la 2° edición de la “Semana de la Carne Argentina en Estados Unidos”",
+        "url": "https://www.infocampo.com.ar/el-gobierno-confirmo-la-2-edicion-de-la-semana-de-la-carne-argentina-en-estados-unidos/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/ipcva-karina-milei-1024x584.png"
+    },
+    {
         "titulo": "La trazabilidad electrónica bovina se fortalece y comienza a aplicarse en los frigoríficos",
         "url": "https://www.infocampo.com.ar/la-trazabilidad-electronica-bovina-se-fortalece-y-comienza-a-aplicarse-en-los-frigorificos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/vaca-chip-oreja-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Recría eficiente: la estrategia para sumar “kilos baratos” y mejorar la rentabilidad",
         "url": "https://www.infocampo.com.ar/recria-eficiente-la-estrategia-para-sumar-kilos-baratos-y-mejorar-la-rentabilidad/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/mail.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/mail-450x257.jpg"
     },
     {
         "titulo": "Genética de élite y medición kilo a kilo: en La Coincidencia, el crecimiento ganadero no tiene nada de azar",
@@ -23,10 +28,5 @@
         "titulo": "Hallazgo científico: el Síndrome Urémico Hemolítico puede prevenirse desde la sanidad bovina",
         "url": "https://www.infocampo.com.ar/hallazgo-cientifico-el-sindrome-uremico-hemolitico-puede-prevenirse-dese-la-sanidad-bovina/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/inta-450x257.jpg"
-    },
-    {
-        "titulo": "El boom ganadero se traduce en kilos: en mayo se logró el mayor peso de faena desde 1990",
-        "url": "https://www.infocampo.com.ar/el-boom-ganadero-se-traduce-en-kilos-en-mayo-se-logro-el-mayor-peso-de-faena-desde-1990/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/hacienda-bovinos-sagyp-450x257.png"
     }
 ]
