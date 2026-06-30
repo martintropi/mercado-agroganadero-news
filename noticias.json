@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El empuje ganadero sigue: aunque bajaron, los márgenes están muy por encima del promedio histórico",
+        "url": "https://www.infocampo.com.ar/el-empuje-ganadero-sigue-aunque-bajaron-los-margenes-estan-muy-por-encima-del-promedio-historico/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/04/Ganderia-Cria.jpg"
+    },
+    {
         "titulo": "Selección genética desde la “concepción”: en el Litoral, los Hereford avanzan con las pruebas pastoriles",
         "url": "https://www.infocampo.com.ar/seleccion-genetica-desde-la-concepcion-en-el-litoral-los-hereford-avanzan-con-las-pruebas-pastoriles/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/prueba-hereford-entre-rios-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "La trazabilidad electrónica bovina se fortalece y comienza a aplicarse en los frigoríficos",
         "url": "https://www.infocampo.com.ar/la-trazabilidad-electronica-bovina-se-fortalece-y-comienza-a-aplicarse-en-los-frigorificos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/vaca-chip-oreja-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/vaca-chip-oreja-450x257.png"
     },
     {
         "titulo": "Pesar en la ganadería por la muerte de un referente académico y creador de una raza bovina nacional",
@@ -23,10 +28,5 @@
         "titulo": "Recría eficiente: la estrategia para sumar “kilos baratos” y mejorar la rentabilidad",
         "url": "https://www.infocampo.com.ar/recria-eficiente-la-estrategia-para-sumar-kilos-baratos-y-mejorar-la-rentabilidad/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/mail-450x257.jpg"
-    },
-    {
-        "titulo": "Genética de élite y medición kilo a kilo: en La Coincidencia, el crecimiento ganadero no tiene nada de azar",
-        "url": "https://www.infocampo.com.ar/genetica-de-elite-y-medicion-kilo-a-kilo-en-la-coincidencia-el-crecimiento-ganadero-no-tiene-nada-de-azar/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/jornada-ipcva-portada-450x257.png"
     }
 ]
