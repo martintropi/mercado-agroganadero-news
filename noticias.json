@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Del posparto hasta el destete: la eficiencia de conversión comienza mucho antes del engorde",
+        "url": "https://www.infocampo.com.ar/del-posparto-hasta-el-destete-la-eficiencia-de-conversion-comienza-mucho-antes-del-engorde/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/IPCVA-JC-9-DE-JULIO-DRONE-15-1024x584.jpg"
+    },
+    {
         "titulo": "Financiamiento sustentable: lanzan créditos para impulsar la ganadería regenerativa en el Gran Chaco",
         "url": "https://www.infocampo.com.ar/financiamiento-sustentable-lanzan-creditos-para-impulsar-la-ganaderia-regenerativa-en-el-gran-chaco/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/ganaderia-gran-cahco-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "El empuje ganadero sigue: aunque bajaron, los márgenes están muy por encima del promedio histórico",
         "url": "https://www.infocampo.com.ar/el-empuje-ganadero-sigue-aunque-bajaron-los-margenes-estan-muy-por-encima-del-promedio-historico/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/04/Ganderia-Cria.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/04/Ganderia-Cria-450x257.jpg"
     },
     {
         "titulo": "Selección genética desde la “concepción”: en el Litoral, los Hereford avanzan con las pruebas pastoriles",
@@ -23,10 +28,5 @@
         "titulo": "El Gobierno confirmó la 2° edición de la “Semana de la Carne Argentina en Estados Unidos”",
         "url": "https://www.infocampo.com.ar/el-gobierno-confirmo-la-2-edicion-de-la-semana-de-la-carne-argentina-en-estados-unidos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/ipcva-karina-milei-450x257.png"
-    },
-    {
-        "titulo": "La trazabilidad electrónica bovina se fortalece y comienza a aplicarse en los frigoríficos",
-        "url": "https://www.infocampo.com.ar/la-trazabilidad-electronica-bovina-se-fortalece-y-comienza-a-aplicarse-en-los-frigorificos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/vaca-chip-oreja-450x257.png"
     }
 ]
