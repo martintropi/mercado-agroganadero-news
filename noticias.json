@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Exportaciones de carne: el Gobierno distribuyó la Cuota Hilton entre 81 frigoríficos y proyectos ganaderos",
+        "url": "https://www.infocampo.com.ar/exportaciones-de-carne-el-gobierno-distribuyo-la-cuota-hilton-entre-81-frigorificos-y-proyectos-ganaderos/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/Carne-exportacion-cuota-hilton-1024x584.jpg"
+    },
+    {
         "titulo": "Del posparto hasta el destete: la eficiencia de conversión comienza mucho antes del engorde",
         "url": "https://www.infocampo.com.ar/del-posparto-hasta-el-destete-la-eficiencia-de-conversion-comienza-mucho-antes-del-engorde/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/IPCVA-JC-9-DE-JULIO-DRONE-15-1024x584.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Eficiencia y trazabilidad: la ganadería se transforma de la mano de la inteligencia artificial",
         "url": "https://www.infocampo.com.ar/eficiencia-y-trazabilidad-la-ganaderia-se-transforma-de-la-mano-de-la-inteligencia-artificial/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-10.14.58-1024x584.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-10.14.58-450x257.jpeg"
     },
     {
         "titulo": "El empuje ganadero sigue: aunque bajaron, los márgenes están muy por encima del promedio histórico",
@@ -23,10 +28,5 @@
         "titulo": "Selección genética desde la “concepción”: en el Litoral, los Hereford avanzan con las pruebas pastoriles",
         "url": "https://www.infocampo.com.ar/seleccion-genetica-desde-la-concepcion-en-el-litoral-los-hereford-avanzan-con-las-pruebas-pastoriles/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/prueba-hereford-entre-rios-450x257.png"
-    },
-    {
-        "titulo": "El Gobierno confirmó la 2° edición de la “Semana de la Carne Argentina en Estados Unidos”",
-        "url": "https://www.infocampo.com.ar/el-gobierno-confirmo-la-2-edicion-de-la-semana-de-la-carne-argentina-en-estados-unidos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/ipcva-karina-milei-450x257.png"
     }
 ]
