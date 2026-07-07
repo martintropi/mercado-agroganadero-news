@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La faena bovina se redujo 8,9% en el primer semestre y significó casi 100.000 toneladas menos de carne",
+        "url": "https://www.infocampo.com.ar/la-faena-bovina-se-redujo-89-en-el-primer-semestre-y-significo-casi-100-000-toneladas-menos-de-carne/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/11/carne-faena-res-frigorifico-senasa-1024x583.jpg"
+    },
+    {
         "titulo": "Exportaciones de carne: el Gobierno distribuyó la Cuota Hilton entre 81 frigoríficos y proyectos ganaderos",
         "url": "https://www.infocampo.com.ar/exportaciones-de-carne-el-gobierno-distribuyo-la-cuota-hilton-entre-81-frigorificos-y-proyectos-ganaderos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/Carne-exportacion-cuota-hilton-1024x584.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Financiamiento sustentable: lanzan créditos para impulsar la ganadería regenerativa en el Gran Chaco",
         "url": "https://www.infocampo.com.ar/financiamiento-sustentable-lanzan-creditos-para-impulsar-la-ganaderia-regenerativa-en-el-gran-chaco/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/ganaderia-gran-cahco-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/ganaderia-gran-cahco-450x257.png"
     },
     {
         "titulo": "Eficiencia y trazabilidad: la ganadería se transforma de la mano de la inteligencia artificial",
@@ -23,10 +28,5 @@
         "titulo": "El empuje ganadero sigue: aunque bajaron, los márgenes están muy por encima del promedio histórico",
         "url": "https://www.infocampo.com.ar/el-empuje-ganadero-sigue-aunque-bajaron-los-margenes-estan-muy-por-encima-del-promedio-historico/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/04/Ganderia-Cria-450x257.jpg"
-    },
-    {
-        "titulo": "Selección genética desde la “concepción”: en el Litoral, los Hereford avanzan con las pruebas pastoriles",
-        "url": "https://www.infocampo.com.ar/seleccion-genetica-desde-la-concepcion-en-el-litoral-los-hereford-avanzan-con-las-pruebas-pastoriles/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/prueba-hereford-entre-rios-450x257.png"
     }
 ]
