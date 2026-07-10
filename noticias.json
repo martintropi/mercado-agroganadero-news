@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "“Agronea es nuestra vidriera”: la ganadería del norte se robustece con la genética",
+        "url": "https://www.infocampo.com.ar/agronea-es-nuestra-vidriera-la-ganaderia-del-norte-se-robustece-con-la-genetica/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/jura-ganadera-agronea.png"
+    },
+    {
         "titulo": "Desregulación sanitaria: Senasa eliminó 42 normas obsoletas y flexibilizó requisitos para frigoríficos",
         "url": "https://www.infocampo.com.ar/desregulacion-sanitaria-senasa-elimino-42-normas-obsoletas-y-flexibilizo-requisitos-para-frigorificos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/PVGIDWHP4BCOVDOG7YPWNBGLQE-1024x576.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Exportaciones de carne: el Gobierno distribuyó la Cuota Hilton entre 81 frigoríficos y proyectos ganaderos",
         "url": "https://www.infocampo.com.ar/exportaciones-de-carne-el-gobierno-distribuyo-la-cuota-hilton-entre-81-frigorificos-y-proyectos-ganaderos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/Carne-exportacion-cuota-hilton-1024x584.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/Carne-exportacion-cuota-hilton-450x257.jpg"
     },
     {
         "titulo": "Del posparto hasta el destete: la eficiencia de conversión comienza mucho antes del engorde",
@@ -23,10 +28,5 @@
         "titulo": "Financiamiento sustentable: lanzan créditos para impulsar la ganadería regenerativa en el Gran Chaco",
         "url": "https://www.infocampo.com.ar/financiamiento-sustentable-lanzan-creditos-para-impulsar-la-ganaderia-regenerativa-en-el-gran-chaco/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/ganaderia-gran-cahco-450x257.png"
-    },
-    {
-        "titulo": "Eficiencia y trazabilidad: la ganadería se transforma de la mano de la inteligencia artificial",
-        "url": "https://www.infocampo.com.ar/eficiencia-y-trazabilidad-la-ganaderia-se-transforma-de-la-mano-de-la-inteligencia-artificial/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-01-at-10.14.58-450x257.jpeg"
     }
 ]
