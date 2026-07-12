@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El precio de la hacienda y de la carne: frigoríficos ven una “meseta de estabilidad” hasta la primavera",
+        "url": "https://www.infocampo.com.ar/el-precio-de-la-hacienda-y-de-la-carne-frigorificos-ven-una-meseta-de-estabilidad-hasta-la-primavera/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2019/02/carniceria.jpg"
+    },
+    {
         "titulo": "Día de la Ganadería: en El Trébol se presentó un plan “posible” para que crecer no dependa de la suerte",
         "url": "https://www.infocampo.com.ar/dia-de-la-ganaderia-en-el-trebol-se-presento-un-plan-posible-para-que-crecer-no-dependa-de-la-suerte/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/Ganaderia-Posible-1024x584.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "“Agronea es nuestra vidriera”: la ganadería del norte se robustece con la genética",
         "url": "https://www.infocampo.com.ar/agronea-es-nuestra-vidriera-la-ganaderia-del-norte-se-robustece-con-la-genetica/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/jura-ganadera-agronea.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/jura-ganadera-agronea-450x257.png"
     },
     {
         "titulo": "Día de la Ganadería: ¿por qué se celebra cada 10 de julio en Argentina?",
@@ -23,10 +28,5 @@
         "titulo": "Desregulación sanitaria: Senasa eliminó 42 normas obsoletas y flexibilizó requisitos para frigoríficos",
         "url": "https://www.infocampo.com.ar/desregulacion-sanitaria-senasa-elimino-42-normas-obsoletas-y-flexibilizo-requisitos-para-frigorificos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/PVGIDWHP4BCOVDOG7YPWNBGLQE-450x253.jpg"
-    },
-    {
-        "titulo": "La faena bovina se redujo 8,9% en el primer semestre y significó casi 100.000 toneladas menos de carne",
-        "url": "https://www.infocampo.com.ar/la-faena-bovina-se-redujo-89-en-el-primer-semestre-y-significo-casi-100-000-toneladas-menos-de-carne/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2022/11/carne-faena-res-frigorifico-senasa-450x256.jpg"
     }
 ]
