@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Lanzan la primera Diplomatura en Ganadería Regenerativa de la Argentina",
+        "url": "https://www.infocampo.com.ar/lanzan-la-primera-diplomatura-en-ganaderia-regenerativa-de-la-argentina/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/ganaderia-regenerativajpg.jpg"
+    },
+    {
         "titulo": "Los Angus vienen marchando hacia Palermo: habrá 500 animales y 140 expositores en La Rural",
         "url": "https://www.infocampo.com.ar/los-angus-vienen-marchando-hacia-palermo-habra-500-animales-y-140-expositores-en-la-rural/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/angus-la-rural-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Día de la Ganadería: en El Trébol se presentó un plan “posible” para que crecer no dependa de la suerte",
         "url": "https://www.infocampo.com.ar/dia-de-la-ganaderia-en-el-trebol-se-presento-un-plan-posible-para-que-crecer-no-dependa-de-la-suerte/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/Ganaderia-Posible-1024x584.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/Ganaderia-Posible-450x257.jpg"
     },
     {
         "titulo": "La brecha que limita a la ganadería: los bancos solo financian entre 6% y 11% de la inversión del sector",
@@ -23,10 +28,5 @@
         "titulo": "“Agronea es nuestra vidriera”: la ganadería del norte se robustece con la genética",
         "url": "https://www.infocampo.com.ar/agronea-es-nuestra-vidriera-la-ganaderia-del-norte-se-robustece-con-la-genetica/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/jura-ganadera-agronea-450x257.png"
-    },
-    {
-        "titulo": "Día de la Ganadería: ¿por qué se celebra cada 10 de julio en Argentina?",
-        "url": "https://www.infocampo.com.ar/dia-de-la-ganaderia-una-actividad-clave-para-el-desarrollo-economico-argentino/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/06/ganaderia-ganado-hacienda-aapresid-450x256.png"
     }
 ]
