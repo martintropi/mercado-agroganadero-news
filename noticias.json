@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "¿Se frenó el consumo o cambió la demanda?: el nuevo “equilibrio” en el mercado de las carnes",
+        "url": "https://www.infocampo.com.ar/se-freno-el-consumo-o-cambio-la-demanda-el-nuevo-equilibrio-en-el-mercado-de-las-carnes/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/Carne-hereford-certificada-1024x583.png"
+    },
+    {
         "titulo": "Lanzan la primera Diplomatura en Ganadería Regenerativa de la Argentina",
         "url": "https://www.infocampo.com.ar/lanzan-la-primera-diplomatura-en-ganaderia-regenerativa-de-la-argentina/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/ganaderia-regenerativajpg.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "El precio de la hacienda y de la carne: frigoríficos ven una “meseta de estabilidad” hasta la primavera",
         "url": "https://www.infocampo.com.ar/el-precio-de-la-hacienda-y-de-la-carne-frigorificos-ven-una-meseta-de-estabilidad-hasta-la-primavera/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2019/02/carniceria.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2019/02/carniceria-300x171.jpg"
     },
     {
         "titulo": "Día de la Ganadería: en El Trébol se presentó un plan “posible” para que crecer no dependa de la suerte",
@@ -23,10 +28,5 @@
         "titulo": "La brecha que limita a la ganadería: los bancos solo financian entre 6% y 11% de la inversión del sector",
         "url": "https://www.infocampo.com.ar/la-brecha-que-limita-a-la-ganaderia-los-bancos-solo-financian-entre-6-y-11-de-la-inversion-del-sector/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/Gastaudo-general-1024x576-1-450x257.png"
-    },
-    {
-        "titulo": "“Agronea es nuestra vidriera”: la ganadería del norte se robustece con la genética",
-        "url": "https://www.infocampo.com.ar/agronea-es-nuestra-vidriera-la-ganaderia-del-norte-se-robustece-con-la-genetica/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/jura-ganadera-agronea-450x257.png"
     }
 ]
