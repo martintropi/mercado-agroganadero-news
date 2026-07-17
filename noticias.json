@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La “maquinaria” de producir carne: los Limangus ya muestran todas sus bondades productivas en Palermo",
+        "url": "https://www.infocampo.com.ar/la-maquinaria-de-producir-carne-los-limangus-ya-muestran-todas-sus-bondades-productivas-en-palermo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/limangus.jpg"
+    },
+    {
         "titulo": "¿Se frenó el consumo o cambió la demanda?: el nuevo “equilibrio” en el mercado de las carnes",
         "url": "https://www.infocampo.com.ar/se-freno-el-consumo-o-cambio-la-demanda-el-nuevo-equilibrio-en-el-mercado-de-las-carnes/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/Carne-hereford-certificada-1024x583.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Los Angus vienen marchando hacia Palermo: habrá 500 animales y 140 expositores en La Rural",
         "url": "https://www.infocampo.com.ar/los-angus-vienen-marchando-hacia-palermo-habra-500-animales-y-140-expositores-en-la-rural/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/angus-la-rural-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/angus-la-rural-450x257.png"
     },
     {
         "titulo": "El precio de la hacienda y de la carne: frigoríficos ven una “meseta de estabilidad” hasta la primavera",
@@ -23,10 +28,5 @@
         "titulo": "Día de la Ganadería: en El Trébol se presentó un plan “posible” para que crecer no dependa de la suerte",
         "url": "https://www.infocampo.com.ar/dia-de-la-ganaderia-en-el-trebol-se-presento-un-plan-posible-para-que-crecer-no-dependa-de-la-suerte/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/Ganaderia-Posible-450x257.jpg"
-    },
-    {
-        "titulo": "La brecha que limita a la ganadería: los bancos solo financian entre 6% y 11% de la inversión del sector",
-        "url": "https://www.infocampo.com.ar/la-brecha-que-limita-a-la-ganaderia-los-bancos-solo-financian-entre-6-y-11-de-la-inversion-del-sector/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/Gastaudo-general-1024x576-1-450x257.png"
     }
 ]
