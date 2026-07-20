@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Una reina imbatible en Palermo: La Yoli volvió a consagrarse como gran campeona de los Criollos",
+        "url": "https://www.infocampo.com.ar/una-reina-imbatible-en-palermo-la-yoli-volvio-a-consagrarse-como-gran-campeona-de-los-criollos/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/La-Yoli-campeona-raza-criolla-1024x584.jpeg"
+    },
+    {
         "titulo": "De los potreros a la “nube”: el INTA lanza una plataforma digital para potenciar la gestión ganadera",
         "url": "https://www.infocampo.com.ar/de-los-potreros-a-la-nube-el-inta-lanzo-una-plataforma-digital-para-potenciar-la-gestion-ganadera/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/potrero.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Una ternera Limangus, protagonista en Palermo: en la previa de la final del Mundial, nació “Lionela”",
         "url": "https://www.infocampo.com.ar/una-ternera-limangus-protagonista-en-palermo-en-la-previa-de-la-final-del-mundial-nacio-lionela/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-18.36.25-1024x584.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-18.36.25-450x257.jpeg"
     },
     {
         "titulo": "¿Comenzó definitivamente la fase de retención?: la faena de hembras tocó su nivel más bajo en 5 años",
@@ -23,10 +28,5 @@
         "titulo": "La “maquinaria” de producir carne: los Limangus ya muestran todas sus bondades productivas en Palermo",
         "url": "https://www.infocampo.com.ar/la-maquinaria-de-producir-carne-los-limangus-ya-muestran-todas-sus-bondades-productivas-en-palermo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/limangus-450x257.jpg"
-    },
-    {
-        "titulo": "¿Se frenó el consumo o cambió la demanda?: el nuevo “equilibrio” en el mercado de las carnes",
-        "url": "https://www.infocampo.com.ar/se-freno-el-consumo-o-cambio-la-demanda-el-nuevo-equilibrio-en-el-mercado-de-las-carnes/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/Carne-hereford-certificada-450x256.png"
     }
 ]
