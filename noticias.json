@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "De los potreros a la “nube”: el INTA lanza una plataforma digital para potenciar la gestión ganadera",
+        "url": "https://www.infocampo.com.ar/de-los-potreros-a-la-nube-el-inta-lanzo-una-plataforma-digital-para-potenciar-la-gestion-ganadera/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/potrero.jpg"
+    },
+    {
         "titulo": "Novillos más pesados: la estrategia genética que engordó los resultados en la Cuenca del Salado",
         "url": "https://www.infocampo.com.ar/novillos-mas-pesados-la-estrategia-genetica-que-engordo-los-resultados-en-la-cuenca-del-salado/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/gordos.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "¿Comenzó definitivamente la fase de retención?: la faena de hembras tocó su nivel más bajo en 5 años",
         "url": "https://www.infocampo.com.ar/comenzo-definitivamente-la-fase-de-retencion-la-faena-de-hembras-toco-su-nivel-mas-bajo-en-5-anos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/vaquillonas-limangus-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/vaquillonas-limangus-450x257.png"
     },
     {
         "titulo": "La “maquinaria” de producir carne: los Limangus ya muestran todas sus bondades productivas en Palermo",
@@ -23,10 +28,5 @@
         "titulo": "¿Se frenó el consumo o cambió la demanda?: el nuevo “equilibrio” en el mercado de las carnes",
         "url": "https://www.infocampo.com.ar/se-freno-el-consumo-o-cambio-la-demanda-el-nuevo-equilibrio-en-el-mercado-de-las-carnes/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/Carne-hereford-certificada-450x256.png"
-    },
-    {
-        "titulo": "Lanzan la primera Diplomatura en Ganadería Regenerativa de la Argentina",
-        "url": "https://www.infocampo.com.ar/lanzan-la-primera-diplomatura-en-ganaderia-regenerativa-de-la-argentina/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/ganaderia-regenerativajpg-450x257.jpg"
     }
 ]
