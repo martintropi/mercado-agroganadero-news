@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El Senasa le planta batalla a la garrapata bovina: estrategias por zonas y más herramientas de control",
+        "url": "https://www.infocampo.com.ar/el-senasa-le-planta-batalla-a-la-garrapata-bovina-estrategias-por-zonas-y-mas-herramientas-de-control/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/garrapatas-bovinas-1024x584.png"
+    },
+    {
         "titulo": "Mejora la rentabilidad: además de la faena y el consumo récord, el cerdo suma buenas noticias en las granjas",
         "url": "https://www.infocampo.com.ar/mejora-la-rentabilidad-ademas-de-la-faena-y-el-consumo-record-el-cerdo-suma-buenas-noticias-en-las-granjas/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/08/cerdos-lechones.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "De los potreros a la “nube”: el INTA lanza una plataforma digital para potenciar la gestión ganadera",
         "url": "https://www.infocampo.com.ar/de-los-potreros-a-la-nube-el-inta-lanzo-una-plataforma-digital-para-potenciar-la-gestion-ganadera/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/potrero.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/potrero-450x257.jpg"
     },
     {
         "titulo": "Novillos más pesados: la estrategia genética que engordó los resultados en la Cuenca del Salado",
@@ -23,10 +28,5 @@
         "titulo": "Una ternera Limangus, protagonista en Palermo: en la previa de la final del Mundial, nació “Lionela”",
         "url": "https://www.infocampo.com.ar/una-ternera-limangus-protagonista-en-palermo-en-la-previa-de-la-final-del-mundial-nacio-lionela/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-18.36.25-450x257.jpeg"
-    },
-    {
-        "titulo": "¿Comenzó definitivamente la fase de retención?: la faena de hembras tocó su nivel más bajo en 5 años",
-        "url": "https://www.infocampo.com.ar/comenzo-definitivamente-la-fase-de-retencion-la-faena-de-hembras-toco-su-nivel-mas-bajo-en-5-anos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/vaquillonas-limangus-450x257.png"
     }
 ]
