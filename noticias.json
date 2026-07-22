@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La carne bovina hace récord en el aporte de dólares y suma un nuevo mercado estratégico: Indonesia",
+        "url": "https://www.infocampo.com.ar/la-carne-bovina-hace-record-en-el-aporte-de-dolares-y-suma-un-nuevo-mercado-estrategico-indonesia/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/unnamed-66-1024x584.jpg"
+    },
+    {
         "titulo": "Disputa por el IPCVA: la Mesa de Enlace y entidades frigoríficas rechazan un cambio que impulsa el Gobierno",
         "url": "https://www.infocampo.com.ar/disputa-por-el-ipcva-la-mesa-de-enlace-y-entidades-frigorificas-rechazan-un-cambio-que-impulsa-el-gobierno/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/ipcva-1024x576.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Mejora la rentabilidad: además de la faena y el consumo récord, el cerdo suma buenas noticias en las granjas",
         "url": "https://www.infocampo.com.ar/mejora-la-rentabilidad-ademas-de-la-faena-y-el-consumo-record-el-cerdo-suma-buenas-noticias-en-las-granjas/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/08/cerdos-lechones.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/08/cerdos-lechones-450x256.png"
     },
     {
         "titulo": "Una reina imbatible en Palermo: La Yoli volvió a consagrarse como gran campeona de los Criollos",
@@ -23,10 +28,5 @@
         "titulo": "De los potreros a la “nube”: el INTA lanza una plataforma digital para potenciar la gestión ganadera",
         "url": "https://www.infocampo.com.ar/de-los-potreros-a-la-nube-el-inta-lanzo-una-plataforma-digital-para-potenciar-la-gestion-ganadera/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/potrero-450x257.jpg"
-    },
-    {
-        "titulo": "Novillos más pesados: la estrategia genética que engordó los resultados en la Cuenca del Salado",
-        "url": "https://www.infocampo.com.ar/novillos-mas-pesados-la-estrategia-genetica-que-engordo-los-resultados-en-la-cuenca-del-salado/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/gordos-450x257.jpg"
     }
 ]
