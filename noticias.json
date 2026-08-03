@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "De la agricultura a un corral con 100.000 animales: el modelo que alimenta al feedlot más grande de Argentina",
+        "url": "https://www.infocampo.com.ar/de-la-agricultura-a-un-corral-con-100-000-animales-el-modelo-que-alimenta-al-feedlot-mas-grande-de-argentina/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/crea2.jpg"
+    },
+    {
         "titulo": "“Que aparezca el crédito”: en la cadena ganadera ponen el foco en el financiamiento para consolidar el buen momento",
         "url": "https://www.infocampo.com.ar/que-aparezca-el-credito-en-la-cadena-ganadera-ponen-el-foco-en-el-financiamiento-para-consolidar-el-buen-momento/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/brangus.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Vacuna antiaftosa: la Sociedad Rural asegura que el precio bajó y favorece el poder de compra ganadero",
         "url": "https://www.infocampo.com.ar/vacuna-antiaftosa-la-sociedad-rural-asegura-que-el-precio-bajo-y-favorece-el-poder-de-compra-ganadero/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/vacunacion-antiaftosa-senasa-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/vacunacion-antiaftosa-senasa-450x257.png"
     },
     {
         "titulo": "Proviene de un laboratorio colombiano: el Senasa aprobó la venta de otra vacuna antiaftosa",
@@ -23,10 +28,5 @@
         "titulo": "China otra vez sopla a favor de la carne argentina: aumenta importaciones y sube los precios",
         "url": "https://www.infocampo.com.ar/china-otra-vez-sopla-a-favor-de-la-carne-argentina-aumenta-importaciones-y-sube-los-precios/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/frigorifico-exportaciones-carne-hilton-450x257.jpg"
-    },
-    {
-        "titulo": "La milésima de segundo: “Bela”, la cabañera y fotógrafa que unió dos pasiones y las lució en Palermo",
-        "url": "https://www.infocampo.com.ar/la-milesima-de-segundo-bela-la-cabanera-y-fotografa-que-unio-dos-pasiones-y-las-lucio-en-palermo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/Belen-Sigmaringo-en-La-Rural-2025-450x256.png"
     }
 ]
