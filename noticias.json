@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Los búfalos pisan fuerte: el rodeo argentino no para de crecer y tienen una gran oportunidad exportadora",
+        "url": "https://www.infocampo.com.ar/los-bufalos-pisan-fuerte-el-rodeo-argentino-no-para-de-crecer-y-tienen-una-gran-oportunidad-exportadora/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/bufalos.jpg"
+    },
+    {
         "titulo": "“¿Nuestra fortaleza? Tenemos pasión por la ganadería”: jóvenes ganaderos argentinos buscan dejar huella en Canadá",
         "url": "https://www.infocampo.com.ar/nuestra-fortaleza-tenemos-pasion-por-la-ganaderia-jovenes-ganaderos-argentinos-buscan-dejar-huella-en-canada/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/beef-1024x585.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "“Que aparezca el crédito”: en la cadena ganadera ponen el foco en el financiamiento para consolidar el buen momento",
         "url": "https://www.infocampo.com.ar/que-aparezca-el-credito-en-la-cadena-ganadera-ponen-el-foco-en-el-financiamiento-para-consolidar-el-buen-momento/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/brangus.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/brangus-450x257.jpg"
     },
     {
         "titulo": "Del derecho penal a la genética bovina: en Chascomús, la ley de los Ochoa es criar Angus de elite",
@@ -23,10 +28,5 @@
         "titulo": "Vacuna antiaftosa: la Sociedad Rural asegura que el precio bajó y favorece el poder de compra ganadero",
         "url": "https://www.infocampo.com.ar/vacuna-antiaftosa-la-sociedad-rural-asegura-que-el-precio-bajo-y-favorece-el-poder-de-compra-ganadero/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/vacunacion-antiaftosa-senasa-450x257.png"
-    },
-    {
-        "titulo": "Proviene de un laboratorio colombiano: el Senasa aprobó la venta de otra vacuna antiaftosa",
-        "url": "https://www.infocampo.com.ar/proviene-de-un-laboratorio-colombiano-el-senasa-aprobo-la-venta-de-otra-vacuna-antiaftosa/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/10/Gv-o56YXEAAcfym-450x257.jpg"
     }
 ]
