@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Cuenta regresiva: los forrajes alimentan el buen momento ganadero con su Congreso anual",
+        "url": "https://www.infocampo.com.ar/cuenta-regresiva-los-forrajes-alimentan-el-buen-momento-ganadero-con-su-congreso-anual/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/congreso-forrajes-1024x584.png"
+    },
+    {
         "titulo": "Pastoreos de invierno: cultivos al servicio de la recría redefinen el manejo en los sistemas integrados",
         "url": "https://www.infocampo.com.ar/pastoreos-de-invierno-cultivos-al-servicio-de-la-recria-redefinen-el-manejo-en-los-sistemas-integrados/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-20-at-17.27.05-1-1024x584.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Los reyes del “block test”: los Limangus también demostraron su poderío carnicero en Uruguay",
         "url": "https://www.infocampo.com.ar/los-reyes-del-block-test-los-limangus-tambien-demostraron-su-poderio-carnicero-en-uruguay/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/toro-limangus.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/toro-limangus-450x257.png"
     },
     {
         "titulo": "Los búfalos pisan fuerte: el rodeo argentino no para de crecer y tienen una gran oportunidad exportadora",
@@ -23,10 +28,5 @@
         "titulo": "“¿Nuestra fortaleza? Tenemos pasión por la ganadería”: jóvenes ganaderos argentinos buscan dejar huella en Canadá",
         "url": "https://www.infocampo.com.ar/nuestra-fortaleza-tenemos-pasion-por-la-ganaderia-jovenes-ganaderos-argentinos-buscan-dejar-huella-en-canada/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/beef-450x257.jpg"
-    },
-    {
-        "titulo": "De la agricultura a corrales con 100.000 animales: el modelo que alimenta al feedlot más grande de Argentina",
-        "url": "https://www.infocampo.com.ar/de-la-agricultura-a-un-corral-con-100-000-animales-el-modelo-que-alimenta-al-feedlot-mas-grande-de-argentina/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/crea2-450x257.jpg"
     }
 ]
