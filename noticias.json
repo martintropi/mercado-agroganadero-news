@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La carne ovina también vive un empuje exportador: crecimiento del 34% en el primer semestre",
+        "url": "https://www.infocampo.com.ar/la-carne-ovina-tambien-vive-un-empuje-exportador-crecimiento-del-34-en-el-primer-semestre/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/unnamed-7.jpg"
+    },
+    {
         "titulo": "Cuenta regresiva: los forrajes alimentan el buen momento ganadero con su Congreso anual",
         "url": "https://www.infocampo.com.ar/cuenta-regresiva-los-forrajes-alimentan-el-buen-momento-ganadero-con-su-congreso-anual/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/congreso-forrajes-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "La paradoja de Brasil y su carne: aunque crece en exportaciones, corre el riesgo de quedarse sin mercados",
         "url": "https://www.infocampo.com.ar/la-paradoja-de-brasil-y-su-carne-aunque-crece-en-exportaciones-corre-el-riesgo-de-quedarse-sin-mercados/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/Gemini_Generated_Image_4unm2o4unm2o4unm-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/Gemini_Generated_Image_4unm2o4unm2o4unm-450x257.png"
     },
     {
         "titulo": "Los reyes del “block test”: los Limangus también demostraron su poderío carnicero en Uruguay",
@@ -23,10 +28,5 @@
         "titulo": "Los búfalos pisan fuerte: el rodeo argentino no para de crecer y tienen una gran oportunidad exportadora",
         "url": "https://www.infocampo.com.ar/los-bufalos-pisan-fuerte-el-rodeo-argentino-no-para-de-crecer-y-tienen-una-gran-oportunidad-exportadora/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/bufalos-450x256.jpg"
-    },
-    {
-        "titulo": "“¿Nuestra fortaleza? Tenemos pasión por la ganadería”: jóvenes ganaderos argentinos buscan dejar huella en Canadá",
-        "url": "https://www.infocampo.com.ar/nuestra-fortaleza-tenemos-pasion-por-la-ganaderia-jovenes-ganaderos-argentinos-buscan-dejar-huella-en-canada/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/beef-450x257.jpg"
     }
 ]
