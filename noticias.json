@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El toro argentino más caro de la historia: un macho Angus se vendió por $ 300 millones el 50%",
+        "url": "https://www.infocampo.com.ar/el-toro-argentino-mas-caro-de-la-historia-un-macho-angus-se-vendio-por-300-millones-el-50/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/toro-angus-alvaro-1024x584.png"
+    },
+    {
         "titulo": "La carne ovina también vive un empuje exportador: crecimiento del 34% en el primer semestre",
         "url": "https://www.infocampo.com.ar/la-carne-ovina-tambien-vive-un-empuje-exportador-crecimiento-del-34-en-el-primer-semestre/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/unnamed-7.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Pastoreos de invierno: cultivos al servicio de la recría redefinen el manejo en los sistemas integrados",
         "url": "https://www.infocampo.com.ar/pastoreos-de-invierno-cultivos-al-servicio-de-la-recria-redefinen-el-manejo-en-los-sistemas-integrados/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-20-at-17.27.05-1-1024x584.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-20-at-17.27.05-1-450x257.jpeg"
     },
     {
         "titulo": "La paradoja de Brasil y su carne: aunque crece en exportaciones, corre el riesgo de quedarse sin mercados",
@@ -23,10 +28,5 @@
         "titulo": "Los reyes del “block test”: los Limangus también demostraron su poderío carnicero en Uruguay",
         "url": "https://www.infocampo.com.ar/los-reyes-del-block-test-los-limangus-tambien-demostraron-su-poderio-carnicero-en-uruguay/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/toro-limangus-450x257.png"
-    },
-    {
-        "titulo": "Los búfalos pisan fuerte: el rodeo argentino no para de crecer y tienen una gran oportunidad exportadora",
-        "url": "https://www.infocampo.com.ar/los-bufalos-pisan-fuerte-el-rodeo-argentino-no-para-de-crecer-y-tienen-una-gran-oportunidad-exportadora/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/bufalos-450x256.jpg"
     }
 ]
