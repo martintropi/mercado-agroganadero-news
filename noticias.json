@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Un “boom” que moviliza capital: un fondo común de inversión ganadero captó otros $ 1.500 millones",
+        "url": "https://www.infocampo.com.ar/un-boom-que-moviliza-capital-un-fondo-comun-de-inversion-ganadero-capto-otros-1-500-millones/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/11/hacienda-adblick-1024x583.png"
+    },
+    {
         "titulo": "El toro argentino más caro de la historia: un macho Angus se vendió por $ 300 millones el 50%",
         "url": "https://www.infocampo.com.ar/el-toro-argentino-mas-caro-de-la-historia-un-macho-angus-se-vendio-por-300-millones-el-50/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/toro-angus-alvaro-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Cuenta regresiva: llega el 2° Congreso Argentino de Forrajes",
         "url": "https://www.infocampo.com.ar/cuenta-regresiva-llega-el-2-congreso-argentino-de-forrajes/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/congreso-forrajes-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/congreso-forrajes-450x257.png"
     },
     {
         "titulo": "Pastoreos de invierno: cultivos al servicio de la recría redefinen el manejo en los sistemas integrados",
@@ -23,10 +28,5 @@
         "titulo": "La paradoja de Brasil y su carne: aunque crece en exportaciones, corre el riesgo de quedarse sin mercados",
         "url": "https://www.infocampo.com.ar/la-paradoja-de-brasil-y-su-carne-aunque-crece-en-exportaciones-corre-el-riesgo-de-quedarse-sin-mercados/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/Gemini_Generated_Image_4unm2o4unm2o4unm-450x257.png"
-    },
-    {
-        "titulo": "Los reyes del “block test”: los Limangus también demostraron su poderío carnicero en Uruguay",
-        "url": "https://www.infocampo.com.ar/los-reyes-del-block-test-los-limangus-tambien-demostraron-su-poderio-carnicero-en-uruguay/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/toro-limangus-450x257.png"
     }
 ]
