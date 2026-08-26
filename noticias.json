@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "“La ganadería está en medio de un cambio de tendencia, que es incluso mejor que un boom”",
+        "url": "https://www.infocampo.com.ar/la-ganaderia-esta-en-medio-de-un-cambio-de-tendencia-que-es-incluso-mejor-que-un-boom/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/expo-ganadera-del-centro-1024x584.png"
+    },
+    {
         "titulo": "Un “boom” que moviliza capital: un fondo común de inversión ganadero captó otros $ 1.500 millones",
         "url": "https://www.infocampo.com.ar/un-boom-que-moviliza-capital-un-fondo-comun-de-inversion-ganadero-capto-otros-1-500-millones/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/11/hacienda-adblick-1024x583.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "La carne ovina también vive un empuje exportador: crecimiento del 34% en el primer semestre",
         "url": "https://www.infocampo.com.ar/la-carne-ovina-tambien-vive-un-empuje-exportador-crecimiento-del-34-en-el-primer-semestre/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/unnamed-7.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/unnamed-7-450x257.jpg"
     },
     {
         "titulo": "Cuenta regresiva: llega el 2° Congreso Argentino de Forrajes",
@@ -23,10 +28,5 @@
         "titulo": "Pastoreos de invierno: cultivos al servicio de la recría redefinen el manejo en los sistemas integrados",
         "url": "https://www.infocampo.com.ar/pastoreos-de-invierno-cultivos-al-servicio-de-la-recria-redefinen-el-manejo-en-los-sistemas-integrados/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-20-at-17.27.05-1-450x257.jpeg"
-    },
-    {
-        "titulo": "La paradoja de Brasil y su carne: aunque crece en exportaciones, corre el riesgo de quedarse sin mercados",
-        "url": "https://www.infocampo.com.ar/la-paradoja-de-brasil-y-su-carne-aunque-crece-en-exportaciones-corre-el-riesgo-de-quedarse-sin-mercados/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/Gemini_Generated_Image_4unm2o4unm2o4unm-450x257.png"
     }
 ]
