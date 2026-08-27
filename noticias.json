@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Se reunió la Mesa Porcina bonaerense: hay preocupación por el aumento de las importaciones",
+        "url": "https://www.infocampo.com.ar/se-reunio-la-mesa-porcina-bonaerense-hay-preocupacion-por-el-aumento-de-las-importaciones/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/unnamed-77-1024x584.jpg"
+    },
+    {
         "titulo": "“La ganadería está en medio de un cambio de tendencia, que es incluso mejor que un boom”",
         "url": "https://www.infocampo.com.ar/la-ganaderia-esta-en-medio-de-un-cambio-de-tendencia-que-es-incluso-mejor-que-un-boom/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/expo-ganadera-del-centro-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "El toro argentino más caro de la historia: un macho Angus se vendió por $ 300 millones el 50%",
         "url": "https://www.infocampo.com.ar/el-toro-argentino-mas-caro-de-la-historia-un-macho-angus-se-vendio-por-300-millones-el-50/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/toro-angus-alvaro-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/toro-angus-alvaro-450x257.png"
     },
     {
         "titulo": "La carne ovina también vive un empuje exportador: crecimiento del 34% en el primer semestre",
@@ -23,10 +28,5 @@
         "titulo": "Cuenta regresiva: llega el 2° Congreso Argentino de Forrajes",
         "url": "https://www.infocampo.com.ar/cuenta-regresiva-llega-el-2-congreso-argentino-de-forrajes/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/congreso-forrajes-450x257.png"
-    },
-    {
-        "titulo": "Pastoreos de invierno: cultivos al servicio de la recría redefinen el manejo en los sistemas integrados",
-        "url": "https://www.infocampo.com.ar/pastoreos-de-invierno-cultivos-al-servicio-de-la-recria-redefinen-el-manejo-en-los-sistemas-integrados/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-20-at-17.27.05-1-450x257.jpeg"
     }
 ]
