@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La genética bovina florecerá en Cañuelas con una nueva edición de la Semana Angus de Primavera",
+        "url": "https://www.infocampo.com.ar/la-genetica-bovina-florecera-en-canuelas-con-una-nueva-edicion-de-la-semana-angus-de-pri/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/lanzamiento-primavera-angus-1024x584.png"
+    },
+    {
         "titulo": "El boom ganadero activa el mercado de reproductores: suben los precios y crece la retención de vientres",
         "url": "https://www.infocampo.com.ar/el-boom-ganadero-activa-el-mercado-de-reproductores-suben-los-precios-y-crece-la-retencion-de-vientres/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-05-05-at-2.46.56-PM.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "La frontera del agua: potencial y costos del riego, ¿la nueva revolución del campo argentino?",
         "url": "https://www.infocampo.com.ar/la-frontera-del-agua-potencial-y-costos-del-riego-la-nueva-revolucion-del-campo-argentino/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/ice-2-programa-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/ice-2-programa-450x257.png"
     },
     {
         "titulo": "Se reunió la Mesa Porcina bonaerense: hay preocupación por el aumento de las importaciones",
@@ -23,10 +28,5 @@
         "titulo": "“La ganadería está en medio de un cambio de tendencia, que es incluso mejor que un boom”",
         "url": "https://www.infocampo.com.ar/la-ganaderia-esta-en-medio-de-un-cambio-de-tendencia-que-es-incluso-mejor-que-un-boom/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/expo-ganadera-del-centro-450x257.png"
-    },
-    {
-        "titulo": "Un “boom” que moviliza capital: un fondo común de inversión ganadero captó otros $ 1.500 millones",
-        "url": "https://www.infocampo.com.ar/un-boom-que-moviliza-capital-un-fondo-comun-de-inversion-ganadero-capto-otros-1-500-millones/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/11/hacienda-adblick-450x256.png"
     }
 ]
