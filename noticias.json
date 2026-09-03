@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La “transformación estructural” de la ganadería argentina: cómo cambió en 40 años y qué falta para un verdadero “boom”",
+        "url": "https://www.infocampo.com.ar/la-transformacion-estructural-de-la-ganaderia-argentina-como-cambio-en-40-anos-y-que-falta-para-un-verdadero-boom/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/bovinos-hacienda-ganado-sagyp-1024x580.png"
+    },
+    {
         "titulo": "La genética bovina florecerá en Cañuelas con una nueva edición de la Semana Angus de Primavera",
         "url": "https://www.infocampo.com.ar/la-genetica-bovina-florecera-en-canuelas-con-una-nueva-edicion-de-la-semana-angus-de-pri/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/lanzamiento-primavera-angus-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Reclamo al Senasa: desde Buenos Aires presionan para rever una desregulación de la vacunación antiaftosa",
         "url": "https://www.infocampo.com.ar/reclamo-al-senasa-desde-buenos-aires-presionan-para-rever-una-desregulacion-de-la-vacunacion-antiaftosa/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/vacuna-aftosa-senasa-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/vacuna-aftosa-senasa-450x257.png"
     },
     {
         "titulo": "La frontera del agua: potencial y costos del riego, ¿la nueva revolución del campo argentino?",
@@ -23,10 +28,5 @@
         "titulo": "Se reunió la Mesa Porcina bonaerense: hay preocupación por el aumento de las importaciones",
         "url": "https://www.infocampo.com.ar/se-reunio-la-mesa-porcina-bonaerense-hay-preocupacion-por-el-aumento-de-las-importaciones/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/unnamed-77-450x257.jpg"
-    },
-    {
-        "titulo": "“La ganadería está en medio de un cambio de tendencia, que es incluso mejor que un boom”",
-        "url": "https://www.infocampo.com.ar/la-ganaderia-esta-en-medio-de-un-cambio-de-tendencia-que-es-incluso-mejor-que-un-boom/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/expo-ganadera-del-centro-450x257.png"
     }
 ]
