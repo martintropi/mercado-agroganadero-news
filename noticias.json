@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Feedlots recargados con 2 millones de animales: ¿habrá una lluvia de oferta para fin de año?",
+        "url": "https://www.infocampo.com.ar/feedlots-recargados-con-2-millones-de-animales-habra-una-lluvia-de-oferta-para-fin-de-ano/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/feedlots.jpeg"
+    },
+    {
         "titulo": "Víctor Tonelli: “La carne vacuna es cara y debe ser cara; no tiene otra forma de subsistir”",
         "url": "https://www.infocampo.com.ar/victor-tonelli-la-carne-vacuna-es-cara-y-debe-ser-cara-no-tiene-otra-forma-de-subsistir/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/victor-tonelli-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "La genética bovina florecerá en Cañuelas con una nueva edición de la Semana Angus de Primavera",
         "url": "https://www.infocampo.com.ar/la-genetica-bovina-florecera-en-canuelas-con-una-nueva-edicion-de-la-semana-angus-de-pri/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/lanzamiento-primavera-angus-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/lanzamiento-primavera-angus-450x257.png"
     },
     {
         "titulo": "El boom ganadero activa el mercado de reproductores: suben los precios y crece la retención de vientres",
@@ -23,10 +28,5 @@
         "titulo": "Reclamo al Senasa: desde Buenos Aires presionan para rever una desregulación de la vacunación antiaftosa",
         "url": "https://www.infocampo.com.ar/reclamo-al-senasa-desde-buenos-aires-presionan-para-rever-una-desregulacion-de-la-vacunacion-antiaftosa/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/vacuna-aftosa-senasa-450x257.png"
-    },
-    {
-        "titulo": "La frontera del agua: potencial y costos del riego, ¿la nueva revolución del campo argentino?",
-        "url": "https://www.infocampo.com.ar/la-frontera-del-agua-potencial-y-costos-del-riego-la-nueva-revolucion-del-campo-argentino/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/08/ice-2-programa-450x257.png"
     }
 ]
