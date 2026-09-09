@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Si es mejor, que se note: los Hereford suman una nueva marca para distinguir hembras superiores",
+        "url": "https://www.infocampo.com.ar/si-es-mejor-que-se-note-los-hereford-suman-una-nueva-marca-para-distinguir-hembras-superiores/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/vaca-y-ternero-hereford-1024x584.png"
+    },
+    {
         "titulo": "Feedlots recargados con 2 millones de animales: ¿habrá una lluvia de oferta para fin de año?",
         "url": "https://www.infocampo.com.ar/feedlots-recargados-con-2-millones-de-animales-habra-una-lluvia-de-oferta-para-fin-de-ano/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/feedlots.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "La “transformación estructural” de la ganadería argentina: cómo cambió en 40 años y qué falta para un verdadero “boom”",
         "url": "https://www.infocampo.com.ar/la-transformacion-estructural-de-la-ganaderia-argentina-como-cambio-en-40-anos-y-que-falta-para-un-verdadero-boom/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/bovinos-hacienda-ganado-sagyp-1024x580.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/02/bovinos-hacienda-ganado-sagyp-450x255.png"
     },
     {
         "titulo": "La genética bovina florecerá en Cañuelas con una nueva edición de la Semana Angus de Primavera",
@@ -23,10 +28,5 @@
         "titulo": "El boom ganadero activa el mercado de reproductores: suben los precios y crece la retención de vientres",
         "url": "https://www.infocampo.com.ar/el-boom-ganadero-activa-el-mercado-de-reproductores-suben-los-precios-y-crece-la-retencion-de-vientres/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-05-05-at-2.46.56-PM-450x257.jpeg"
-    },
-    {
-        "titulo": "Reclamo al Senasa: desde Buenos Aires presionan para rever una desregulación de la vacunación antiaftosa",
-        "url": "https://www.infocampo.com.ar/reclamo-al-senasa-desde-buenos-aires-presionan-para-rever-una-desregulacion-de-la-vacunacion-antiaftosa/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/vacuna-aftosa-senasa-450x257.png"
     }
 ]
