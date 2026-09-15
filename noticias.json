@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Ensayo inédito en Santa Fe: evalúan por primera vez la eficiencia de toros Limangus a pastoreo",
+        "url": "https://www.infocampo.com.ar/ensayo-inedito-en-santa-fe-evaluan-por-primera-vez-la-eficiencia-de-toros-limangus-a-pastoreo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/limangus-buena.jpg"
+    },
+    {
         "titulo": "Llega la Expo Ganadera del Centro: dos días para conocer el futuro de la producción de carne",
         "url": "https://www.infocampo.com.ar/llega-la-expo-ganadera-del-centro-dos-dias-para-conocer-el-futuro-de-la-produccion-de-carne/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/expo-ganadera-del-centro-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "El sorprendente salto de la carne caprina argentina: las exportaciones crecen 380% en 2026",
         "url": "https://www.infocampo.com.ar/el-sorprendente-salto-de-la-carne-caprina-argentina-las-exportaciones-crecen-380-en-2026/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/cabras-sagyp-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/cabras-sagyp-450x257.png"
     },
     {
         "titulo": "Contratista forrajero y diseñador de feedlots: las claves para armar el corral y no sufrir con las lluvias de El Niño",
@@ -23,10 +28,5 @@
         "titulo": "Récord para la carne Angus certificada: proyectan exportar 24.000 toneladas, el triple que en 2025",
         "url": "https://www.infocampo.com.ar/record-para-la-carne-angus-certificada-proyectan-exportar-24-000-toneladas-el-triple-que-en-2025/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/10/carne-angus-certificada-450x257.png"
-    },
-    {
-        "titulo": "Si es mejor, que se note: los Hereford suman una nueva marca para distinguir hembras superiores",
-        "url": "https://www.infocampo.com.ar/si-es-mejor-que-se-note-los-hereford-suman-una-nueva-marca-para-distinguir-hembras-superiores/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/06/vaca-y-ternero-hereford-450x257.png"
     }
 ]
