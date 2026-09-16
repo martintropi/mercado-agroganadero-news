@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Del fútbol a los toros: Ramón Díaz, campeón como jugador, director técnico y también cabañero",
+        "url": "https://www.infocampo.com.ar/del-futbol-a-los-toros-ramon-diaz-campeon-como-jugador-director-tecnico-y-tambien-cabanero/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/ramon-diaz-ganado-1024x584.png"
+    },
+    {
         "titulo": "Exportaciones de carne históricas: se agotó el cupo con EEUU y se abre otra gran oportunidad con China",
         "url": "https://www.infocampo.com.ar/exportaciones-de-carne-historicas-se-agoto-el-cupo-con-eeuu-y-se-abre-otra-gran-oportunidad-con-china/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/04/carne-exportaciones-frigorifico.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Ensayo inédito en Santa Fe: evalúan por primera vez la eficiencia de toros Limangus a pastoreo",
         "url": "https://www.infocampo.com.ar/ensayo-inedito-en-santa-fe-evaluan-por-primera-vez-la-eficiencia-de-toros-limangus-a-pastoreo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/limangus-buena.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/limangus-buena-450x256.jpg"
     },
     {
         "titulo": "Llega la Expo Ganadera del Centro: dos días para conocer el futuro de la producción de carne",
@@ -23,10 +28,5 @@
         "titulo": "Dos equipos y seis razas: Argentina ya definió su “selección” de jóvenes para un mundial ganadero",
         "url": "https://www.infocampo.com.ar/dos-equipos-y-seis-razas-argentina-ya-definio-su-seleccion-de-jovenes-para-un-mundial-ganadero/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-3.41.35-PM-450x257.jpeg"
-    },
-    {
-        "titulo": "El sorprendente salto de la carne caprina argentina: las exportaciones crecen 380% en 2026",
-        "url": "https://www.infocampo.com.ar/el-sorprendente-salto-de-la-carne-caprina-argentina-las-exportaciones-crecen-380-en-2026/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/cabras-sagyp-450x257.png"
     }
 ]
