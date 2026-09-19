@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "En La Rural se jugó el mundial de la carne bovina y el oro se lo repartieron Argentina y Uruguay",
+        "url": "https://www.infocampo.com.ar/en-la-rural-se-jugo-el-mundial-de-la-carne-bovina-y-el-oro-se-lo-repartieron-argentina-y-uruguay/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/CMDC-17-1024x584.jpg"
+    },
+    {
         "titulo": "Del fútbol a los toros: Ramón Díaz, campeón como jugador, director técnico y también cabañero",
         "url": "https://www.infocampo.com.ar/del-futbol-a-los-toros-ramon-diaz-campeon-como-jugador-director-tecnico-y-tambien-cabanero/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/ramon-diaz-ganado-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "La “guerra” del campo cordobés contra las guías de hacienda: reclaman una ley provincial que las prohíba",
         "url": "https://www.infocampo.com.ar/la-guerra-del-campo-cordobes-contra-las-guias-de-hacienda-reclaman-una-ley-provincial-que-las-prohiba/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/guias-ganaderas-traslado-hacienda-cordoba.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/guias-ganaderas-traslado-hacienda-cordoba-450x257.jpg"
     },
     {
         "titulo": "Ensayo inédito en Santa Fe: evalúan por primera vez la eficiencia de toros Limangus a pastoreo",
@@ -23,10 +28,5 @@
         "titulo": "Llega la Expo Ganadera del Centro: dos días para conocer el futuro de la producción de carne",
         "url": "https://www.infocampo.com.ar/llega-la-expo-ganadera-del-centro-dos-dias-para-conocer-el-futuro-de-la-produccion-de-carne/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/expo-ganadera-del-centro-450x257.png"
-    },
-    {
-        "titulo": "Dos equipos y seis razas: Argentina ya definió su “selección” de jóvenes para un mundial ganadero",
-        "url": "https://www.infocampo.com.ar/dos-equipos-y-seis-razas-argentina-ya-definio-su-seleccion-de-jovenes-para-un-mundial-ganadero/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-14-at-3.41.35-PM-450x257.jpeg"
     }
 ]
