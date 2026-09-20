@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Dejó la abogacía hace 30 años para ser ganadero y hoy lo celebra: “Este momento no lo vi nunca”",
+        "url": "https://www.infocampo.com.ar/dejo-la-abogacia-hace-30-anos-para-ser-ganadero-y-hoy-lo-celebra-este-momento-no-lo-vi-nunca/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-04-at-10.55.47-AM-1024x584.jpeg"
+    },
+    {
         "titulo": "En La Rural se jugó el mundial de la carne bovina y el oro se lo repartieron Argentina y Uruguay",
         "url": "https://www.infocampo.com.ar/en-la-rural-se-jugo-el-mundial-de-la-carne-bovina-y-el-oro-se-lo-repartieron-argentina-y-uruguay/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/CMDC-17-1024x584.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Exportaciones de carne históricas: se agotó el cupo con EEUU y se abre otra gran oportunidad con China",
         "url": "https://www.infocampo.com.ar/exportaciones-de-carne-historicas-se-agoto-el-cupo-con-eeuu-y-se-abre-otra-gran-oportunidad-con-china/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/04/carne-exportaciones-frigorifico.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/04/carne-exportaciones-frigorifico-450x256.png"
     },
     {
         "titulo": "La “guerra” del campo cordobés contra las guías de hacienda: reclaman una ley provincial que las prohíba",
@@ -23,10 +28,5 @@
         "titulo": "Ensayo inédito en Santa Fe: evalúan por primera vez la eficiencia de toros Limangus a pastoreo",
         "url": "https://www.infocampo.com.ar/ensayo-inedito-en-santa-fe-evaluan-por-primera-vez-la-eficiencia-de-toros-limangus-a-pastoreo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/limangus-buena-450x256.jpg"
-    },
-    {
-        "titulo": "Llega la Expo Ganadera del Centro: dos días para conocer el futuro de la producción de carne",
-        "url": "https://www.infocampo.com.ar/llega-la-expo-ganadera-del-centro-dos-dias-para-conocer-el-futuro-de-la-produccion-de-carne/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/expo-ganadera-del-centro-450x257.png"
     }
 ]
