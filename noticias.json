@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Los Angus y el boom exportador de carne: “Una tonelada Hilton vale 40% más que la de una pick-up”",
+        "url": "https://www.infocampo.com.ar/los-angus-y-el-boom-exportador-de-carne-una-tonelada-hilton-vale-40-mas-que-la-de-una-pick-up/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/angus-negros-semana-primavera-1024x584.png"
+    },
+    {
         "titulo": "La ganadería, ante el desafío de realmente crecer: “Durante 20 años fue un negocio solo para permanecer”",
         "url": "https://www.infocampo.com.ar/la-ganaderia-ante-el-desafio-de-realmente-crecer-durante-20-anos-fue-un-negocio-solo-para-permanecer/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/expo-ganadera-1024x585.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "En La Rural se jugó el mundial de la carne bovina y el oro se lo repartieron Argentina y Uruguay",
         "url": "https://www.infocampo.com.ar/en-la-rural-se-jugo-el-mundial-de-la-carne-bovina-y-el-oro-se-lo-repartieron-argentina-y-uruguay/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/CMDC-17-1024x584.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/CMDC-17-450x257.jpg"
     },
     {
         "titulo": "Del fútbol a los toros: Ramón Díaz, campeón como jugador, director técnico y también cabañero",
@@ -23,10 +28,5 @@
         "titulo": "Exportaciones de carne históricas: se agotó el cupo con EEUU y se abre otra gran oportunidad con China",
         "url": "https://www.infocampo.com.ar/exportaciones-de-carne-historicas-se-agoto-el-cupo-con-eeuu-y-se-abre-otra-gran-oportunidad-con-china/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/04/carne-exportaciones-frigorifico-450x256.png"
-    },
-    {
-        "titulo": "La “guerra” del campo cordobés contra las guías de hacienda: reclaman una ley provincial que las prohíba",
-        "url": "https://www.infocampo.com.ar/la-guerra-del-campo-cordobes-contra-las-guias-de-hacienda-reclaman-una-ley-provincial-que-las-prohiba/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/guias-ganaderas-traslado-hacienda-cordoba-450x257.jpg"
     }
 ]
