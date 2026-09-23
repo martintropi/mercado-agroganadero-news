@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Las brechas productivas de la nutrición animal: el “potencial enorme” para crecer en la generación de proteínas",
+        "url": "https://www.infocampo.com.ar/las-brechas-productivas-de-la-nutricion-animal-el-potencial-enorme-para-crecer-en-la-generacion-de-proteinas/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/07/feedlot-comedero-inta-informa.jpg"
+    },
+    {
         "titulo": "La carne argentina, bajo la lupa de un gigante chino: la hoja de ruta para seguir creciendo y lograr precios premium",
         "url": "https://www.infocampo.com.ar/la-carne-argentina-bajo-la-lupa-de-un-gigante-chino-la-hoja-de-ruta-para-seguir-creciendo-y-lograr-precios-premium/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/@Nicobertea-01-2.JPG-1024x584.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "La ganadería, ante el desafío de realmente crecer: “Durante 20 años fue un negocio solo para permanecer”",
         "url": "https://www.infocampo.com.ar/la-ganaderia-ante-el-desafio-de-realmente-crecer-durante-20-anos-fue-un-negocio-solo-para-permanecer/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/expo-ganadera-1024x585.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/expo-ganadera-450x257.png"
     },
     {
         "titulo": "Dejó la abogacía hace 30 años para ser ganadero y hoy lo celebra: “Este momento no lo vi nunca”",
@@ -23,10 +28,5 @@
         "titulo": "En La Rural se jugó el mundial de la carne bovina y el oro se lo repartieron Argentina y Uruguay",
         "url": "https://www.infocampo.com.ar/en-la-rural-se-jugo-el-mundial-de-la-carne-bovina-y-el-oro-se-lo-repartieron-argentina-y-uruguay/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/CMDC-17-450x257.jpg"
-    },
-    {
-        "titulo": "Del fútbol a los toros: Ramón Díaz, campeón como jugador, director técnico y también cabañero",
-        "url": "https://www.infocampo.com.ar/del-futbol-a-los-toros-ramon-diaz-campeon-como-jugador-director-tecnico-y-tambien-cabanero/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/ramon-diaz-ganado-450x257.png"
     }
 ]
