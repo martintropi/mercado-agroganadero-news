@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Para ser “sustentable”, la carne argentina deberá cumplir con una certificación laboral del Renatre",
+        "url": "https://www.infocampo.com.ar/para-ser-sustentable-la-carne-argentina-debera-cumplir-con-una-certificacion-laboral-del-renatre/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/renatre-con-macs-1024x584.png"
+    },
+    {
         "titulo": "Exportaciones de carne: a contramano del Mercosur, Argentina crece y gana protagonismo",
         "url": "https://www.infocampo.com.ar/exportaciones-de-carne-a-contramano-del-mercosur-argentina-crece-y-gana-protagonismo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/CMDC10.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Remate de elite: la genética Brangus y Braford de Juramento sale a la pista en Salta",
         "url": "https://www.infocampo.com.ar/remate-de-elite-la-genetica-brangus-y-braford-de-juramento-sale-a-la-pista-en-salta/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/bovinos-hacienda-genetica-juramento-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/bovinos-hacienda-genetica-juramento-450x257.png"
     },
     {
         "titulo": "Buena, rica y barata: la carne de cerdo se consolida, con un precio hasta 3 veces más bajo que la vacuna",
@@ -23,10 +28,5 @@
         "titulo": "Las brechas productivas de la nutrición animal: el “potencial enorme” para crecer en la generación de proteínas",
         "url": "https://www.infocampo.com.ar/las-brechas-productivas-de-la-nutricion-animal-el-potencial-enorme-para-crecer-en-la-generacion-de-proteinas/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/07/feedlot-comedero-inta-informa-450x257.jpg"
-    },
-    {
-        "titulo": "La carne argentina, bajo la lupa de un gigante chino: la hoja de ruta para seguir creciendo y lograr precios premium",
-        "url": "https://www.infocampo.com.ar/la-carne-argentina-bajo-la-lupa-de-un-gigante-chino-la-hoja-de-ruta-para-seguir-creciendo-y-lograr-precios-premium/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/@Nicobertea-01-2.JPG-450x257.jpeg"
     }
 ]
