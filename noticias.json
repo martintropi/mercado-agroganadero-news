@@ -1,5 +1,15 @@
 [
     {
+        "titulo": "Carnicero y feedlotero: en Tierra del Fuego, Alejandro hizo “carne” el emprendedurismo agropecuario",
+        "url": "https://www.infocampo.com.ar/carnicero-y-feedlotero-en-tierra-del-fuego-alejandro-hizo-carne-el-emprendedurismo-agropecuario/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/Alonso03-1024x584.jpeg"
+    },
+    {
+        "titulo": "¿La ganadería contamina?: junto al Banco Mundial, Córdoba mide el metano de sus vacas para desmitificarlo",
+        "url": "https://www.infocampo.com.ar/la-ganaderia-contamina-junto-al-banco-mundial-cordoba-mide-el-metano-de-sus-vacas-para-desmitificarlo/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/busso-expo-ganadera-1024x584.png"
+    },
+    {
         "titulo": "Para ser “sustentable”, la carne argentina deberá cumplir con una certificación laboral del Renatre",
         "url": "https://www.infocampo.com.ar/para-ser-sustentable-la-carne-argentina-debera-cumplir-con-una-certificacion-laboral-del-renatre/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/renatre-con-macs-1024x584.png"
@@ -7,26 +17,16 @@
     {
         "titulo": "Exportaciones de carne: a contramano del Mercosur, Argentina crece y gana protagonismo",
         "url": "https://www.infocampo.com.ar/exportaciones-de-carne-a-contramano-del-mercosur-argentina-crece-y-gana-protagonismo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/CMDC10.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/CMDC10-450x257.jpg"
     },
     {
         "titulo": "No todas las caravanas electrónicas son iguales: ¿qué mirar a la hora de identificar el rodeo?",
         "url": "https://www.infocampo.com.ar/no-todas-las-caravanas-electronicas-son-iguales-que-mirar-a-la-hora-de-identificar-el-rodeo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/FOTO-CARAVANAS-2.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/FOTO-CARAVANAS-2-450x256.jpeg"
     },
     {
         "titulo": "Remate de elite: la genética Brangus y Braford de Juramento sale a la pista en Salta",
         "url": "https://www.infocampo.com.ar/remate-de-elite-la-genetica-brangus-y-braford-de-juramento-sale-a-la-pista-en-salta/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/bovinos-hacienda-genetica-juramento-450x257.png"
-    },
-    {
-        "titulo": "Buena, rica y barata: la carne de cerdo se consolida, con un precio hasta 3 veces más bajo que la vacuna",
-        "url": "https://www.infocampo.com.ar/buena-rica-y-barata-la-carne-de-cerdo-se-consolida-con-un-precio-hasta-3-veces-mas-bajo-que-la-vacuna/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2025-09-19-at-12.10.18-PM-450x257.jpeg"
-    },
-    {
-        "titulo": "Las brechas productivas de la nutrición animal: el “potencial enorme” para crecer en la generación de proteínas",
-        "url": "https://www.infocampo.com.ar/las-brechas-productivas-de-la-nutricion-animal-el-potencial-enorme-para-crecer-en-la-generacion-de-proteinas/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/07/feedlot-comedero-inta-informa-450x257.jpg"
     }
 ]
