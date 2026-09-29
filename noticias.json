@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El cerdo sigue batiendo récords y vive un presente soñado, pero con una pesadilla amenazando: las importaciones",
+        "url": "https://www.infocampo.com.ar/el-cerdo-sigue-batiendo-records-y-vive-un-presente-sonado-pero-con-una-pesadilla-amenazando-las-importaciones/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/cerdo-sagyp-1024x584.png"
+    },
+    {
         "titulo": "Javier, el director de orquesta de los Angus: “El mercado de la carne va yendo hacia la diferenciación por calidad”",
         "url": "https://www.infocampo.com.ar/javier-el-director-de-orquesta-de-los-angus-el-mercado-de-la-carne-va-yendo-hacia-la-diferenciacion-por-calidad/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-4.32.12-PM-1024x584.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "¿La ganadería contamina?: junto al Banco Mundial, Córdoba mide el metano de sus vacas para desmitificarlo",
         "url": "https://www.infocampo.com.ar/la-ganaderia-contamina-junto-al-banco-mundial-cordoba-mide-el-metano-de-sus-vacas-para-desmitificarlo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/busso-expo-ganadera-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/busso-expo-ganadera-450x257.png"
     },
     {
         "titulo": "Exportaciones de carne: a contramano del Mercosur, Argentina crece y gana protagonismo",
@@ -23,10 +28,5 @@
         "titulo": "Para ser “sustentable”, la carne argentina deberá cumplir con una certificación laboral del Renatre",
         "url": "https://www.infocampo.com.ar/para-ser-sustentable-la-carne-argentina-debera-cumplir-con-una-certificacion-laboral-del-renatre/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/renatre-con-macs-450x257.png"
-    },
-    {
-        "titulo": "No todas las caravanas electrónicas son iguales: ¿qué mirar a la hora de identificar el rodeo?",
-        "url": "https://www.infocampo.com.ar/no-todas-las-caravanas-electronicas-son-iguales-que-mirar-a-la-hora-de-identificar-el-rodeo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/FOTO-CARAVANAS-2-450x256.jpeg"
     }
 ]
