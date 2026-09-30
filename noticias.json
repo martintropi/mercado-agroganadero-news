@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Histórico: después de 20 años, Japón vuelve a comprar carne argentina de todo el país y no solo de la Patagonia",
+        "url": "https://www.infocampo.com.ar/historico-despues-de-20-anos-japon-vuelve-a-comprar-carne-argentina-de-todo-el-pais-y-no-solo-de-la-patagonia/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/frigorifico-exportaciones-carne-hilton-1024x584.jpg"
+    },
+    {
         "titulo": "“Es el mejor momento de la historia para el criador: tras tantos años golpeado, hoy tiene su revancha”",
         "url": "https://www.infocampo.com.ar/es-el-mejor-momento-de-la-historia-para-el-criador-tras-tantos-anos-golpeado-hoy-tiene-su-revancha/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/joaquin-jauregui-lorda-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "El cerdo sigue batiendo récords y vive un presente soñado, pero con una pesadilla amenazando: las importaciones",
         "url": "https://www.infocampo.com.ar/el-cerdo-sigue-batiendo-records-y-vive-un-presente-sonado-pero-con-una-pesadilla-amenazando-las-importaciones/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/cerdo-sagyp-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/cerdo-sagyp-450x257.png"
     },
     {
         "titulo": "Javier, el director de orquesta de los Angus: “El mercado de la carne va yendo hacia la diferenciación por calidad”",
@@ -23,10 +28,5 @@
         "titulo": "Carnicero y feedlotero: en Tierra del Fuego, Alejandro hizo “carne” el emprendedurismo agropecuario",
         "url": "https://www.infocampo.com.ar/carnicero-y-feedlotero-en-tierra-del-fuego-alejandro-hizo-carne-el-emprendedurismo-agropecuario/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/Alonso03-450x257.jpeg"
-    },
-    {
-        "titulo": "¿La ganadería contamina?: junto al Banco Mundial, Córdoba mide el metano de sus vacas para desmitificarlo",
-        "url": "https://www.infocampo.com.ar/la-ganaderia-contamina-junto-al-banco-mundial-cordoba-mide-el-metano-de-sus-vacas-para-desmitificarlo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/busso-expo-ganadera-450x257.png"
     }
 ]
