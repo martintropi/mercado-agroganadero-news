@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Nacional Primavera: los Braford pisan fuerte en el norte argentino y salen a mostrar su fortaleza",
+        "url": "https://www.infocampo.com.ar/nacional-primavera-los-braford-pisan-fuerte-en-el-norte-argentino-y-salen-a-mostrar-su-fortaleza/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/Descargar-foto-portada-1.jpg"
+    },
+    {
         "titulo": "Histórico: Japón abrió su mercado a la carne argentina de todo el país y no solo de la Patagonia",
         "url": "https://www.infocampo.com.ar/historico-japon-abrio-su-mercado-a-la-carne-argentina-de-todo-el-pais-y-no-solo-de-la-patagonia/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/frigorifico-exportaciones-carne-hilton-1024x584.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "El complejo combate contra la garrapata bovina en el Litoral: un alerta por los residuos en carne",
         "url": "https://www.infocampo.com.ar/el-complejo-combate-contra-la-garrapata-bovina-en-el-litoral-un-alerta-por-los-residuos-en-carne/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2021/04/garrapata-bovina-infocampo.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2021/04/garrapata-bovina-infocampo-450x257.jpg"
     },
     {
         "titulo": "El cerdo sigue batiendo récords y vive un presente soñado, pero con una pesadilla amenazando: las importaciones",
@@ -23,10 +28,5 @@
         "titulo": "Javier, el director de orquesta de los Angus: “El mercado de la carne va yendo hacia la diferenciación por calidad”",
         "url": "https://www.infocampo.com.ar/javier-el-director-de-orquesta-de-los-angus-el-mercado-de-la-carne-va-yendo-hacia-la-diferenciacion-por-calidad/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-4.32.12-PM-450x257.jpeg"
-    },
-    {
-        "titulo": "Carnicero y feedlotero: en Tierra del Fuego, Alejandro hizo “carne” el emprendedurismo agropecuario",
-        "url": "https://www.infocampo.com.ar/carnicero-y-feedlotero-en-tierra-del-fuego-alejandro-hizo-carne-el-emprendedurismo-agropecuario/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/Alonso03-450x257.jpeg"
     }
 ]
