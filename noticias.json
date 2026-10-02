@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La lana teje un crecimiento sostenido: inició la zafra 2026/27 con el doble de dólares por exportaciones",
+        "url": "https://www.infocampo.com.ar/la-lana-teje-un-crecimiento-sostenido-inicio-la-zafra-2026-27-con-el-doble-de-dolares-por-exportaciones/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/OVEJAS-LAna-1024x584.png"
+    },
+    {
         "titulo": "La industria frigorífica se parte en dos: exportadores sostienen la faena, pero los “consumeros” sufren",
         "url": "https://www.infocampo.com.ar/la-industria-frigorifica-se-parte-en-dos-exportadores-sostienen-la-faena-pero-los-consumeros-sufren/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2020/04/ganaderia-frigorificos-infocampo.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Histórico: Japón abrió su mercado a la carne argentina de todo el país y no solo de la Patagonia",
         "url": "https://www.infocampo.com.ar/historico-japon-abrio-su-mercado-a-la-carne-argentina-de-todo-el-pais-y-no-solo-de-la-patagonia/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/frigorifico-exportaciones-carne-hilton-1024x584.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/frigorifico-exportaciones-carne-hilton-450x257.jpg"
     },
     {
         "titulo": "“Es el mejor momento de la historia para el criador: tras tantos años golpeado, hoy tiene su revancha”",
@@ -23,10 +28,5 @@
         "titulo": "El complejo combate contra la garrapata bovina en el Litoral: un alerta por los residuos en carne",
         "url": "https://www.infocampo.com.ar/el-complejo-combate-contra-la-garrapata-bovina-en-el-litoral-un-alerta-por-los-residuos-en-carne/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2021/04/garrapata-bovina-infocampo-450x257.jpg"
-    },
-    {
-        "titulo": "El cerdo sigue batiendo récords y vive un presente soñado, pero con una pesadilla amenazando: las importaciones",
-        "url": "https://www.infocampo.com.ar/el-cerdo-sigue-batiendo-records-y-vive-un-presente-sonado-pero-con-una-pesadilla-amenazando-las-importaciones/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/cerdo-sagyp-450x257.png"
     }
 ]
