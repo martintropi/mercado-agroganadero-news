@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La industria frigorífica se parte en dos: exportadores sostienen la faena, pero los “consumeros” sufren",
+        "url": "https://www.infocampo.com.ar/la-industria-frigorifica-se-parte-en-dos-exportadores-sostienen-la-faena-pero-los-consumeros-sufren/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2020/04/ganaderia-frigorificos-infocampo.jpg"
+    },
+    {
         "titulo": "Nacional Primavera: los Braford pisan fuerte en el norte argentino y salen a mostrar su fortaleza",
         "url": "https://www.infocampo.com.ar/nacional-primavera-los-braford-pisan-fuerte-en-el-norte-argentino-y-salen-a-mostrar-su-fortaleza/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/Descargar-foto-portada-1.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "“Es el mejor momento de la historia para el criador: tras tantos años golpeado, hoy tiene su revancha”",
         "url": "https://www.infocampo.com.ar/es-el-mejor-momento-de-la-historia-para-el-criador-tras-tantos-anos-golpeado-hoy-tiene-su-revancha/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/joaquin-jauregui-lorda-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/joaquin-jauregui-lorda-450x257.png"
     },
     {
         "titulo": "El complejo combate contra la garrapata bovina en el Litoral: un alerta por los residuos en carne",
@@ -23,10 +28,5 @@
         "titulo": "El cerdo sigue batiendo récords y vive un presente soñado, pero con una pesadilla amenazando: las importaciones",
         "url": "https://www.infocampo.com.ar/el-cerdo-sigue-batiendo-records-y-vive-un-presente-sonado-pero-con-una-pesadilla-amenazando-las-importaciones/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/cerdo-sagyp-450x257.png"
-    },
-    {
-        "titulo": "Javier, el director de orquesta de los Angus: “El mercado de la carne va yendo hacia la diferenciación por calidad”",
-        "url": "https://www.infocampo.com.ar/javier-el-director-de-orquesta-de-los-angus-el-mercado-de-la-carne-va-yendo-hacia-la-diferenciacion-por-calidad/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-4.32.12-PM-450x257.jpeg"
     }
 ]
