@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Julio, el cabañero que se esforzó 20 años hasta cumplir su sueño de jurar Palermo: “Le dejé mi vida a los toros”",
+        "url": "https://www.infocampo.com.ar/julio-el-cabanero-que-se-esforzo-20-anos-hasta-cumplir-su-sueno-de-jurar-palermo-le-deje-mi-vida-a-los-toros/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Julio-Fernandez-en-Villegas-1024x584.jpeg"
+    },
+    {
         "titulo": "En las islas ganaderas correntinas le temen a El Niño: miles de cabezas podrían quedar “en banda”",
         "url": "https://www.infocampo.com.ar/en-las-islas-ganaderas-correntinas-le-temen-a-el-nino-miles-de-cabezas-podrian-quedar-en-banda/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/el-nino-ice-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "La lana teje un crecimiento sostenido: inició la zafra 2026/27 con el doble de dólares por exportaciones",
         "url": "https://www.infocampo.com.ar/la-lana-teje-un-crecimiento-sostenido-inicio-la-zafra-2026-27-con-el-doble-de-dolares-por-exportaciones/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/OVEJAS-LAna-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/OVEJAS-LAna-450x257.png"
     },
     {
         "titulo": "La industria frigorífica se parte en dos: exportadores sostienen la faena, pero los “consumeros” sufren",
@@ -23,10 +28,5 @@
         "titulo": "Nacional Primavera: los Braford pisan fuerte en el norte argentino y salen a mostrar su fortaleza",
         "url": "https://www.infocampo.com.ar/nacional-primavera-los-braford-pisan-fuerte-en-el-norte-argentino-y-salen-a-mostrar-su-fortaleza/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/09/Descargar-foto-portada-1-450x257.jpg"
-    },
-    {
-        "titulo": "Histórico: Japón abrió su mercado a la carne argentina de todo el país y no solo de la Patagonia",
-        "url": "https://www.infocampo.com.ar/historico-japon-abrio-su-mercado-a-la-carne-argentina-de-todo-el-pais-y-no-solo-de-la-patagonia/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/07/frigorifico-exportaciones-carne-hilton-450x257.jpg"
     }
 ]
