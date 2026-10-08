@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Donde otros frenan, el búfalo avanza: Corrientes muestra el camino para otra carne de alto potencial",
+        "url": "https://www.infocampo.com.ar/donde-otros-frenan-el-bufalo-avanza-corrientes-muestra-el-camino-para-otra-carne-de-alto-potencial/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/bufalos-1.jpg"
+    },
+    {
         "titulo": "“Beef on dairy”: el modelo que miran los tambos para mejorar su negocio también con la carne",
         "url": "https://www.infocampo.com.ar/beef-on-dairy-el-modelo-que-miran-los-tambos-para-mejorar-su-negocio-tambien-con-la-carne/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/carne-tambo-1536x1027-1.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "En las islas ganaderas correntinas le temen a El Niño: miles de cabezas podrían quedar “en banda”",
         "url": "https://www.infocampo.com.ar/en-las-islas-ganaderas-correntinas-le-temen-a-el-nino-miles-de-cabezas-podrian-quedar-en-banda/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/el-nino-ice-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/el-nino-ice-450x257.png"
     },
     {
         "titulo": "Mucho más que una jura: la experiencia Hereford que despierta la vocación ganadera en jóvenes “agrotécnicos”",
@@ -23,10 +28,5 @@
         "titulo": "La lana teje un crecimiento sostenido: inició la zafra 2026/27 con el doble de dólares por exportaciones",
         "url": "https://www.infocampo.com.ar/la-lana-teje-un-crecimiento-sostenido-inicio-la-zafra-2026-27-con-el-doble-de-dolares-por-exportaciones/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/OVEJAS-LAna-450x257.png"
-    },
-    {
-        "titulo": "La industria frigorífica se parte en dos: exportadores sostienen la faena, pero los “consumeros” sufren",
-        "url": "https://www.infocampo.com.ar/la-industria-frigorifica-se-parte-en-dos-exportadores-sostienen-la-faena-pero-los-consumeros-sufren/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2020/04/ganaderia-frigorificos-infocampo-450x257.jpg"
     }
 ]
