@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El feedlot rompe los manuales: ¿por qué los corrales se siguen llenando en plena época de vaciado?",
+        "url": "https://www.infocampo.com.ar/el-feedlot-rompe-los-manuales-por-que-los-corrales-se-siguen-llenando-en-plena-epoca-de-vaciado/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/ganaderia.jpg"
+    },
+    {
         "titulo": "Donde otros frenan, el búfalo avanza: Corrientes muestra el camino para otra carne de alto potencial",
         "url": "https://www.infocampo.com.ar/donde-otros-frenan-el-bufalo-avanza-corrientes-muestra-el-camino-para-otra-carne-de-alto-potencial/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/bufalos-1.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Julio, el cabañero que se esforzó 20 años hasta cumplir su sueño de jurar Palermo: “Le dejé mi vida a los toros”",
         "url": "https://www.infocampo.com.ar/julio-el-cabanero-que-se-esforzo-20-anos-hasta-cumplir-su-sueno-de-jurar-palermo-le-deje-mi-vida-a-los-toros/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Julio-Fernandez-en-Villegas-1024x584.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Julio-Fernandez-en-Villegas-450x257.jpeg"
     },
     {
         "titulo": "En las islas ganaderas correntinas le temen a El Niño: miles de cabezas podrían quedar “en banda”",
@@ -23,10 +28,5 @@
         "titulo": "Mucho más que una jura: la experiencia Hereford que despierta la vocación ganadera en jóvenes “agrotécnicos”",
         "url": "https://www.infocampo.com.ar/mucho-mas-que-una-jura-la-experiencia-hereford-que-despierta-la-vocacion-ganadera-en-jovenes-agrotecnicos/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-3.35.13-PM-450x257.jpeg"
-    },
-    {
-        "titulo": "La lana teje un crecimiento sostenido: inició la zafra 2026/27 con el doble de dólares por exportaciones",
-        "url": "https://www.infocampo.com.ar/la-lana-teje-un-crecimiento-sostenido-inicio-la-zafra-2026-27-con-el-doble-de-dolares-por-exportaciones/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/OVEJAS-LAna-450x257.png"
     }
 ]
