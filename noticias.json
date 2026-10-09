@@ -1,5 +1,15 @@
 [
     {
+        "titulo": "Con la norma antideforestación como eje clave, la carne argentina va a París a enamorar a más compradores",
+        "url": "https://www.infocampo.com.ar/con-la-norma-antideforestacion-como-eje-clave-la-carne-argentina-va-a-paris-a-enamorar-a-mas-compradores/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Foto-Plato-1024x584.jpeg"
+    },
+    {
+        "titulo": "La genética bovina sigue a los saltos: un remate Braford y Brangus dejó precios de hasta $ 32 millones",
+        "url": "https://www.infocampo.com.ar/la-genetica-bovina-sigue-a-los-saltos-un-remate-braford-y-brangus-dejo-valores-de-hasta-32-millones/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Remate-General-.jpeg"
+    },
+    {
         "titulo": "El feedlot rompe los manuales: ¿por qué los corrales se siguen llenando en plena época de vaciado?",
         "url": "https://www.infocampo.com.ar/el-feedlot-rompe-los-manuales-por-que-los-corrales-se-siguen-llenando-en-plena-epoca-de-vaciado/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/ganaderia.jpg"
@@ -7,26 +17,16 @@
     {
         "titulo": "Donde otros frenan, el búfalo avanza: Corrientes muestra el camino para otra carne de alto potencial",
         "url": "https://www.infocampo.com.ar/donde-otros-frenan-el-bufalo-avanza-corrientes-muestra-el-camino-para-otra-carne-de-alto-potencial/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/bufalos-1.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/bufalos-1-450x257.jpg"
     },
     {
         "titulo": "“Beef on dairy”: el modelo que miran los tambos para mejorar su negocio también con la carne",
         "url": "https://www.infocampo.com.ar/beef-on-dairy-el-modelo-que-miran-los-tambos-para-mejorar-su-negocio-tambien-con-la-carne/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/carne-tambo-1536x1027-1.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/carne-tambo-1536x1027-1-450x257.jpg"
     },
     {
         "titulo": "Julio, el cabañero que se esforzó 20 años hasta cumplir su sueño de jurar Palermo: “Le dejé mi vida a los toros”",
         "url": "https://www.infocampo.com.ar/julio-el-cabanero-que-se-esforzo-20-anos-hasta-cumplir-su-sueno-de-jurar-palermo-le-deje-mi-vida-a-los-toros/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Julio-Fernandez-en-Villegas-450x257.jpeg"
-    },
-    {
-        "titulo": "En las islas ganaderas correntinas le temen a El Niño: miles de cabezas podrían quedar “en banda”",
-        "url": "https://www.infocampo.com.ar/en-las-islas-ganaderas-correntinas-le-temen-a-el-nino-miles-de-cabezas-podrian-quedar-en-banda/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/el-nino-ice-450x257.png"
-    },
-    {
-        "titulo": "Mucho más que una jura: la experiencia Hereford que despierta la vocación ganadera en jóvenes “agrotécnicos”",
-        "url": "https://www.infocampo.com.ar/mucho-mas-que-una-jura-la-experiencia-hereford-que-despierta-la-vocacion-ganadera-en-jovenes-agrotecnicos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-02-at-3.35.13-PM-450x257.jpeg"
     }
 ]
