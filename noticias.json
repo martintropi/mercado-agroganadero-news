@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Sanidad animal: llaman a testear enfermedades venéreas ante el inicio de los servicios bovinos",
+        "url": "https://www.infocampo.com.ar/sanidad-animal-llaman-a-testear-enfermedades-venereas-ante-el-inicio-de-los-servicios-bovinos/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/toro-mda.png"
+    },
+    {
         "titulo": "“Tenemos una oportunidad enorme de liderar el mercado europeo con carne libre de deforestación”",
         "url": "https://www.infocampo.com.ar/tenemos-una-oportunidad-enorme-de-liderar-el-mercado-europeo-con-carne-libre-de-deforestacion/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/bifaretti-ipcva-1024x585.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "La genética bovina sigue a los saltos: un remate Braford y Brangus dejó precios de hasta $ 32 millones",
         "url": "https://www.infocampo.com.ar/la-genetica-bovina-sigue-a-los-saltos-un-remate-braford-y-brangus-dejo-valores-de-hasta-32-millones/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Remate-General-.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Remate-General--450x257.jpeg"
     },
     {
         "titulo": "El feedlot rompe los manuales: ¿por qué los corrales se siguen llenando en plena época de vaciado?",
@@ -23,10 +28,5 @@
         "titulo": "Donde otros frenan, el búfalo avanza: Corrientes muestra el camino para otra carne de alto potencial",
         "url": "https://www.infocampo.com.ar/donde-otros-frenan-el-bufalo-avanza-corrientes-muestra-el-camino-para-otra-carne-de-alto-potencial/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/bufalos-1-450x257.jpg"
-    },
-    {
-        "titulo": "“Beef on dairy”: el modelo que miran los tambos para mejorar su negocio también con la carne",
-        "url": "https://www.infocampo.com.ar/beef-on-dairy-el-modelo-que-miran-los-tambos-para-mejorar-su-negocio-tambien-con-la-carne/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/carne-tambo-1536x1027-1-450x257.jpg"
     }
 ]
