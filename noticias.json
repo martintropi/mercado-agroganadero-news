@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El año de la proteína animal: en la industria de nutrición ven “un momento bisagra para Argentina”",
+        "url": "https://www.infocampo.com.ar/el-ano-de-la-proteina-animal-en-la-industria-de-nutricion-ven-un-momento-bisagra-para-argentina/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/CAENA_1.jpg"
+    },
+    {
         "titulo": "Buena calidad nutricional y menor costo: la remolacha forrajera se potencia como alternativa al maíz",
         "url": "https://www.infocampo.com.ar/buena-calidad-nutricional-y-menor-costo-la-remolacha-forrajera-se-potencia-como-alternativa-al-maiz/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/remolacha-forrajera-2-1536x1027-1.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "“Tenemos una oportunidad enorme de liderar el mercado europeo con carne libre de deforestación”",
         "url": "https://www.infocampo.com.ar/tenemos-una-oportunidad-enorme-de-liderar-el-mercado-europeo-con-carne-libre-de-deforestacion/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/bifaretti-ipcva-1024x585.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/bifaretti-ipcva-450x257.png"
     },
     {
         "titulo": "Sanidad animal: llaman a testear enfermedades venéreas ante el inicio de los servicios bovinos",
@@ -23,10 +28,5 @@
         "titulo": "Con la norma antideforestación como eje clave, la carne argentina va a París a enamorar a más compradores",
         "url": "https://www.infocampo.com.ar/con-la-norma-antideforestacion-como-eje-clave-la-carne-argentina-va-a-paris-a-enamorar-a-mas-compradores/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Foto-Plato-450x257.jpeg"
-    },
-    {
-        "titulo": "La genética bovina sigue a los saltos: un remate Braford y Brangus dejó precios de hasta $ 32 millones",
-        "url": "https://www.infocampo.com.ar/la-genetica-bovina-sigue-a-los-saltos-un-remate-braford-y-brangus-dejo-valores-de-hasta-32-millones/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Remate-General--450x257.jpeg"
     }
 ]
