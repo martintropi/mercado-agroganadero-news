@@ -1,18 +1,23 @@
 [
     {
+        "titulo": "Buena calidad nutricional y menor costo: la remolacha forrajera se potencia como alternativa al maíz",
+        "url": "https://www.infocampo.com.ar/buena-calidad-nutricional-y-menor-costo-la-remolacha-forrajera-se-potencia-como-alternativa-al-maiz/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/remolacha-forrajera-2-1536x1027-1.jpg"
+    },
+    {
         "titulo": "“En el campo aprendí a bajar 5.000 cambios”: para Jorge Cabrales, la carne Angus marida con el café",
         "url": "https://www.infocampo.com.ar/en-el-campo-aprendi-a-bajar-5-000-cambios-para-jorge-cabrales-la-carne-angus-marida-con-el-cafe/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Helena-proximamente-en-las-Pistas-de-Palermo-Expo-Otono-@la_rubeta-@asociacion_argentina_de_an-2-1024x584.jpg"
     },
     {
-        "titulo": "Sanidad animal: llaman a testear enfermedades venéreas ante el inicio de los servicios bovinos",
-        "url": "https://www.infocampo.com.ar/sanidad-animal-llaman-a-testear-enfermedades-venereas-ante-el-inicio-de-los-servicios-bovinos/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/toro-mda.png"
-    },
-    {
         "titulo": "“Tenemos una oportunidad enorme de liderar el mercado europeo con carne libre de deforestación”",
         "url": "https://www.infocampo.com.ar/tenemos-una-oportunidad-enorme-de-liderar-el-mercado-europeo-con-carne-libre-de-deforestacion/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/bifaretti-ipcva-1024x585.png"
+    },
+    {
+        "titulo": "Sanidad animal: llaman a testear enfermedades venéreas ante el inicio de los servicios bovinos",
+        "url": "https://www.infocampo.com.ar/sanidad-animal-llaman-a-testear-enfermedades-venereas-ante-el-inicio-de-los-servicios-bovinos/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/toro-mda-450x257.png"
     },
     {
         "titulo": "Con la norma antideforestación como eje clave, la carne argentina va a París a enamorar a más compradores",
@@ -23,10 +28,5 @@
         "titulo": "La genética bovina sigue a los saltos: un remate Braford y Brangus dejó precios de hasta $ 32 millones",
         "url": "https://www.infocampo.com.ar/la-genetica-bovina-sigue-a-los-saltos-un-remate-braford-y-brangus-dejo-valores-de-hasta-32-millones/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Remate-General--450x257.jpeg"
-    },
-    {
-        "titulo": "El feedlot rompe los manuales: ¿por qué los corrales se siguen llenando en plena época de vaciado?",
-        "url": "https://www.infocampo.com.ar/el-feedlot-rompe-los-manuales-por-que-los-corrales-se-siguen-llenando-en-plena-epoca-de-vaciado/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/ganaderia-450x257.jpg"
     }
 ]
