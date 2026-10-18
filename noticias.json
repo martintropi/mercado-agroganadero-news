@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La genética del salame: en Oncativo fortalecen una única raza porcina para mejorar sus chacinados",
+        "url": "https://www.infocampo.com.ar/la-genetica-del-salame-en-oncativo-fortalecen-una-unica-raza-porcina-para-mejorar-sus-chacinados/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/DJI_0006.JPG-1024x584.jpeg"
+    },
+    {
         "titulo": "Congreso Federal Ganadero: el modelo familiar de Estados Unidos que escaló a un negocio global",
         "url": "https://www.infocampo.com.ar/congreso-federal-ganadero-el-modelo-familiar-de-estados-unidos-que-escalo-a-un-negocio-global/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/AlfredoDiCostanzo-CampoNebraska2.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "¿Oportunidad para Argentina?: Brasil pierde fuerza en el mercado mundial de la carne vacuna",
         "url": "https://www.infocampo.com.ar/oportunidad-para-argentina-brasil-pierde-fuerza-en-el-mercado-mundial-de-la-carne-vacuna/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/03/exportacion-carne.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/03/exportacion-carne-300x171.jpg"
     },
     {
         "titulo": "Trazabilidad bovina: habilitan a entes sanitarios y fundaciones a distribuir y comercializar los “chips”",
@@ -23,10 +28,5 @@
         "titulo": "Vacunación antiaftosa: el Senasa reglamentó el proceso para la libre elección de veterinarios",
         "url": "https://www.infocampo.com.ar/vacunacion-antiaftosa-el-senasa-reglamento-el-proceso-para-la-libre-eleccion-de-veterinarios/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/03/aftosa-vacunacion.jpg"
-    },
-    {
-        "titulo": "Gran expectativa de los frigoríficos para la SIAL París: “El tema comercial con Europa está muy interesante”",
-        "url": "https://www.infocampo.com.ar/gran-expectativa-de-los-frigorificos-para-la-sial-paris-el-tema-comercial-con-europa-esta-muy-interesante/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/20221018_151017-450x257.jpg"
     }
 ]
