@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Congreso Federal Ganadero: el modelo familiar de Estados Unidos que escaló a un negocio global",
+        "url": "https://www.infocampo.com.ar/congreso-federal-ganadero-el-modelo-familiar-de-estados-unidos-que-escalo-a-un-negocio-global/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/AlfredoDiCostanzo-CampoNebraska2.jpeg"
+    },
+    {
         "titulo": "Argentina tuvo su “Día de la Carne” en Israel: es su tercer mayor comprador, detrás de China y EEUU",
         "url": "https://www.infocampo.com.ar/argentina-tuvo-su-dia-de-la-carne-en-israel-es-su-tercer-mayor-comprador-detras-de-china-y-eeuu/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/IMG_7359.JPG-1024x584.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Trazabilidad bovina: habilitan a entes sanitarios y fundaciones a distribuir y comercializar los “chips”",
         "url": "https://www.infocampo.com.ar/trazabilidad-bovina-habilitan-a-entes-sanitarios-y-fundaciones-a-distribuir-y-comercializar-los-chips/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/07/vaca-trazabilidad-chip-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/07/vaca-trazabilidad-chip-450x256.png"
     },
     {
         "titulo": "Vacunación antiaftosa: el Senasa reglamentó el proceso para la libre elección de veterinarios",
@@ -23,10 +28,5 @@
         "titulo": "Gran expectativa de los frigoríficos para la SIAL París: “El tema comercial con Europa está muy interesante”",
         "url": "https://www.infocampo.com.ar/gran-expectativa-de-los-frigorificos-para-la-sial-paris-el-tema-comercial-con-europa-esta-muy-interesante/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/20221018_151017-450x257.jpg"
-    },
-    {
-        "titulo": "El año de la proteína animal: en la industria de nutrición ven “un momento bisagra para Argentina”",
-        "url": "https://www.infocampo.com.ar/el-ano-de-la-proteina-animal-en-la-industria-de-nutricion-ven-un-momento-bisagra-para-argentina/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/CAENA_1-450x257.jpg"
     }
 ]
