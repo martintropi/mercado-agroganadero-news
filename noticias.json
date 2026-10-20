@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Para producir carne premium: el boom ganadero suma una inversión de U$S 23 millones en Salta",
+        "url": "https://www.infocampo.com.ar/para-producir-carne-premium-el-boom-ganadero-suma-una-inversion-de-us-23-millones-en-salta/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/hacienda-ganado-salta-juramento-1024x584.png"
+    },
+    {
         "titulo": "“El productor que quiera vender animales para exportar carne a Europa, tiene que amigarse con el VISEC”",
         "url": "https://www.infocampo.com.ar/el-productor-que-quiera-vender-animales-para-exportar-carne-a-europa-tiene-que-amigarse-con-el-visec/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/argentine-beef-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Congreso Federal Ganadero: el modelo familiar de Estados Unidos que escaló a un negocio global",
         "url": "https://www.infocampo.com.ar/congreso-federal-ganadero-el-modelo-familiar-de-estados-unidos-que-escalo-a-un-negocio-global/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/AlfredoDiCostanzo-CampoNebraska2.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/AlfredoDiCostanzo-CampoNebraska2-450x257.jpeg"
     },
     {
         "titulo": "Argentina tuvo su “Día de la Carne” en Israel: es su tercer mayor comprador, detrás de China y EEUU",
@@ -23,10 +28,5 @@
         "titulo": "¿Oportunidad para Argentina?: Brasil pierde fuerza en el mercado mundial de la carne vacuna",
         "url": "https://www.infocampo.com.ar/oportunidad-para-argentina-brasil-pierde-fuerza-en-el-mercado-mundial-de-la-carne-vacuna/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/03/exportacion-carne-300x171.jpg"
-    },
-    {
-        "titulo": "Trazabilidad bovina: habilitan a entes sanitarios y fundaciones a distribuir y comercializar los “chips”",
-        "url": "https://www.infocampo.com.ar/trazabilidad-bovina-habilitan-a-entes-sanitarios-y-fundaciones-a-distribuir-y-comercializar-los-chips/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/07/vaca-trazabilidad-chip-450x256.png"
     }
 ]
