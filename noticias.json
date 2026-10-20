@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "“El productor que quiera vender animales para exportar carne a Europa, tiene que amigarse con el VISEC”",
+        "url": "https://www.infocampo.com.ar/el-productor-que-quiera-vender-animales-para-exportar-carne-a-europa-tiene-que-amigarse-con-el-visec/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/argentine-beef-1024x584.png"
+    },
+    {
         "titulo": "La genética del salame: en Oncativo fortalecen una única raza porcina para mejorar sus chacinados",
         "url": "https://www.infocampo.com.ar/la-genetica-del-salame-en-oncativo-fortalecen-una-unica-raza-porcina-para-mejorar-sus-chacinados/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/DJI_0006.JPG-1024x584.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Argentina tuvo su “Día de la Carne” en Israel: es su tercer mayor comprador, detrás de China y EEUU",
         "url": "https://www.infocampo.com.ar/argentina-tuvo-su-dia-de-la-carne-en-israel-es-su-tercer-mayor-comprador-detras-de-china-y-eeuu/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/IMG_7359.JPG-1024x584.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/IMG_7359.JPG-450x257.jpeg"
     },
     {
         "titulo": "¿Oportunidad para Argentina?: Brasil pierde fuerza en el mercado mundial de la carne vacuna",
@@ -23,10 +28,5 @@
         "titulo": "Trazabilidad bovina: habilitan a entes sanitarios y fundaciones a distribuir y comercializar los “chips”",
         "url": "https://www.infocampo.com.ar/trazabilidad-bovina-habilitan-a-entes-sanitarios-y-fundaciones-a-distribuir-y-comercializar-los-chips/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/07/vaca-trazabilidad-chip-450x256.png"
-    },
-    {
-        "titulo": "Vacunación antiaftosa: el Senasa reglamentó el proceso para la libre elección de veterinarios",
-        "url": "https://www.infocampo.com.ar/vacunacion-antiaftosa-el-senasa-reglamento-el-proceso-para-la-libre-eleccion-de-veterinarios/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/03/aftosa-vacunacion.jpg"
     }
 ]
