@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El ternero pisó el freno y va a contramano de su tendencia histórica: perdió más de 7% en tres meses",
+        "url": "https://www.infocampo.com.ar/el-ternero-piso-el-freno-y-va-a-contramano-de-su-tendencia-historica-perdio-mas-de-7-en-tres-meses/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-1.42.05-PM-1.jpeg"
+    },
+    {
         "titulo": "Para producir carne premium: el boom ganadero suma una inversión de U$S 23 millones en Salta",
         "url": "https://www.infocampo.com.ar/para-producir-carne-premium-el-boom-ganadero-suma-una-inversion-de-us-23-millones-en-salta/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/hacienda-ganado-salta-juramento-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "La genética del salame: en Oncativo fortalecen una única raza porcina para mejorar sus chacinados",
         "url": "https://www.infocampo.com.ar/la-genetica-del-salame-en-oncativo-fortalecen-una-unica-raza-porcina-para-mejorar-sus-chacinados/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/DJI_0006.JPG-1024x584.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/DJI_0006.JPG-450x257.jpeg"
     },
     {
         "titulo": "Congreso Federal Ganadero: el modelo familiar de Estados Unidos que escaló a un negocio global",
@@ -23,10 +28,5 @@
         "titulo": "Argentina tuvo su “Día de la Carne” en Israel: es su tercer mayor comprador, detrás de China y EEUU",
         "url": "https://www.infocampo.com.ar/argentina-tuvo-su-dia-de-la-carne-en-israel-es-su-tercer-mayor-comprador-detras-de-china-y-eeuu/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/IMG_7359.JPG-450x257.jpeg"
-    },
-    {
-        "titulo": "¿Oportunidad para Argentina?: Brasil pierde fuerza en el mercado mundial de la carne vacuna",
-        "url": "https://www.infocampo.com.ar/oportunidad-para-argentina-brasil-pierde-fuerza-en-el-mercado-mundial-de-la-carne-vacuna/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2018/03/exportacion-carne-300x171.jpg"
     }
 ]
