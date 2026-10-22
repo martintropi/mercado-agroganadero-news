@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Enojo ganadero: acusan a frigoríficos de aplicar descuentos a la hacienda no inscripta en el VISEC",
+        "url": "https://www.infocampo.com.ar/enojo-ganadero-acusan-a-frigorificos-de-aplicar-descuentos-a-la-hacienda-no-inscripta-en-el-visec/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/07/unnamed-24-1024x584.jpg"
+    },
+    {
         "titulo": "El ternero pisó el freno y va a contramano de su tendencia histórica: perdió más de 7% en tres meses",
         "url": "https://www.infocampo.com.ar/el-ternero-piso-el-freno-y-va-a-contramano-de-su-tendencia-historica-perdio-mas-de-7-en-tres-meses/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-1.42.05-PM-1.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "“El productor que quiera vender animales para exportar carne a Europa, tiene que amigarse con el VISEC”",
         "url": "https://www.infocampo.com.ar/el-productor-que-quiera-vender-animales-para-exportar-carne-a-europa-tiene-que-amigarse-con-el-visec/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/argentine-beef-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/argentine-beef-450x257.png"
     },
     {
         "titulo": "La genética del salame: en Oncativo fortalecen una única raza porcina para mejorar sus chacinados",
@@ -23,10 +28,5 @@
         "titulo": "Congreso Federal Ganadero: el modelo familiar de Estados Unidos que escaló a un negocio global",
         "url": "https://www.infocampo.com.ar/congreso-federal-ganadero-el-modelo-familiar-de-estados-unidos-que-escalo-a-un-negocio-global/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/AlfredoDiCostanzo-CampoNebraska2-450x257.jpeg"
-    },
-    {
-        "titulo": "Argentina tuvo su “Día de la Carne” en Israel: es su tercer mayor comprador, detrás de China y EEUU",
-        "url": "https://www.infocampo.com.ar/argentina-tuvo-su-dia-de-la-carne-en-israel-es-su-tercer-mayor-comprador-detras-de-china-y-eeuu/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/IMG_7359.JPG-450x257.jpeg"
     }
 ]
