@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "El Niño: en las islas de Santa Fe, aseguran que ya fue evacuada el 70% de la hacienda en peligro",
+        "url": "https://www.infocampo.com.ar/el-nino-en-las-islas-de-santa-fe-aseguran-que-ya-fue-evacuada-el-70-de-la-hacienda-en-peligro/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/03/hacienda-islas-parana-1024x584.png"
+    },
+    {
         "titulo": "La Legua, por dentro: la historia familiar de uno de los remates de genética más grandes del país",
         "url": "https://www.infocampo.com.ar/la-legua-por-dentro-una-historia-familiar-que-sostiene-uno-de-los-remates-mas-grandes-del-pais/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Fachada-La-Legua-1024x576.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Argentina vs sus principales competidores ganaderos: ¿es más barata o cara la carne de vaca y pollo?",
         "url": "https://www.infocampo.com.ar/argentina-vs-sus-principales-competidores-ganaderos-es-mas-barata-o-cara-la-carne-de-vaca-y-pollo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/consumidores.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/consumidores-450x257.jpg"
     },
     {
         "titulo": "El modelo de la ganadería uruguaya viene a Rosario: “¿Qué animal debemos producir?”",
@@ -23,10 +28,5 @@
         "titulo": "Enojo ganadero: acusan a frigoríficos de aplicar descuentos a la hacienda no inscripta en el VISEC",
         "url": "https://www.infocampo.com.ar/enojo-ganadero-acusan-a-frigorificos-de-aplicar-descuentos-a-la-hacienda-no-inscripta-en-el-visec/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/07/unnamed-24-450x256.jpg"
-    },
-    {
-        "titulo": "El ternero pisó el freno y va a contramano de su tendencia histórica: perdió más de 7% en tres meses",
-        "url": "https://www.infocampo.com.ar/el-ternero-piso-el-freno-y-va-a-contramano-de-su-tendencia-historica-perdio-mas-de-7-en-tres-meses/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-14-at-1.42.05-PM-1-450x257.jpeg"
     }
 ]
