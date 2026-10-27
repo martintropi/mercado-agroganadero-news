@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La nutrición animal gana protagonismo: “El mundo demanda proteínas y mira a la Argentina”",
+        "url": "https://www.infocampo.com.ar/la-nutricion-animal-gana-protagonismo-el-mundo-demanda-proteinas-y-mira-a-la-argentina/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/CAENA-Congreso-Nutricion-Animal-2026_2-1.jpg"
+    },
+    {
         "titulo": "Impuestos, sanidad e informalidad: los “sobrecostos” que restan competitividad en la industria frigorífica",
         "url": "https://www.infocampo.com.ar/impuestos-sanidad-e-informalidad-los-sobrecostos-que-restan-competitividad-en-la-industria-frigorifica/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2020/04/ganaderia-frigorificos-infocampo.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "La Legua, por dentro: la historia familiar de uno de los remates de genética más grandes del país",
         "url": "https://www.infocampo.com.ar/la-legua-por-dentro-una-historia-familiar-que-sostiene-uno-de-los-remates-mas-grandes-del-pais/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Fachada-La-Legua-1024x576.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Fachada-La-Legua-450x253.jpeg"
     },
     {
         "titulo": "Garrapata bovina: fortalecen acciones sanitarias para proteger zonas libres y evitar resistencias a insecticidas",
@@ -23,10 +28,5 @@
         "titulo": "Argentina vs sus principales competidores ganaderos: ¿es más barata o cara la carne de vaca y pollo?",
         "url": "https://www.infocampo.com.ar/argentina-vs-sus-principales-competidores-ganaderos-es-mas-barata-o-cara-la-carne-de-vaca-y-pollo/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/consumidores-450x257.jpg"
-    },
-    {
-        "titulo": "El modelo de la ganadería uruguaya viene a Rosario: “¿Qué animal debemos producir?”",
-        "url": "https://www.infocampo.com.ar/el-modelo-de-la-ganaderia-uruguaya-viene-a-rosario-que-animal-debemos-producir/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-4.36.39-PM-450x257.jpeg"
     }
 ]
