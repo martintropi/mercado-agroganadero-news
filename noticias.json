@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Impuestos, sanidad e informalidad: los “sobrecostos” que restan competitividad en la industria frigorífica",
+        "url": "https://www.infocampo.com.ar/impuestos-sanidad-e-informalidad-los-sobrecostos-que-restan-competitividad-en-la-industria-frigorifica/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2020/04/ganaderia-frigorificos-infocampo.jpg"
+    },
+    {
         "titulo": "El Niño: en las islas de Santa Fe, aseguran que ya fue evacuada el 70% de la hacienda en peligro",
         "url": "https://www.infocampo.com.ar/el-nino-en-las-islas-de-santa-fe-aseguran-que-ya-fue-evacuada-el-70-de-la-hacienda-en-peligro/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/VACAS-y-crecida-del-Parana02-1024x584.jpeg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Garrapata bovina: fortalecen acciones sanitarias para proteger zonas libres y evitar resistencias a insecticidas",
         "url": "https://www.infocampo.com.ar/garrapata-bovina-fortalecen-acciones-sanitarias-para-proteger-zonas-libres-y-evitar-resistencias-a-insecticidas/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/garrapata-bovina-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/garrapata-bovina-450x257.png"
     },
     {
         "titulo": "Argentina vs sus principales competidores ganaderos: ¿es más barata o cara la carne de vaca y pollo?",
@@ -23,10 +28,5 @@
         "titulo": "El modelo de la ganadería uruguaya viene a Rosario: “¿Qué animal debemos producir?”",
         "url": "https://www.infocampo.com.ar/el-modelo-de-la-ganaderia-uruguaya-viene-a-rosario-que-animal-debemos-producir/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-22-at-4.36.39-PM-450x257.jpeg"
-    },
-    {
-        "titulo": "Enojo ganadero: acusan a frigoríficos de aplicar descuentos a la hacienda no inscripta en el VISEC",
-        "url": "https://www.infocampo.com.ar/enojo-ganadero-acusan-a-frigorificos-de-aplicar-descuentos-a-la-hacienda-no-inscripta-en-el-visec/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2025/07/unnamed-24-450x256.jpg"
     }
 ]
