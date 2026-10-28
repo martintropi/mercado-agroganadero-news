@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Una complicación para la carne bovina argentina: no llegaría a cumplir con la cuota exportadora a China",
+        "url": "https://www.infocampo.com.ar/una-complicacion-para-la-carne-bovina-argentina-no-llegaria-a-cumplir-con-la-cuota-exportadora-a-china/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/11/ciie-china-carne.png"
+    },
+    {
         "titulo": "Créditos a valor producto: el Gobierno amplía el financiamiento para el sector ganadero",
         "url": "https://www.infocampo.com.ar/creditos-a-valor-producto-el-gobierno-amplia-el-financiamiento-para-el-sector-ganadero/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/hacienda-ganado-bovinos-sagyp-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Impuestos, sanidad e informalidad: los “sobrecostos” que restan competitividad en la industria frigorífica",
         "url": "https://www.infocampo.com.ar/impuestos-sanidad-e-informalidad-los-sobrecostos-que-restan-competitividad-en-la-industria-frigorifica/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2020/04/ganaderia-frigorificos-infocampo.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2020/04/ganaderia-frigorificos-infocampo-450x257.jpg"
     },
     {
         "titulo": "El Niño: en las islas de Santa Fe, aseguran que ya fue evacuada el 70% de la hacienda en peligro",
@@ -23,10 +28,5 @@
         "titulo": "La Legua, por dentro: la historia familiar de uno de los remates de genética más grandes del país",
         "url": "https://www.infocampo.com.ar/la-legua-por-dentro-una-historia-familiar-que-sostiene-uno-de-los-remates-mas-grandes-del-pais/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/Fachada-La-Legua-450x253.jpeg"
-    },
-    {
-        "titulo": "Garrapata bovina: fortalecen acciones sanitarias para proteger zonas libres y evitar resistencias a insecticidas",
-        "url": "https://www.infocampo.com.ar/garrapata-bovina-fortalecen-acciones-sanitarias-para-proteger-zonas-libres-y-evitar-resistencias-a-insecticidas/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/garrapata-bovina-450x257.png"
     }
 ]
