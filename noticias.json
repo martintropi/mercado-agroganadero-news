@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Créditos a valor producto: el Gobierno amplía el financiamiento para el sector ganadero",
+        "url": "https://www.infocampo.com.ar/creditos-a-valor-producto-el-gobierno-amplia-el-financiamiento-para-el-sector-ganadero/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/hacienda-ganado-bovinos-sagyp-1024x584.png"
+    },
+    {
         "titulo": "La nutrición animal gana protagonismo: “El mundo demanda proteínas y mira a la Argentina”",
         "url": "https://www.infocampo.com.ar/la-nutricion-animal-gana-protagonismo-el-mundo-demanda-proteinas-y-mira-a-la-argentina/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/CAENA-Congreso-Nutricion-Animal-2026_2-1.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "El Niño: en las islas de Santa Fe, aseguran que ya fue evacuada el 70% de la hacienda en peligro",
         "url": "https://www.infocampo.com.ar/el-nino-en-las-islas-de-santa-fe-aseguran-que-ya-fue-evacuada-el-70-de-la-hacienda-en-peligro/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/VACAS-y-crecida-del-Parana02-1024x584.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/VACAS-y-crecida-del-Parana02-450x257.jpeg"
     },
     {
         "titulo": "La Legua, por dentro: la historia familiar de uno de los remates de genética más grandes del país",
@@ -23,10 +28,5 @@
         "titulo": "Garrapata bovina: fortalecen acciones sanitarias para proteger zonas libres y evitar resistencias a insecticidas",
         "url": "https://www.infocampo.com.ar/garrapata-bovina-fortalecen-acciones-sanitarias-para-proteger-zonas-libres-y-evitar-resistencias-a-insecticidas/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/garrapata-bovina-450x257.png"
-    },
-    {
-        "titulo": "Argentina vs sus principales competidores ganaderos: ¿es más barata o cara la carne de vaca y pollo?",
-        "url": "https://www.infocampo.com.ar/argentina-vs-sus-principales-competidores-ganaderos-es-mas-barata-o-cara-la-carne-de-vaca-y-pollo/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/consumidores-450x257.jpg"
     }
 ]
