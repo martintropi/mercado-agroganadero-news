@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Crece la inversión en genética: la temporada de remates marcó una fuerte suba de precios",
+        "url": "https://www.infocampo.com.ar/crece-la-inversion-en-genetica-la-temporada-de-remates-marco-una-fuerte-suba-de-precios/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/unnamed-4-1.jpg"
+    },
+    {
         "titulo": "Crecidas en el Litoral por El Niño: según Senasa, ya se trasladaron casi 150.000 animales desde las islas",
         "url": "https://www.infocampo.com.ar/crecidas-en-el-litoral-por-el-nino-segun-senasa-ya-se-trasladaron-casi-150-000-animales-de-las-islas/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/hacienda-en-las-islas-senasa-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Créditos a valor producto: el Gobierno amplía el financiamiento para el sector ganadero",
         "url": "https://www.infocampo.com.ar/creditos-a-valor-producto-el-gobierno-amplia-el-financiamiento-para-el-sector-ganadero/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/hacienda-ganado-bovinos-sagyp-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/hacienda-ganado-bovinos-sagyp-450x257.png"
     },
     {
         "titulo": "La nutrición animal gana protagonismo: “El mundo demanda proteínas y mira a la Argentina”",
@@ -23,10 +28,5 @@
         "titulo": "Impuestos, sanidad e informalidad: los “sobrecostos” que restan competitividad en la industria frigorífica",
         "url": "https://www.infocampo.com.ar/impuestos-sanidad-e-informalidad-los-sobrecostos-que-restan-competitividad-en-la-industria-frigorifica/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2020/04/ganaderia-frigorificos-infocampo-450x257.jpg"
-    },
-    {
-        "titulo": "El Niño: en las islas de Santa Fe, aseguran que ya fue evacuada el 70% de la hacienda en peligro",
-        "url": "https://www.infocampo.com.ar/el-nino-en-las-islas-de-santa-fe-aseguran-que-ya-fue-evacuada-el-70-de-la-hacienda-en-peligro/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/VACAS-y-crecida-del-Parana02-450x257.jpeg"
     }
 ]
