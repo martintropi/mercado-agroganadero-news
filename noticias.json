@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Cultivos de servicio “doble propósito”: además de su rol agrícola, ganan relevancia como sostén ganadero",
+        "url": "https://www.infocampo.com.ar/cultivos-de-servicio-doble-proposito-ademas-de-su-rol-agricola-ganan-relevancia-como-sosten-ganadero/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/2-1.jpeg"
+    },
+    {
         "titulo": "VISEC: “Hay que integrarnos más producción e industria y no perder tiempo con roces innecesarios”",
         "url": "https://www.infocampo.com.ar/visec-hay-que-integrarnos-mas-produccion-e-industria-y-no-perder-tiempo-con-roces-innecesarios/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/razzetto-moyetta-castagnani-1024x584.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Crecidas en el Litoral por El Niño: según Senasa, ya se trasladaron casi 150.000 animales desde las islas",
         "url": "https://www.infocampo.com.ar/crecidas-en-el-litoral-por-el-nino-segun-senasa-ya-se-trasladaron-casi-150-000-animales-de-las-islas/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/hacienda-en-las-islas-senasa-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/hacienda-en-las-islas-senasa-450x257.png"
     },
     {
         "titulo": "Una complicación para la carne bovina argentina: no llegaría a cumplir con la cuota exportadora a China",
@@ -23,10 +28,5 @@
         "titulo": "Créditos a valor producto: el Gobierno amplía el financiamiento para el sector ganadero",
         "url": "https://www.infocampo.com.ar/creditos-a-valor-producto-el-gobierno-amplia-el-financiamiento-para-el-sector-ganadero/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/hacienda-ganado-bovinos-sagyp-450x257.png"
-    },
-    {
-        "titulo": "La nutrición animal gana protagonismo: “El mundo demanda proteínas y mira a la Argentina”",
-        "url": "https://www.infocampo.com.ar/la-nutricion-animal-gana-protagonismo-el-mundo-demanda-proteinas-y-mira-a-la-argentina/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/CAENA-Congreso-Nutricion-Animal-2026_2-1-450x257.jpg"
     }
 ]
