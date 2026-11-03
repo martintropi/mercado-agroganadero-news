@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Las dos caras del cerdo: mientras consumo y producción celebran récords, las granjas empiezan a sufrir",
+        "url": "https://www.infocampo.com.ar/las-dos-caras-del-cerdo-mientras-consumo-y-produccion-celebran-records-las-granjas-empiezan-a-sufrir/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/12/cerdos-granja-porcina-senasa-1024x584.png"
+    },
+    {
         "titulo": "Los ovinos del Litoral y El Niño: las claves para proteger las majadas y evitar problemas sanitarios",
         "url": "https://www.infocampo.com.ar/los-ovinos-del-litoral-y-el-nino-las-claves-para-proteger-las-majadas-y-evitar-problemas-sanitarios/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/11/majada-corrientes-1536x1027-1.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Crece la inversión en genética: la temporada de remates marcó una fuerte suba de precios",
         "url": "https://www.infocampo.com.ar/crece-la-inversion-en-genetica-la-temporada-de-remates-marco-una-fuerte-suba-de-precios/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/unnamed-4-1.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/unnamed-4-1-450x257.jpg"
     },
     {
         "titulo": "Crecidas en el Litoral por El Niño: según Senasa, ya se trasladaron casi 150.000 animales desde las islas",
@@ -23,10 +28,5 @@
         "titulo": "Una complicación para la carne bovina argentina: no llegaría a cumplir con la cuota exportadora a China",
         "url": "https://www.infocampo.com.ar/una-complicacion-para-la-carne-bovina-argentina-no-llegaria-a-cumplir-con-la-cuota-exportadora-a-china/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2024/11/ciie-china-carne-450x257.png"
-    },
-    {
-        "titulo": "Créditos a valor producto: el Gobierno amplía el financiamiento para el sector ganadero",
-        "url": "https://www.infocampo.com.ar/creditos-a-valor-producto-el-gobierno-amplia-el-financiamiento-para-el-sector-ganadero/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/hacienda-ganado-bovinos-sagyp-450x257.png"
     }
 ]
