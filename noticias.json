@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "Los novillos también rompen la estacionalidad ganadera: “copan” la faena y ceden en precios",
+        "url": "https://www.infocampo.com.ar/los-novillos-tambien-rompen-la-estacionalidad-ganadera-copan-la-faena-y-ceden-en-precios/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/11/corral.jpeg"
+    },
+    {
         "titulo": "Más kilos y mejor calidad de la carne: ¿qué animal necesita producir la ganadería argentina?",
         "url": "https://www.infocampo.com.ar/mas-kilos-y-mejor-calidad-de-la-carne-que-animal-necesita-producir-la-ganaderia-argentina/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/novillo-ganaderia-hacienda-.png"
@@ -12,7 +17,7 @@
     {
         "titulo": "Las dos caras del cerdo: mientras consumo y producción celebran récords, las granjas empiezan a sufrir",
         "url": "https://www.infocampo.com.ar/las-dos-caras-del-cerdo-mientras-consumo-y-produccion-celebran-records-las-granjas-empiezan-a-sufrir/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/12/cerdos-granja-porcina-senasa-1024x584.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/12/cerdos-granja-porcina-senasa-450x257.png"
     },
     {
         "titulo": "Los ovinos del Litoral y El Niño: las claves para proteger las majadas y evitar problemas sanitarios",
@@ -23,10 +28,5 @@
         "titulo": "VISEC: “Hay que integrarnos más producción e industria y no perder tiempo con roces innecesarios”",
         "url": "https://www.infocampo.com.ar/visec-hay-que-integrarnos-mas-produccion-e-industria-y-no-perder-tiempo-con-roces-innecesarios/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/razzetto-moyetta-castagnani-450x257.png"
-    },
-    {
-        "titulo": "Crece la inversión en genética: la temporada de remates marcó una fuerte suba de precios",
-        "url": "https://www.infocampo.com.ar/crece-la-inversion-en-genetica-la-temporada-de-remates-marco-una-fuerte-suba-de-precios/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/10/unnamed-4-1-450x257.jpg"
     }
 ]
