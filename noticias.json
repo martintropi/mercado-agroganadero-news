@@ -1,5 +1,10 @@
 [
     {
+        "titulo": "La carne argentina gana calidad en China: “Cada vez hay más consultas sobre animales terminados a grano”",
+        "url": "https://www.infocampo.com.ar/la-carne-argentina-gana-calidad-en-china-cada-vez-hay-mas-consultas-sobre-animales-terminados-a-grano/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/11/Pabellon-Argentine-Beef-6.jpg"
+    },
+    {
         "titulo": "La disputa por el VISEC: desde CRA no descartan recurrir a Defensa de la Competencia",
         "url": "https://www.infocampo.com.ar/la-disputa-por-el-visec-desde-cra-no-descartan-recurrir-a-defensa-de-la-competencia/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/IMG_0970-1024x584.jpg"
@@ -12,7 +17,7 @@
     {
         "titulo": "Más kilos y mejor calidad de la carne: ¿qué animal necesita producir la ganadería argentina?",
         "url": "https://www.infocampo.com.ar/mas-kilos-y-mejor-calidad-de-la-carne-que-animal-necesita-producir-la-ganaderia-argentina/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/novillo-ganaderia-hacienda-.png"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/novillo-ganaderia-hacienda--450x257.png"
     },
     {
         "titulo": "“Es un orgullo ver hasta dónde llegan nuestros animales”: la carne argentina sigue expandiéndose en China",
@@ -23,10 +28,5 @@
         "titulo": "Las dos caras del cerdo: mientras consumo y producción celebran récords, las granjas empiezan a sufrir",
         "url": "https://www.infocampo.com.ar/las-dos-caras-del-cerdo-mientras-consumo-y-produccion-celebran-records-las-granjas-empiezan-a-sufrir/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/12/cerdos-granja-porcina-senasa-450x257.png"
-    },
-    {
-        "titulo": "Los ovinos del Litoral y El Niño: las claves para proteger las majadas y evitar problemas sanitarios",
-        "url": "https://www.infocampo.com.ar/los-ovinos-del-litoral-y-el-nino-las-claves-para-proteger-las-majadas-y-evitar-problemas-sanitarios/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/11/majada-corrientes-1536x1027-1-450x257.jpg"
     }
 ]
