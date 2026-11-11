@@ -1,5 +1,15 @@
 [
     {
+        "titulo": "¿Se puede “entrenar” la inmunidad de los bovinos?: una nueva vía para mejorar la sanidad animal",
+        "url": "https://www.infocampo.com.ar/se-puede-entrenar-la-inmunidad-de-los-bovinos-una-nueva-via-para-mejorar-la-sanidad-animal/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/11/inmunidad.jpg"
+    },
+    {
+        "titulo": "Coronados de gloria: jóvenes ganaderos argentinos ganaron oro y plata en un concurso en Canadá",
+        "url": "https://www.infocampo.com.ar/coronados-de-gloria-jovenes-ganaderos-argentinos-ganaron-oro-y-plata-en-un-concurso-en-canada/",
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/11/jovenes-ganaderos-1024x584.png"
+    },
+    {
         "titulo": "La carne argentina gana calidad en China: “Cada vez hay más consultas sobre animales terminados a grano”",
         "url": "https://www.infocampo.com.ar/la-carne-argentina-gana-calidad-en-china-cada-vez-hay-mas-consultas-sobre-animales-terminados-a-grano/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/11/Pabellon-Argentine-Beef-6.jpg"
@@ -7,26 +17,16 @@
     {
         "titulo": "La disputa por el VISEC: desde CRA no descartan recurrir a Defensa de la Competencia",
         "url": "https://www.infocampo.com.ar/la-disputa-por-el-visec-desde-cra-no-descartan-recurrir-a-defensa-de-la-competencia/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/IMG_0970-1024x584.jpg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/05/IMG_0970-450x257.jpg"
     },
     {
         "titulo": "Los novillos también rompen la estacionalidad ganadera: “copan” la faena y ceden en precios",
         "url": "https://www.infocampo.com.ar/los-novillos-tambien-rompen-la-estacionalidad-ganadera-copan-la-faena-y-ceden-en-precios/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/11/corral.jpeg"
+        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/11/corral-450x257.jpeg"
     },
     {
         "titulo": "Más kilos y mejor calidad de la carne: ¿qué animal necesita producir la ganadería argentina?",
         "url": "https://www.infocampo.com.ar/mas-kilos-y-mejor-calidad-de-la-carne-que-animal-necesita-producir-la-ganaderia-argentina/",
         "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/03/novillo-ganaderia-hacienda--450x257.png"
-    },
-    {
-        "titulo": "“Es un orgullo ver hasta dónde llegan nuestros animales”: la carne argentina sigue expandiéndose en China",
-        "url": "https://www.infocampo.com.ar/es-un-orgullo-ver-hasta-donde-llegan-nuestros-animales-la-carne-argentina-sigue-expandiendose-en-china/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2026/11/NITH-2-12-450x257.jpeg"
-    },
-    {
-        "titulo": "Las dos caras del cerdo: mientras consumo y producción celebran récords, las granjas empiezan a sufrir",
-        "url": "https://www.infocampo.com.ar/las-dos-caras-del-cerdo-mientras-consumo-y-produccion-celebran-records-las-granjas-empiezan-a-sufrir/",
-        "imagen": "https://www.infocampo.com.ar/wp-content/uploads/2023/12/cerdos-granja-porcina-senasa-450x257.png"
     }
 ]
